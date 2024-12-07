@@ -15,6 +15,7 @@ section {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
+  font-size: 22px;
   color: var(--darkgray);
 }
 
@@ -606,4 +607,24 @@ iframe.pdf {
   height: 100%;
   width: 100%;
   border-radius: 5px;
+}
+
+.explorer,
+.sidebar {
+
+  p,
+  li {
+    text-align: left !important;
+  }
+
+  font-size: 18px !important;
+}
+
+iframe {
+  width: 100% !important;
+  height: 90vh;
+}
+
+footer {
+  display: none;
 }

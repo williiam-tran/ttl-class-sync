@@ -26,14 +26,14 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "Montserrat",
+        code: "Firacode",
       },
       colors: {
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
+          gray: "#a3a3a3",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#284b63",
@@ -81,7 +81,12 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts(), Plugin.ExplicitPublish()],
+    filters: [
+      Plugin.RemoveDrafts(),
+      Plugin.ExplicitPublish({
+        alwaysPublishExtensions: [".pdf", ".docx", ".doc", ".xlsx", ".xls", ".pptx", ".ppt"],
+      }),
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
