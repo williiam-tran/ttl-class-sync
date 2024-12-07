@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "ttl-class.williamtran.tech",
     ignorePatterns: ["private", "_templates", ".obsidian", "_Index*", "**/_Index*"],
     defaultDateType: "created",
     generateSocialImages: false,
