@@ -15,7 +15,7 @@ section {
     box-sizing: border-box;
     background-color: var(--light);
     font-family: var(--bodyFont);
-    font-size: 22px;
+    font-size: 18px;
     color: var(--darkgray);
     scrollbar-width: none !important;
 }
@@ -636,4 +636,45 @@ body:not(.native-scrollbars) * {
 
 .content-meta {
     color: #8f8f8f;
+}
+
+.article-title {
+    display: none;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+.callout[data-callout=example] {
+    --color: rgba(243, 114, 152, 0.925) !important;
+    --border: #7a43b544;
+    --bg: #7a43b510;
+    --callout-icon: var(--callout-icon-example);
+}
+
+
+.callout-title .callout-icon,
+.callout-title .fold-callout-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.callout-title {
+    font-size: 24px;
+}
+
+input[type=checkbox] {
+    border: 1px solid #9c9c9c !important;
+}
+
+
+.hltr-orange,
+mark.hltr-orange,
+.markdown-preview-view mark.hltr-orange {
+    background: #7d4b29;
+    padding-bottom: 4px;
+    padding-right: 2px;
+    padding-top: 1px;
 }

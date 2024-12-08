@@ -1,46 +1,53 @@
 .darkmode {
-  cursor: pointer;
-  padding: 0;
-  position: relative;
-  background: none;
-  border: none;
-  width: 20px;
-  height: 20px;
-  margin: 0 10px;
-  text-align: inherit;
+    cursor: pointer;
+    padding: 0;
+    position: fixed;
+    top: 2.3rem;
+    /* Spacing from top */
+    right: 1rem;
+    /* Spacing from right */
 
-  & svg {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: calc(50% - 10px);
-    fill: var(--darkgray);
-    transition: opacity 0.1s ease;
-  }
+    background: none;
+    border: none;
+    width: 24px;
+    height: 24px;
+    margin: 0 10px;
+    text-align: inherit;
+
+    & svg {
+        position: absolute;
+        width: 24px;
+        height: 24px;
+        top: calc(50% - 10px);
+        fill: var(--darkgray);
+        transition: opacity 0.1s ease;
+    }
 }
 
 :root[saved-theme="dark"] {
-  color-scheme: dark;
+    color-scheme: dark;
 }
 
 :root[saved-theme="light"] {
-  color-scheme: light;
+    color-scheme: light;
 }
 
 :root[saved-theme="dark"] .darkmode {
-  & > #dayIcon {
-    display: none;
-  }
-  & > #nightIcon {
-    display: inline;
-  }
+    &>#dayIcon {
+        display: none;
+    }
+
+    &>#nightIcon {
+        display: inline;
+    }
 }
 
 :root .darkmode {
-  & > #dayIcon {
-    display: inline;
-  }
-  & > #nightIcon {
-    display: none;
-  }
+    &>#dayIcon {
+        display: inline;
+    }
+
+    &>#nightIcon {
+        display: none;
+    }
 }
