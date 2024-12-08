@@ -76,12 +76,12 @@ I realized that simple words can make someone's day so I should reach out more t
 So, where are all this going? No where in particular. I am a bit teared up as I'm writing these lines. I don't think I have any emotional baggage but I do have a large spectrum of emotions. I attribute this sort of accomplishment to English. 
 
 Out of all the skills I've learned, learning English has been my ultimate cheat code. I see it as a bridge that connects me to any where, any souls across cultures.
-I still remember the first time I heard lyrics in a language not my mother tongue, yet they resonated on such a deep level. I had butterflies in my stomach, a sadness so profound that it wrenched my heart. That feeling when words echo straight to the heart, not the brain — it felt like discovering an entirely new part of myself. Then the new refreshing experiences kept flowing: breaking down in tears watching tv shows, giggling at random jokes in the comments, discovering beauty hidden between the lines, and having words spiralling out of my mind that I didn't know I possessed. 
+I still remember the first time I heard lyrics in a language not my mother tongue, yet they resonated on such a deep level. I had butterflies in my stomach, a sadness so profound that it wrenched my heart. That feeling when words echo straight to the heart, not the brain — it felt like discovering an entirely new part of myself. Then the new refreshing experiences kept flowing: breaking down in tears watching tv shows, giggling at random jokes in the comments, discovering beauty hidden **between the lines**, and having words spiralling out of my mind that I didn't know I possessed. 
 
 From the moment I can proudly claim English as my second language, I feel like I got a master key that unlock virtually every door. I've walked in the shoes of people from different corners of the world, sharing nothing but a common language, yet it was enough to foster both sympathy and empathy.
 
 Each conversation, each perspective shared, reshapes my understanding of the world. With the advent of the Internet, it's like having multiple lives in parallel: experiencing countless joys, struggles, triumphs, and so many unnamed emotions through the eyes of people I've never met. Truly a cheat code. 
-While this might seem commonplace to some, we fall into the category of those who weren't entitled to it. It upsets and frustrates me to see so many may forever remain ignorant of the potential of their growth had they known one more thing. 
+While this might seem commonplace to some, we fall into the category of those who weren't entitled to it. It upsets and frustrates me to see so many may forever remain ignorant of the potential of their growth **had they known** one more thing. 
 
 The foreign viewpoint that reduces a language to merely a subject exists only because they haven't witnessed its magic — how it can transform your outlook overnight. What they dismiss as "just English" is actually a portal to infinite glitches: to friendships that span continents, to knowledge that hasn't been translated or better yet translated into this most accessible language, to perspectives that challenge everything you know, to opportunities that others can't even see.
 
@@ -93,5 +93,5 @@ Okay, enough blabbering, I hope that you guys have caught some glimpse of my per
 
 ## What's Next?
 
-Now, you have familiarized yourself with the teachers. Let's move on to the class guidelines.
+Now, you have familiarized yourself with your teacher. Let's move on to the class guidelines.
 [[Weekly Routine]]
