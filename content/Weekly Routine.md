@@ -39,7 +39,7 @@ publish: true
 - [ ] Missed weekly assignment/quiz: 2 points each
 - [ ] Aforementioned weakness/issue: 2 points each
 
-## Penalties
+## Penalties & Rewards
 
 | **Point** | **Equivalence** |
 | --------- | --------------- |
