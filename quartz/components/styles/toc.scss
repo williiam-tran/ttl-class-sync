@@ -5,7 +5,8 @@
   flex-direction: column;
 
   &.desktop-only {
-    max-height: 40%;
+    max-height: 100%;
+    height: 100%;
   }
 }
 
@@ -46,7 +47,7 @@ button#toc {
   list-style: none;
   overflow: hidden;
   overflow-y: auto;
-  max-height: 100%;
+  height: 100%;
   transition:
     max-height 0.35s ease,
     visibility 0s linear 0s;
@@ -61,7 +62,7 @@ button#toc {
     visibility: hidden;
   }
 
-  &.collapsed > .overflow::after {
+  &.collapsed>.overflow::after {
     opacity: 0;
   }
 
@@ -69,19 +70,23 @@ button#toc {
     list-style: none;
     margin: 0.5rem 0;
     padding: 0;
-    & > li > a {
+
+    &>li>a {
       color: var(--dark);
       opacity: 0.35;
       transition:
         0.5s ease opacity,
         0.3s ease color;
+
       &.in-view {
         opacity: 0.75;
       }
     }
   }
-  > ul.overflow {
+
+  >ul.overflow {
     max-height: none;
+    scrollbar-width: none !important;
     width: 100%;
   }
 
