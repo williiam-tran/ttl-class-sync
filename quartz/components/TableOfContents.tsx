@@ -24,6 +24,11 @@ const TableOfContents: QuartzComponent = ({
     return null
   }
 
+  const parseHighlightedText = (text: string) => {
+    // Remove highlight spans and extract just the text content
+    return text.replace(/<span class="text-highlight">(.*?)<\/span>/g, "$1")
+  }
+
   return (
     <div class={classNames(displayClass, "toc")}>
       <button
@@ -54,7 +59,7 @@ const TableOfContents: QuartzComponent = ({
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
               <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
-                {tocEntry.text}
+                {parseHighlightedText(tocEntry.text)}
               </a>
             </li>
           ))}
@@ -70,6 +75,11 @@ const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzCompone
   if (!fileData.toc) {
     return null
   }
+
+  const parseHighlightedText = (text: string) => {
+    return text.replace(/<span class="text-highlight">(.*?)<\/span>/g, "$1")
+  }
+
   return (
     <details id="toc" open={!fileData.collapseToc}>
       <summary>
@@ -79,7 +89,7 @@ const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzCompone
         {fileData.toc.map((tocEntry) => (
           <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
             <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
-              {tocEntry.text}
+              {parseHighlightedText(tocEntry.text)}
             </a>
           </li>
         ))}

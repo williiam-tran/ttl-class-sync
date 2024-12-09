@@ -1,1 +1,0 @@
-https://leananki.com/how-to-use-anki-tutorial/

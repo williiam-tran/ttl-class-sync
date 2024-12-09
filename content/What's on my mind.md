@@ -1,1 +1,0 @@
-![[../../../../Resources/What's on my mind-20241208183539900.webp]]
