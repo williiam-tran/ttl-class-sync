@@ -386,7 +386,7 @@ Anki eliminates the non-value-adding activity called “scheduling your reviews 
 
 But do NOT, by any means, expect that it’s a magic pill that will make you remember anything without skill and work ethic.
 
-## What's Next?
+# What's Next?
 
 - Download AnkiCollab addon [🌐 AnkiCollab](https://ankiweb.net/shared/info/1957538407)
 - Sign up account on AnkiCollab and subscriber to your deck: 

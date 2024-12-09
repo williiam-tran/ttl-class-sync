@@ -52,8 +52,7 @@ publish: true
 | -4        | - 200.000 đ     |
 | -5        | - 500.000 đ     |
 
-## What's Next
+# What's Next
 
 - Your next task this week - [[Anki/Getting Started|Getting Started]]
 	- [ ] Make sure you understand Anki philosophy and note down all the new words.
-- Further updates will be made later, teacher's to go to sleep first.
