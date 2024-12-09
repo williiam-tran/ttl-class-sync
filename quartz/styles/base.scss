@@ -531,7 +531,7 @@ tr {
 }
 
 img {
-    max-width: 100%;
+    max-width: 300px;
     border-radius: 5px;
     margin: 1rem 0;
 }
@@ -701,4 +701,8 @@ a.external {
     padding: 0 .1rem;
     line-height: 1.4rem;
     text-decoration: none;
+}
+
+a {
+    color: #a8dfff;
 }
