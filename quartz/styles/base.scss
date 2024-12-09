@@ -21,8 +21,9 @@ section {
 }
 
 .text-highlight {
-    background-color: var(--textHighlight);
-    padding: 0 0.1rem;
+    background-color: rgba(77, 168, 180, 0.66);
+    color: white;
+    padding: 0 0.5rem;
     border-radius: 5px;
 }
 

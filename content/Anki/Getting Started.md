@@ -390,4 +390,4 @@ But do NOT, by any means, expect that it’s a magic pill that will make you rem
 
 - Download AnkiCollab addon [🌐 AnkiCollab](https://ankiweb.net/shared/info/1957538407)
 - Sign up account on AnkiCollab and subscriber to your deck: 
-	[[Setup Subscriber | Setup Subscriber to Your Personalized Deck]]
+[[Setup Subscriber | Setup Subscriber to Your Personalized Deck]]
