@@ -7,7 +7,7 @@ publish: true
 
 - [ ] Daily check-in on Duolingo
 	- Complete at least all daily quests (3 quests)
-	![[Pasted image 20241209202044.png]]
+	![[Pasted image 20241209202044.png | 300x1000]]
 - [ ] Daily study session on Anki 
 	- You will have 2 decks: one made by the teacher, and one you made yourself.
 	- Each session will have at least 20 words from both deck, concluded only after you are certain **all words are at Easy level.**

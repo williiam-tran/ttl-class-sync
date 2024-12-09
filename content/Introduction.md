@@ -1,4 +1,5 @@
 ---
+title: Introduction
 publish: true
 ---
 
@@ -54,7 +55,6 @@ I traveled with my class a lot, even by plane once, to many provinces in Vietnam
 
 From what I can recall, everyone was innocent and carefree in a sense, embracing every passing moment without the slightest care in the world. The inquiry of what would become of us, or what our hopes and dreams for the future were, never crossed our daily **train of thought**. Yet I'm certain they will become the brightest people I know; some already are, and they're on the brink of refining their identities.
 I still remember that feeling, vaguely - the way dreaming came as naturally as breathing. Now I remember someone gave us a name: 🌱Lámer 
-
 For me, high school was when the seed of my fantasies and aspirations was planted, and the mold of my true self was finalized, all stemming from those naive and untroubled experiences. None of what will be **could have happened** without those everlasting moments we accumulated, when we could afford to be dreamers. Those precious times shaped our dreams and aspirations, allowing us to envision a future filled with endless possibilities.
 
 The fact that I love to play doesn't mean I hate learning. On the contrary, my passion and curiosity for everything I do are inherently linked to my playful nature.
@@ -83,7 +83,6 @@ I still remember the first time I heard lyrics in a language not my mother tongu
 From the moment I can proudly claim English as my second language, I feel like I got a master key that unlock virtually every door. I've walked in the shoes of people from different corners of the world, sharing nothing but a common language, yet it was enough to foster both sympathy and empathy.
 
 Each conversation, each perspective shared, reshapes my understanding of the world. With the advent of the Internet, it's like having multiple lives in parallel: experiencing countless joys, struggles, triumphs, and so many unnamed emotions through the eyes of people I've never met. Truly a cheat code. 
-
 While this might seem commonplace to some, we fall into the category of those who weren't entitled to it. It upsets and frustrates me to see so many may forever remain ignorant of the potential of their growth had they known one more thing. 
 
 The foreign viewpoint that reduces a language to merely a subject exists only because they haven't witnessed its magic — how it can transform your outlook overnight. What they dismiss as "just English" is actually a portal to infinite glitches: to friendships that span continents, to knowledge that hasn't been translated or better yet translated into this most accessible language, to perspectives that challenge everything you know, to opportunities that others can't even see.
@@ -96,5 +95,4 @@ Okay, enough blabbering, I hope that you guys have caught some glimpse of my per
 # What's Next?
 
 Now, you have familiarized yourself with the teachers. Let's move on to the class guidelines.
-
-- [[Weekly Routine]]
+- [[Weekly Routine]] 
