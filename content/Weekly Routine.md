@@ -7,7 +7,7 @@ publish: true
 
 - [ ] Daily check-in on Duolingo
 	- Complete at least all daily quests (3 quests)
-	![[Pasted image 20241209202044.png | 300x1000]]
+	![[Pasted image 20241209215850.webp | 400 x 1000]]
 - [ ] Daily study session on Anki 
 	- You will have 2 decks: one made by the teacher, and one you made yourself.
 	- Each session will have at least 20 words from both deck, concluded only after you are certain **all words are at Easy level.**
@@ -29,7 +29,7 @@ publish: true
 	- Streak of 3: 1 point
 	- Streak of 5: 2 points 
 	- Streak of 7: 3 points
-		![[Resources/Pasted image 20241209052236.webp|200]]
+		![[Resources/Pasted image 20241209052236.webp| 400x1000]]
 - [ ] Grade above 80% - 2 points
 ## Deductions
 - [ ] Missed attendance: 1 point
@@ -53,4 +53,4 @@ publish: true
 # What's Next
 
 - Your next task this week - [[Anki/Getting Started|Getting Started]]
-	- [ ] Make sure you understand Anki philosophy and note down all the new words.
+	- [ ] Make sure you understand Anki philosophy and note down all the new words.test: THPT-2024

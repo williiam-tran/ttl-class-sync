@@ -1,4 +1,7 @@
 ---
+test: THPT-2024
+aliases:
+  - ttl class
 publish: true
 ---
 
@@ -176,6 +179,11 @@ publish: true
 - dispassionate
 - put aside
 - lest = in order to
+- be exemplary
+- concentration
+- dilligence
+- interpretation
+- the day is young
 
 
 
