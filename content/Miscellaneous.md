@@ -1,7 +1,4 @@
 ---
-test: THPT-2024
-aliases:
-  - ttl class
 publish: true
 ---
 
