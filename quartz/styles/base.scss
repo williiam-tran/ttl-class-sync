@@ -730,7 +730,8 @@ a.external {
     //     font-style: normal;
     // }
 
-    h1 {
+    h1,
+    h3 {
         color: #e6b72c !important;
     }
 
@@ -738,16 +739,20 @@ a.external {
         border-left: 3px solid #4cabc2;
     }
 
+
+    .folder-title,
+    .breadcrumb-element a {
+        color: #2293e0 !important;
+
+    }
+
     strong {
         color: #08add4 !important;
     }
 
+    .folder-button a,
     .breadcrumb-container a {
         font-size: 20px;
-    }
-
-    a {
-        color: #2293e0 !important;
     }
 
     a.internal,
