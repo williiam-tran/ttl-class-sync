@@ -55,6 +55,7 @@ I traveled with my class a lot, even by plane once, to many provinces in Vietnam
 
 From what I can recall, everyone was innocent and carefree in a sense, embracing every passing moment without the slightest care in the world. The inquiry of what would become of us, or what our hopes and dreams for the future were, never crossed our daily **train of thought**. Yet I'm certain they will become the brightest people I know; some already are, and they're on the brink of refining their identities.
 I still remember that feeling, vaguely - the way dreaming came as naturally as breathing. Now I remember someone gave us a name: 🌱Lámer 
+
 For me, high school was when the seed of my fantasies and aspirations was planted, and the mold of my true self was finalized, all stemming from those naive and untroubled experiences. None of what will be **could have happened** without those everlasting moments we accumulated, when we could afford to be dreamers. Those precious times shaped our dreams and aspirations, allowing us to envision a future filled with endless possibilities.
 
 The fact that I love to play doesn't mean I hate learning. On the contrary, my passion and curiosity for everything I do are inherently linked to my playful nature.
@@ -69,9 +70,10 @@ Back then, my mother brought up the idea that I should take on teaching as a pro
 I often tell my students about my own teachers,  who put me on the right track even when I had strayed far from it. That fact never mattered to them. I owe a great deal to my life sabers for guiding me back during times I needed it most, even without me realizing it at the time. 
 I realize that many kids would have been a lot better off **had they met** the teachers I once had, those who have the most unconventional methods that I can only fathom now.
 I didn't ever thank them properly, but well, better late than never. This Teachers' Day, I did reach out to my math teacher, a bit cringed, but i still want to share:
-![[Pasted image 20241209011157.webp | 300]]
+	![[Pasted image 20241209011157.webp | 300]]
 
 We had a brief conversation, and he still remembered me vividly, even though it had been years since we last met, and he had had a hoard of students.
+
 I realized that simple words can make someone's day so I should reach out more to people I care about. He made my day and I hope I also made his.
 
 So, where are all this going? No where in particular. I am a bit teared up as I'm writing these lines. I don't think I have any emotional baggage but I do have a large spectrum of emotions. I attribute this sort of accomplishment to English. 
@@ -83,6 +85,7 @@ I still remember the first time I heard lyrics in a language not my mother tongu
 From the moment I can proudly claim English as my second language, I feel like I got a master key that unlock virtually every door. I've walked in the shoes of people from different corners of the world, sharing nothing but a common language, yet it was enough to foster both sympathy and empathy.
 
 Each conversation, each perspective shared, reshapes my understanding of the world. With the advent of the Internet, it's like having multiple lives in parallel: experiencing countless joys, struggles, triumphs, and so many unnamed emotions through the eyes of people I've never met. Truly a cheat code. 
+
 While this might seem commonplace to some, we fall into the category of those who weren't entitled to it. It upsets and frustrates me to see so many may forever remain ignorant of the potential of their growth had they known one more thing. 
 
 The foreign viewpoint that reduces a language to merely a subject exists only because they haven't witnessed its magic — how it can transform your outlook overnight. What they dismiss as "just English" is actually a portal to infinite glitches: to friendships that span continents, to knowledge that hasn't been translated or better yet translated into this most accessible language, to perspectives that challenge everything you know, to opportunities that others can't even see.
