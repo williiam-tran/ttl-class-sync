@@ -93,6 +93,7 @@ The foreign viewpoint that reduces a language to merely a subject exists only be
 That's why I like teaching now. Even though I'm still learning, I feel like I've got a lot to share. Knowledge isn't meant to be hoarded like treasure — it's meant to flow freely, like water. I've been fortunate enough to stumble upon this cheat code, and it would be selfish to keep its power to myself.
 
 Okay, enough blabbering, I hope that you guys have caught some glimpse of my perspective and kudos to you for reaching here! 
+
 수고했어요. 나도.
 
 # What's Next?
