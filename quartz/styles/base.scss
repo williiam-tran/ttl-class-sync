@@ -686,6 +686,11 @@ th,
 td,
 tr {
     padding: 10px !important;
+    border: 1px solid var(--dark) !important;
+}
+
+tr {
+    border-color: var(--dark) !important;
 }
 
 a.internal,
