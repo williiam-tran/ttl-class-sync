@@ -380,7 +380,7 @@ But my advice, from experience, is to look at efficiency a different way:
 
 ### Instead of ==adding tools==, think about ==eliminating wastes==.
 
-That’s the purpose of tools in the first place — to help us eliminate effort that isn’t adding any value or not leading us closer to our goal.
+That’s the purpose of ==tools== in the first place — to help us eliminate effort that isn’t adding any value or not leading us closer to our goal.
 
 Anki eliminates the non-value-adding activity called “scheduling your reviews and worrying about whether you need to review each item today or not.” (Yeah, that’s a mouthful)
 
