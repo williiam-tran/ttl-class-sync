@@ -703,6 +703,7 @@ a.external {
     text-decoration: none;
 }
 
-a {
-    color: #a8dfff;
+.breadcrumb-element a,
+.folder-title {
+    color: #9bcdeb !important;
 }
