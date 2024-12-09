@@ -709,7 +709,57 @@ a.external {
     text-decoration: none;
 }
 
+.hltr-red {
+    font-weight: bold;
+    padding: 0.1rem;
+}
+
 .breadcrumb-element a,
 .folder-title {
     color: #9bcdeb !important;
+}
+
+
+:root[saved-theme=light] {
+
+    p,
+    li,
+    ul,
+    td {
+        font-weight: 800;
+    }
+
+    h1 {
+        color: #e6b72c !important;
+    }
+
+    blockquote {
+        border-left: 3px solid #4cabc2;
+    }
+
+    strong {
+        color: #08add4 !important;
+    }
+
+    .breadcrumb-container a {
+        font-size: 20px;
+    }
+
+    a {
+        color: #2293e0 !important;
+    }
+
+    a.internal,
+    a.external {
+        background-color: #66a7d4;
+        color: white !important;
+        border-radius: 6px;
+        padding: 0 .3rem;
+        text-decoration: none;
+    }
+
+    a.internal:hover {
+        background-color: #1e6696;
+        color: white !important;
+    }
 }

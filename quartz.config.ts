@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           lightgray: "#e5e5e5",
           gray: "#a3a3a3",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
+          dark: "black",
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
@@ -69,7 +69,7 @@ const config: QuartzConfig = {
       }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
+          light: "catppuccin-latte",
           dark: "github-dark",
         },
         keepBackground: false,
