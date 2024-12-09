@@ -53,4 +53,4 @@ publish: true
 # What's Next
 
 - Your next task this week - [[Anki/Getting Started|Getting Started]]
-	- [ ] Make sure you understand Anki philosophy and note down all the new words.test: THPT-2024
+	- [ ] Make sure you understand Anki philosophy and note down all the new words.
