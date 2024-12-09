@@ -1,0 +1,29 @@
+{
+    "canvas": {
+        "course_mappings": {
+            "TTL Class": {
+                "course_id": "10789406",
+                "base_path": "English/Tutoring/TTL Class"
+            }
+        },
+        "sync_settings": {
+            "auto_sync_interval": 30,
+            "sync_on_file_change": true,
+            "create_assignments_from_sessions": true
+        },
+        "templates": {
+            "assignment_description": "Session notes and progress tracking for {{date}}.\n\n## Focus Areas:\n{{focus_areas}}\n\n## Progress Notes:\n{{progress_notes}}",
+            "feedback_template": "Progress Update:\n{{progress_notes}}\n\nNext Steps:\n{{next_focus}}"
+        }
+    },
+    "obsidian": {
+        "vault_path": "F:\\Studycorner\\Obsidian\\Knowledge Base\\Languages\\",
+        "templates_path": "English/Tutoring/TTL Class/_templates",
+        "students": {
+            "minitung": {
+                "canvas_user_id": "114580617",
+                "level": "beginner"
+            }
+        }
+    }
+}
