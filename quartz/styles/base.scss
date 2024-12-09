@@ -688,6 +688,12 @@ tr {
     padding: 10px !important;
 }
 
-a.internal {
+a.internal,
+a.external {
+    background-color: var(--highlight);
     color: #a8dfff;
+    border-radius: 5px;
+    padding: 0 .1rem;
+    line-height: 1.4rem;
+    text-decoration: none;
 }
