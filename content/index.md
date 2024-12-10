@@ -162,5 +162,5 @@ Okay, enough blabbering, I hope that you guys have caught some glimpse of my per
 
 # What's Next?
 
-Now, you have familiarized yourself with the teachers. Let's move on to the class guidelines.
+Now, you have familiarized yourself with your teacher. Let's move on to the class guidelines.
 - [[Weekly Routine]] 
