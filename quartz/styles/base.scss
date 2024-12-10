@@ -9,6 +9,11 @@ html {
     width: 100vw;
 }
 
+
+a[role="anchor"] {
+    display: none !important;
+}
+
 body,
 section {
     margin: 0;
@@ -20,6 +25,12 @@ section {
     scrollbar-width: none !important;
 }
 
+.text-highlight {
+    color: #e8e8e8 !important;
+    background-color: #44b0be7a !important;
+    border-radius: 5px;
+    padding: 0 .5rem;
+}
 
 body:not(.default-font-color) span:not(.cm-highlight).cm-em,
 em {
@@ -34,6 +45,11 @@ body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
     color: #8bcbda !important;
     background-color: #283b42db !important;
 }
+
+#explorer * {
+    color: #9bcdeb;
+}
+
 
 .text-highlight {
     background-color: rgba(77, 168, 180, 0.66);
@@ -342,14 +358,19 @@ input[type="checkbox"] {
 }
 
 blockquote {
-    p {
-        color: #c7d6dbc9;
-    }
-
     margin: 1rem 0;
     border-left: 3px solid var(--secondary);
     padding-left: 1rem;
     transition: border-color 0.2s ease;
+}
+
+:root[saved-theme=dark] {
+    blockquote {
+        p {
+            color: #c7d6dbc9;
+        }
+
+    }
 }
 
 h1,
@@ -774,13 +795,23 @@ a.external {
     //     font-style: normal;
     // }
     em {
-        font-weight: bold;
-        background-color: #ffe9fccc;
+        background-color: #ffe9fccc !important;
+        color: #eaa6c1 !important;
+    }
+
+    .text-highlight {
+        background-color: #008698a8 !important;
+        color: white !important;
     }
 
     h1,
     h3 {
         color: #e6b72c !important;
+    }
+
+    h1 {
+        font-size: 2rem;
+        text-align: center !important;
     }
 
     blockquote {
@@ -796,7 +827,7 @@ a.external {
 
     strong {
         color: #08add4 !important;
-        background-color: #d9f7ffcc;
+        background-color: #d9f7ffcc !important;
     }
 
     .folder-button a,
@@ -804,9 +835,6 @@ a.external {
         font-size: 20px;
     }
 
-    a[role="anchor"] {
-        display: none;
-    }
 
     a.internal,
     a.external {
@@ -820,5 +848,13 @@ a.external {
     a.internal:hover {
         background-color: #1e6696;
         color: white !important;
+    }
+
+
+    .callout[data-callout=example] {
+        --color: rgba(243, 114, 152, 0.925) !important;
+        --border: #7a43b544;
+        --bg: #7a43b510;
+        --callout-icon: var(--callout-icon-example);
     }
 }
