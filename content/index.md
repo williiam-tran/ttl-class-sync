@@ -51,12 +51,13 @@ No need to delve further...
 I called this period *"The Storm After The Storm."* A got-away-with-it-somehow spoiled brat in the top class of the top school in my hometown.
 
 The school wasn't too far from my house, but it was still far enough for a spoiled kid to go on his own, and my parents couldn't drop me off.
-Therefore, I got this uncalled-for luxury of going to school by taxi—yep, a taxi, with my neighborhood friends. Truly a story to be be bragging about, for bourgeois families.
+Therefore, I got this uncalled-for luxury of going to school by taxi—yep, a taxi, with my neighborhood friends. Truly a story to be bragging about, for bourgeois families.
 
 The academic life went south from here 😅 as the impulsive desires got the better of me. I skipped classes more than I skipped meals.
-I would told the driver to stop by the net on the way to school =))) and he would happily do so, since he is paid. Not my kid, not my problem 😂😂 Gotta respect that attitude though. Had a lot of fun and a lot of bad grades...
 
-I formed bonds with most of my closest friends here with the most unfiltered, raw, and rough version of myself, and the same goes for them. These relationships I believe will stay unstained, growing stronger yet unaffected by time and distance.
+I would told the driver to stop by the net on the way to school =))) and he would happily do so, since he was paid. Not my kid, not my problem 😂😂 Gotta respect that attitude though. Had a lot of fun and a lot of bad grades...
+
+I formed bonds with most of my closest friends here with the most unfiltered, raw, and rough version of myself, and the same goes for them. These low-maintenance relationships I believe will stay unstained, growing stronger yet unaffected by time and distance.
 
 We were in the best, and also the wealthiest, class. We could go on weekend trips if any of the rich parents were happy that their kid scored a 10. A local prize would almost guarantee a trip, and a national one!? We’d have back-to-back class holidays! Without spending a dime.
 

@@ -22,6 +22,7 @@ section {
     font-family: var(--bodyFont);
     font-size: 18px;
     color: var(--darkgray);
+    --tertiary: #9cecff;
     scrollbar-width: none !important;
 }
 
@@ -367,7 +368,7 @@ blockquote {
 :root[saved-theme=dark] {
     blockquote {
         p {
-            color: #c7d6dbc9;
+            // color: #c7d6dbc9;
         }
 
     }
@@ -689,6 +690,7 @@ blockquote {
     font-style: italic;
 }
 
+
 .callout[data-callout=example] {
     --color: rgba(243, 114, 152, 0.925) !important;
     --border: #7a43b544;
@@ -772,6 +774,7 @@ a.external {
         font-family: var(--bodyFont);
         font-size: 18px;
         color: var(--darkgray);
+        --tertiary: #00a3c9;
         scrollbar-width: none !important;
     }
 
@@ -781,6 +784,12 @@ a.external {
 
     #toc * {
         color: #e6b72c !important
+    }
+
+    #toc {
+        a:hover {
+            color: #2293e0 !important;
+        }
     }
 
     p {

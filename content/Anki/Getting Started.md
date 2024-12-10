@@ -25,7 +25,7 @@ Now, this guide exists because I believe you just need to learn the few core inf
 > You don’t start driving a car by studying the ENTIRE manual. You only need to get better at using the ESSENTIAL controls to be able to start driving it.
 
 
-## Real Talk: What ==is== Anki? How does it work?
+## Real Talk: What is Anki? How does it work?
 
 As you may know, Anki is an open-source flashcard app that uses [spaced repetition](https://www.gwern.net/Spaced-repetition) algorithms to help you *prevent natural forgetting*.
 
@@ -378,9 +378,9 @@ There’s always a sense of “wonder” in exploring new tools especially when 
 
 But my advice, from experience, is to look at efficiency a different way:
 
-### Instead of ==adding tools==, think about ==eliminating wastes==.
+### Instead of ==adding tools==, think about ==eliminating wastes.==
 
-That’s the purpose of ==tools== in the first place — to help us eliminate effort that isn’t adding any value or not leading us closer to our goal.
+That’s the purpose of tools in the first place — to help us eliminate effort that isn’t adding any value or not leading us closer to our goal.
 
 Anki eliminates the non-value-adding activity called “scheduling your reviews and worrying about whether you need to review each item today or not.” (Yeah, that’s a mouthful)
 
