@@ -23,14 +23,34 @@ So, to mark the commencement of our learning endeavor, here are your first tasks
 
 <mark class="hltr-orange">⚠️Note</mark>  Minus 1 point for each vocabulary word you miss if asked. Missing means that you haven't noted it yet.
 
- # Autobiography
- 
+# Autobiography
+People often tell me how "a normal person" would behave differently than I do, so I guess it's only reasonable that my school life wasn't typical either, lol.
+
+Compared to my peers, I didn't study as much, playing most of the time and often doing the bare minimum or finding unconventional shortcuts to keep pace with them. But lucky me, the so-called "peers" were all geniuses, so I got put in place a lot. Even if I fooled around, the baseline level of effort to keep up helped me pass almost every important test entry.
+
+## Primary School
+
+This period was what I called the "My Dark Era," a time filled with confusion, no self-awareness, and restraint. 
+
+I was a perfect role model student and a bully. I was just too smart for my own good, as I excelled at anything I picked up. People's attention and praise probably took a heavy toll on me, but that was no excuse.
+Maybe subtle blame for uncontrollable primal human instincts —aggression, violence, and the desperate need for validation and attention from others. 😏
+
+No need to delve into this dark era...
+## Secondary School
+
+I called this period "The storm after the storm". A got-away-with-it-somehow spoiled brat in the top class of the top school at my hometown.
+
+The school wasn't too far from my house, but it was still far enough for a kid to go on his own, and my parents couldn't drop me off.
+So I got this uncalled-for privilege of going to school by taxi—yep, a taxi, with my neighborhood friends. Truly a story to be be bragging about.
+
+The academic life went south from here 😅, I would told the driver to stop by the net =))) and he would happily do so, since he is paid. Not my kid, not my problem 😂😂 Gotta respect that attitude though.
+
+Drooling...
+
+## High School
 Getting into Lam Son has been my most significant cornerstone so far, though I didn’t realize it, only until recently. 
 
 It's not because of the school's prestige or education (which, in and of itself, is remarkable) but because of the people who changed me for the better, for good.
-
-People often tell me how "a normal person" would behave differently than I do, so I guess it's only reasonable that my school life wasn't typical either, lol.
-Compared to my high school peers, I didn't study as much, often doing the bare minimum or finding shortcuts to keep pace with them.
 
 My typical day would start like this: 
 > I'd wake up late and rush to school, couldn't make it on time, so I'd think, "screw it," and go buy breakfast with extra, extra toppings, leisurely enjoying every bite. 
@@ -50,10 +70,9 @@ The daily inquiries were rather simple:
 
 The educational autonomy level was high, along with a hefty budget. We had the freedom to decide how to spend our time, with a monthly salary of more than a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. To put it simply, the policy was: 
 > *If you wanted to play, play. If you wanted to learn, learn.* 
-
 By all means, that was the best thing since sliced bread for me.
 
-So, I got the habit of playing truant then since the regulations are so flexible and open. You have to decide what's next for you; the temptation level is off the chart for a student, you see.
+I got the habit of playing truant then since the regulations are so flexible and open. You have to decide what's next for you; the temptation level is off the chart for a student, you see.
 
 I could attend only two lessons in the morning, go to "quán net" to play video games, skip the afternoon lecture, and go to the coffee shop with my friends, who would skip with me. I did this a lot, with leading repercussions, of course... Still, I am lucky enough to have many friends of the same frequency who would do silly things with me and make so much memories, yet I could recount them like the back of my hand. 
 
@@ -61,33 +80,22 @@ I traveled with my class a lot, even by plane once, to many provinces in Vietnam
 
 We had a 65' touchscreen TV, JBL Speakers, and lots of mics 🎤🎤🎤.
 Every day was karaoke day, with occasional movie sessions. 
-We all shared the same music taste. We could jam to the beat forever, do headbang and pull off dance covers. 
-That's probably why I still love karaoke so much. Even though it's never quite the same now, the experience always brings back those core memories subconsciously. Nostalgia is my enemy 🥺😢
+We all shared the same music taste and could jam to the beat forever, do headbang and even pull off dance covers. 
+That's probably why I still love karaoke so much. Even though it's never quite the same now, the experience always brings back those core memories subconsciously in the best way. Nostalgia hits hard 🥺😢
 
 From what I can recall, everyone was innocent and carefree in a sense, embracing every passing moment without the slightest care in the world. The inquiry of what would become of us, or what our hopes and dreams for the future were, never crossed our daily **train of thought**. Yet I'm certain they will become the brightest people I know; some already are and are on the brink of refining their identities.
-I still remember that feeling, vaguely - the way dreaming came as naturally as breathing. Now I remember someone gave us a name: 🌱Lámer.
 
-For me, high school was when the seed of my fantasies and aspirations was planted, and the mold of my true self was finalized, all stemming from those naive and untroubled experiences. None of what will be **could have happened** without those everlasting moments that we accumulated, when we could afford to be dreamers. Those precious times shaped our dreams and aspirations, allowing us to envision a future filled with endless possibilities.
+I can still remember that feeling, vaguely - the way dreaming came as naturally as breathing. Just now, I remember someone from those days gave us a name: 🌱Lámer.
 
-The fact that I love to play doesn't mean I hate learning. On the contrary, my passion and curiosity for everything I do are inherently linked to my playful nature.
-I always do things simply because I can, not because I'm asked or forced to. 
-My friends see me and ask me "Why?" a lot, but I prefer the question "Why not?".
-My actions need no motives - I just do things for the sake of doing them. Even now, I follow my heart's desires, unbounded by conventional pragmatism and stereotypes.
+For me, high school was when the seed of my fantasies and aspirations was planted, and the mold of my true self was finalized, all stemming from those naive and untroubled experiences. None of what I have achieved, or will achieve, **could have happened** without those everlasting moments when we could afford to be dreamers. Those fleeting, precious  days shaped our dreams and aspirations, allowing us to envision a future filled with endless possibilities.
 
-I realized some time ago that my privileges were out of this world, and I wouldn't trade them for anything. Now, I see them as something I **have to bear** on my shoulders, my responsibilities. The spark of life 🌟I received should be passed down, not because I must or should, but because I want to, sincerely.
+I realized some time ago that my privileges should not be taken for granted, and I wouldn't trade them for anything. Now, I see them as something I **have to bear** on my shoulders, my responsibilities. The spark of life 🌟I received should be passed down, not because I must or should, but because I want to, sincerely.
 
 Back then, my mother brought up the idea that I should take on teaching as a profession. I used to despise that so much, claiming I hated teaching without any real reason — I still don't know why I said that. Ironically enough, I started tutoring in 12th grade lol, and now I'm having 2 classes, so with hindsight, my mom was quite a prophet, right?
 
 I often tell my students about my own teachers,  who put me on the right track even when I had strayed far from it. That fact never mattered to them. I owe a great deal to my life sabers for guiding me back during times I needed it most, even without me realizing it at the time. 
 
 I realize that many kids would have been a lot better off **had they met** the teachers I once had, those who have the most unconventional methods that I can only fathom now.
-
-I didn't ever thank them properly, but well, better late than never. This Teachers' Day, I did reach out to my math teacher, a bit cringed, but i still want to share:
-	![[Pasted image 20241209011157.webp | 400 ]]
-
-We had a brief conversation, and he still remembered me vividly, even though it had been years since we last met, and he had had a hoard of students.
-
-I realized that simple words can make someone's day so I should reach out more to people I care about. He made my day and I hope I also made his.
 
 So, where are all this going? No where in particular. I am a bit teared up as I'm writing these lines. I don't think I have any emotional baggage but I do have a large spectrum of emotions. I attribute this sort of accomplishment to English. 
 
