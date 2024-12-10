@@ -73,6 +73,7 @@ publish: true
 - [ ] get credit for
 - [ ] out of nowhere
 - [ ] facilitate
+- [ ] estimate
 
 ### Truc Linh
 - [ ] in the blink of an eye

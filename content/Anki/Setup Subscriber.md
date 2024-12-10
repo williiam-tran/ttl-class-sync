@@ -11,11 +11,11 @@ The key will be a series of words separated by dashes. Example:
 pip-item-hawaii-skylark-network-rugby
 ```
 
-| **Student** |        **Subscription** **Key**        |
-| :---------: | :------------------------------------: |
-|  ==Thanh==  | echo-triple-fifteen-jig-jupiter-winner |
-|  ==TLinh==  |  gee-floor-fifteen-jig-jupiter-winner  |
-|  ==Trung==  | item-victor-fifteen-jig-jupiter-winner |
+| **Student** |         **Subscription** **Key**         |
+| :---------: | :--------------------------------------: |
+|  ==Thanh==  | `echo-triple-fifteen-jig-jupiter-winne`  |
+|  ==TLinh==  |  `gee-floor-fifteen-jig-jupiter-winner`  |
+|  ==Trung==  | `item-victor-fifteen-jig-jupiter-winner` |
 
 
 ## Video Guide

@@ -15,9 +15,24 @@ section {
     box-sizing: border-box;
     background-color: var(--light);
     font-family: var(--bodyFont);
-    font-size: 16px;
+    font-size: 18px;
     color: var(--darkgray);
     scrollbar-width: none !important;
+}
+
+
+body:not(.default-font-color) span:not(.cm-highlight).cm-em,
+em {
+    color: #eaa6c1 !important;
+    background-color: #3a2a38db !important;
+    font-weight: bold !important;
+}
+
+
+body:not(.default-font-color) strong,
+body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
+    color: #8bcbda !important;
+    background-color: #283b42db !important;
 }
 
 .text-highlight {
@@ -327,6 +342,10 @@ input[type="checkbox"] {
 }
 
 blockquote {
+    p {
+        color: #c7d6dbc9;
+    }
+
     margin: 1rem 0;
     border-left: 3px solid var(--secondary);
     padding-left: 1rem;
@@ -676,10 +695,12 @@ input[type=checkbox] {
 .hltr-orange,
 mark.hltr-orange,
 .markdown-preview-view mark.hltr-orange {
-    background: #7d4b29;
-    padding-bottom: 4px;
-    padding-right: 2px;
+    background: #dba642 !important;
+    color: #fff7cc !important;
+    font-weight: 800;
     padding-top: 1px;
+    padding-bottom: 4px;
+    padding-right: 3px;
 }
 
 th {
@@ -704,8 +725,8 @@ a.external {
     background-color: var(--highlight);
     color: #a8dfff;
     border-radius: 5px;
-    padding: 0 .1rem;
-    line-height: 1.4rem;
+    padding: 0 .3rem;
+    line-height: 1.6rem;
     text-decoration: none;
 }
 
@@ -722,6 +743,29 @@ a.external {
 
 :root[saved-theme=light] {
 
+    body,
+    section {
+        margin: 0;
+        box-sizing: border-box;
+        background-color: var(--light);
+        font-family: var(--bodyFont);
+        font-size: 18px;
+        color: var(--darkgray);
+        scrollbar-width: none !important;
+    }
+
+    #explorer * {
+        color: #2293e0;
+    }
+
+    #toc * {
+        color: #e6b72c !important
+    }
+
+    p {
+        font-weight: semibold;
+    }
+
     // p,
     // li,
     // ul,
@@ -729,6 +773,10 @@ a.external {
     //     font-weight: 500;
     //     font-style: normal;
     // }
+    em {
+        font-weight: bold;
+        background-color: #ffe9fccc;
+    }
 
     h1,
     h3 {
@@ -748,11 +796,16 @@ a.external {
 
     strong {
         color: #08add4 !important;
+        background-color: #d9f7ffcc;
     }
 
     .folder-button a,
     .breadcrumb-container a {
         font-size: 20px;
+    }
+
+    a[role="anchor"] {
+        display: none;
     }
 
     a.internal,
