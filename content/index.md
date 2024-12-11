@@ -42,29 +42,37 @@ My life has been the complete opposite and will probably become of this quote:
 
 This period was what I called *"My Dark Era,"* a time filled with confusion, all sort of emotions with no self-awareness, and restraint. 
 
-I was a perfect role model student and a bully. I was too smart for my own good, excelling at anything I picked up so naturally I got things in my favor. People's attention and praise probably took a heavy toll on me, but that was no excuse.
+I was a perfect role model student and a bully. Too sharp for my own good, excelling at anything I picked up so naturally I got things in my favor. People's attention and praise probably took a heavy toll on me, but that was no excuse.
 Maybe subtle blame for uncontrollable primal instincts —aggression, violence, and the desperate need for validation and attention.😏
 
 No need to delve further...
 
 ## Secondary School
 
-I called this period *"The Storm After The Storm."* A got-away-with-it-somehow spoiled brat in the top class of the top school in my hometown.
+### The Muted Aftermath
+A got-away-with-it-somehow spoiled brat ended up in the top class of the top secondary school. I came to my senses only much later on, back then I was still feigning ignorance and acting on impulse, as most kids would.
 
-The school wasn't too far from my house, but it was still far enough for a spoiled kid to go on his own, and my parents couldn't drop me off.
-Therefore, I got this uncalled-for luxury of going to school by taxi—yep, a taxi, with my neighborhood friends. Truly a story to be bragging about, for bourgeois families.
+The school wasn't too far from my house, but it was still far enough for a kid to go on his own, and my parents couldn't drop me off.
+Therefore, I got this uncalled-for luxury of going to school by taxi — yep, a taxi, alongside my neighborhood friends. Truly a story to be bragging about, for bourgeois families.
 
-The academic life went south from here 😅 as the impulsive desires got the better of me. I skipped classes more than I skipped meals.
+The academic life went south from here 😅 as the impetuous desires got the better of me. I skipped classes more than I skipped meals.
 
 I would told the driver to stop by the net on the way to school =))) and he would happily do so, since he was paid. Not my kid, not my problem 😂😂 Gotta respect that attitude though. Had a lot of fun and a lot of bad grades...
 
+### Underappreciated Youth
 I formed bonds with most of my closest friends here with the most unfiltered, raw, and rough version of myself, and the same goes for them. These low-maintenance relationships I believe will stay unstained, growing stronger yet unaffected by time and distance.
 
-We were in the best, and also the wealthiest, class. We could go on weekend trips if any of the rich parents were happy that their kid scored a 10. A local prize would almost guarantee a trip, and a national one!? We’d have back-to-back class holidays! Without spending a dime.
+We were not only in the best, but also the wealthiest, class. We could go on weekend trips if any of the generous parents were happy that their kid scored a 10. A local prize would almost guarantee a trip, and a national one!? We’d have back-to-back class holidays! Without spending a dime.
 
 This seemingly chill class turned out to have the ==highest unprecedented acceptance rate== at Lam Son Gifted High School.
 
-I don't think I'll ever have as many extravagant extracurricular activities as I did back then. I got to see so much beauty and historical richness in Vietnam that I **had always taken** for granted.
+I doubt I'll ever have as many extravagant field trips as I did back then. I got to see so much of Vietnam's beauty and historical richness — things I **had long taken for granted**.
+
+But it wasn’t just the scenes and places I overlooked; it was the people too. I discovered so many new emotions —ones that were pivotal, inevitable, but bitterish—regret, sorrow, rage, and that heartbroken feeling, or whatever you’d name it.
+
+Most of these feelings were directed at myself: for the decisions I left unmade, for the precious people I failed to cherish until they quietly walked out of my life forever.
+
+These realizations, though painful, became the compass points guiding my future path.
 
 ## High School
 
