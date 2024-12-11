@@ -20,7 +20,7 @@ const config: QuartzConfig = {
     baseUrl: "ttl-class.williamtran.tech",
     ignorePatterns: ["private", "_templates", ".obsidian", "_Index*", "**/_Index*"],
     defaultDateType: "created",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
