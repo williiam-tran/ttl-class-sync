@@ -420,7 +420,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     margin-top: 1.9rem;
     margin-bottom: 1rem;
 }
@@ -783,7 +783,7 @@ a.external {
     }
 
     #toc * {
-        color: #e6b72c !important
+        color: #ffb100 !important
     }
 
     #toc {
@@ -805,17 +805,18 @@ a.external {
     // }
     em {
         background-color: #ffe9fccc !important;
-        color: #eaa6c1 !important;
+        color: #ff3d8a !important;
     }
 
     .text-highlight {
-        background-color: #008698a8 !important;
-        color: white !important;
+        background-color: #007a8aa8 !important;
+        color: #ffffff !important;
+        font-weight: bold;
     }
 
     h1,
     h3 {
-        color: #e6b72c !important;
+        color: #ffb100 !important;
     }
 
     h1 {
@@ -825,6 +826,11 @@ a.external {
 
     blockquote {
         border-left: 3px solid #4cabc2;
+
+        p {
+            color: #001a23c9;
+        }
+
     }
 
 
@@ -852,6 +858,11 @@ a.external {
         border-radius: 6px;
         padding: 0 .3rem;
         text-decoration: none;
+
+    }
+
+    a.external .external-icon>path {
+        fill: white !important;
     }
 
     a.internal:hover {
@@ -861,7 +872,7 @@ a.external {
 
 
     .callout[data-callout=example] {
-        --color: rgba(243, 114, 152, 0.925) !important;
+        --color: #ff3d8a !important;
         --border: #7a43b544;
         --bg: #7a43b510;
         --callout-icon: var(--callout-icon-example);

@@ -37,20 +37,20 @@ But there’s a caveat.
 
 As good as it is, it’s NOT a magic pill nor a substitute for poor learning skills.
 
-Why? Because Anki covers just the *final one-third* of the memory’s core processes for information encoding[1](https://leananki.com/how-to-use-anki-tutorial/#easy-footnote-bottom-1-263 "Melton, A. W. (1963). Implications of short-term memory for a general theory of memory. Journal of Verbal Learning and Verbal Behavior, 2(1), 1–21.") — which is **retrieval**.
+Why? Because Anki covers just the *final one-third* of the memory’s core processes for information encoding.[](https://leananki.com/how-to-use-anki-tutorial/#easy-footnote-bottom-1-263 "Melton, A. W. (1963). Implications of short-term memory for a general theory of memory. Journal of Verbal Learning and Verbal Behavior, 2(1), 1–21.") — which is **retrieval**.
 
 This means that if the first *two-thirds* of the system you use for studying — encoding & storage — is messed up, then using Anki won’t be the magic pill that it’s believed to be.
 
 In contrast, when you *do* use Anki with the right process, you could **gain tremendous advantage over the competition:**
 
--   You basically guarantee that anything you study (again, using the right process) WILL get remembered for a long time
--   You build up a tall stack of prior knowledge that allows you to understand complex concepts quickly
--   You eliminate the most time-wasting study activity of all — “restudying what you’ve already studied because you forgot”
+-   You basically guarantee that anything you study (again, using the right process) WILL get remembered for a long time.
+-   You build up a tall stack of prior knowledge that allows you to understand complex concepts quickly.
+-   You eliminate the most time-wasting study activity of all — *“restudying what you’ve already studied because you forgot”*
 -   You can turn downtime into productive study time (when you use Anki while eating, for example, it allows you to practice 50 items in a breeze)
 
 Best of all, you get a tremendous long-term efficiency benefit:
 
-Michael Nielsen mentioned that **in 20 years, he is 1714.29% (120 minutes/7 minutes \* 100%) more efficient** *for each card* when learning using spaced repetition compared to conventional flashcard learning.[2](https://leananki.com/how-to-use-anki-tutorial/#easy-footnote-bottom-2-263 "Nielsen, M. (2018). Augmenting Long-term Memory. http://augmentingcognition.com/ltm.html")
+Michael Nielsen mentioned that **in 20 years, he is 1714.29% (120 minutes/7 minutes \* 100%) more efficient** *for each card* when learning using spaced repetition compared to conventional flashcard learning.[](https://leananki.com/how-to-use-anki-tutorial/#easy-footnote-bottom-2-263 "Nielsen, M. (2018). Augmenting Long-term Memory. http://augmentingcognition.com/ltm.html")
 
 Sound good so far? I’m hearing questions…
 

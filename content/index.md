@@ -50,14 +50,14 @@ No need to delve further...
 ## Secondary School
 
 ### The Muted Aftermath
-A got-away-with-it-somehow spoiled brat ended up in the top class of the top secondary school. I came to my senses only much later on, back then I was still feigning ignorance and acting on impulse, as most kids would.
+A got-away-with-it-somehow spoiled brat ended up in the top class of the top secondary school. I came to my senses only much later on, back then I was still feigning ignorance and acting on impulse, as most children would.
 
-The school wasn't too far from my house, but it was still far enough for a kid to go on his own, and my parents couldn't drop me off.
+The school wasn't too far from my house, but still far enough for a kid to go on his own, and my parents couldn't drop me off either.
 Therefore, I got this uncalled-for luxury of going to school by taxi — yep, a taxi, alongside my neighborhood friends. Truly a story to be bragging about, for bourgeois families.
 
 The academic life went south from here 😅 as the impetuous desires got the better of me. I skipped classes more than I skipped meals.
 
-I would told the driver to stop by the net on the way to school =))) and he would happily do so, since he was paid. Not my kid, not my problem 😂😂 Gotta respect that attitude though. Had a lot of fun and a lot of bad grades...
+I would told the driver to stop by the net on the way to school =))) and he would happily do so, since he was paid. Not my kid, not my problem 😂😂 Gotta respect that attitude. Had a lot of fun and a lot of bad grades... Everything was on a downward spiral 
 
 ### Underappreciated Youth
 I formed bonds with most of my closest friends here with the most unfiltered, raw, and rough version of myself, and the same goes for them. These low-maintenance relationships I believe will stay unstained, growing stronger yet unaffected by time and distance.
@@ -96,29 +96,30 @@ The daily inquiries were rather simple:
 >We were in the middle of the game so it would suck if the flow is broken like this. A board game session typically lasts around 2 hours, but I have some teachers who are flexible enough to let us play through. That's why I had the audacity to consider asking in the first place, though not all teachers were as accommodating.
 
 ### A Regime That Should Have Been Universal
-The educational autonomy level was high, along with a hefty budget. We had the freedom to decide how to spend our time, with a monthly salary starting from a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. 
+The educational autonomy level I got was high, along with a hefty budget. We had the freedom to decide how to spend our time, with a monthly salary exceeding a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. 
 To put it simply, the policy was: 
 > *If you wanted to play, play. If you wanted to learn, learn.* 
 
 By all means, that was the best thing since sliced bread for me.
 
-I got the habit of playing truant since the regulations are so flexible and open. You get to decide what's next for you; the temptation level is off the chart for a student, you see.
+I got the habit of playing truant since the regulations are so flexible and open. You got to decide what's next for you; the temptation level is obviously off the chart for a student, you see.
 
-I could attend only two lessons in the morning, go to the net to play video games, skip the afternoon lecture, and go to the coffee shop with my friends, who would skip with me. 
-When I first got admitted, I did this a lot, with leading repercussions, of course... Still, I am lucky enough to have many friends of the same frequency who would do silly things with me and make so much memories, yet I could recount them like the back of my hand. 
+I could attend only half the lessons (usually two) in the morning, go to the net to play video games, skip the afternoon lecture, and go to the coffee shop with my friends, who would skip as well. 
+When I first got admitted, I did this a lot, with leading repercussions, of course... Still, I am lucky enough to have many friends of the same frequency who would do those silly stuff with me and make so much memories, yet I could recount them like the back of my hand. 
 
 Each class is financially independent, covering its own bills for electricity, water, and cleaning.
-We had a 65' touchscreen TV, JBL Speakers, and lots of mics 🎤🎤🎤.
+We had a 65' touchscreen TV, 2 pairs of JBL Speakers in the name of learning listening 😂, and lots of mics 🎤🎤🎤.
 We even bought a pine tree and snow-dry ice dispenser for Christmas.
-Every day was either karaoke or movie day with mixed board games and debates (a type of roleplay with two opposing teams, parliamentary style).
+Every day was either karaoke or movie day with mixed board games and debate contests (a type of roleplay with two opposing teams in [parliamentary style](https://en.wikipedia.org/wiki/Parliamentary_system), regarding local issues to international dilemmas).
 
-Despite all the temptations that might have been, the biggest one would have been not coming to class and missing out on something.
-Karaoke would probably be an indispensable daily activity.
+Karaoke was almost an indispensable daily activity, or at least I made it so.
 We all shared the same music taste and could jam to the beat forever, do headbang, and even pull off dance covers. The stage is almost always overcrowded.
+
+Despite all the temptations that might have been, the biggest one was not coming to class and missing out on something. I stopped playing truant, more or less. 
 
 I traveled with my class a lot, even by plane once, to many provinces in Vietnam. We even got to stay in Da Nang for 4 days during the fireworks season; that's when I won my 3rd girlfriend, a.k.a current bff, over as well, making it kinda unforgettable for me :D. Needless to say, looking back, everything is full of laughter, joyfulness, and a lot of singing 🎵 🎶🎵. 
 
-That's probably why I still love karaoke so much. Even though it's never quite the same now, the experience always brings back those core memories subconsciously in the best way. Nostalgia hits hard 🥺😢
+That's probably why I still love karaoke so much, living in a simulation. Even though it's never quite the same now, the experience always brings back those core memories subconsciously in the best way. Nostalgia hits hard 🥺😢
 ### Bittersweet Epiphany
 From what I can recall, everyone was innocent and carefree in a sense, embracing every passing moment without the slightest care in the world. The inquiry of what would become of us, or what our hopes and dreams for the future were, never crossed our daily **train of thought**. Yet I'm certain they will become the brightest people I know; some already are and are on the brink of refining their identities.
 
