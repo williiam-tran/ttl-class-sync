@@ -98,8 +98,11 @@ The daily inquiries were rather simple:
 
 
 ### A Regime That Should Have Been Universal
-The educational autonomy level I got was unprecedentedly and inimitably high, along with a hefty budget for students. We had the freedom to decide how to spend our time, with a monthly salary exceeding a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. Students who lived a bit off the beaten track would earn almost twice. 
-And big monetary rewards were given (around 9.000.000₫ per semester per student) by getting an 8.5 GPA, which was not too hard, at all. The school monthly budget for students was 2 billion VND, as stated by the headmaster.
+The educational autonomy level I got was unprecedentedly and inimitably high, along with a hefty budget for students. We had the freedom to decide how to spend our time, with a monthly salary exceeding a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. 
+
+Students who lived a bit off the beaten track would earn almost twice. 
+Big monetary rewards were given (around 9.000.000₫ per semester per student) for getting an 8.5 GPA, which was not too hard, at all. 
+The school's monthly budget for students was 2 billion VND, as stated by the headmaster.
 Amidst all this, the school policy was:
 > *If you wanted to play, play. If you wanted to learn, learn.* 
 
