@@ -794,6 +794,9 @@ a.external {
 
 :root[saved-theme=light] {
 
+
+
+
     body,
     section {
         margin: 0;
@@ -810,16 +813,26 @@ a.external {
     }
 
 
+    h1,
+    h2,
+    h3 {
+        color: #db8b00 !important;
+
+        .text-highlight {
+            color: #db8b00 !important;
+        }
+    }
+
     ::selection {
         background-color: #9fd5ffcc !important;
     }
 
     #explorer * {
-        color: #2293e0;
+        color: #2293e0 !important;
     }
 
     #toc * {
-        color: #ffb100 !important;
+        color: #db8b00 !important;
     }
 
     #toc {
@@ -841,16 +854,6 @@ a.external {
         background-color: #007a8aa8;
         color: #ffffff !important;
         font-weight: bold;
-    }
-
-    h1,
-    h2,
-    h3 {
-        color: #db8b00 !important;
-
-        .text-highlight {
-            color: #db8b00 !important;
-        }
     }
 
     h1 {
