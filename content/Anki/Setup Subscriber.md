@@ -11,11 +11,11 @@ The key will be a series of words separated by dashes. Example:
 pip-item-hawaii-skylark-network-rugby
 ```
 
-| **Student** |         **Subscription** **Key**         |
-| :---------: | :--------------------------------------: |
-|  ==Thanh==  | `echo-triple-fifteen-jig-jupiter-winne`  |
-|  ==TLinh==  |  `gee-floor-fifteen-jig-jupiter-winner`  |
-|  ==Trung==  | `item-victor-fifteen-jig-jupiter-winner` |
+| **Student** |          **Subscription Key**          |
+| :---------: | :------------------------------------: |
+|    Thanh    | echo-triple-fifteen-jig-jupiter-winne  |
+|    TLinh    |  gee-floor-fifteen-jig-jupiter-winner  |
+|    Trung    | item-victor-fifteen-jig-jupiter-winner |
 
 
 ## Video Guide
@@ -107,7 +107,7 @@ To download any changes or new content for your subscribed deck, you can manuall
 
 On the toolbar, click `AnkiCollab → Check for New Content`.
 
-![A cursor hovering over the Check for New Content button on the AnkiCollab toolbar tab in Anki.](https://i.imgur.com/dtxRALy.png)
+![A cursor hovering over the Check for New Content button on the AnkiCollab toolbar tab in Anki. | 100x500](https://i.imgur.com/dtxRALy.png)
 
 This will retrieve any available updates for your subscription.
 

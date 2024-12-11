@@ -1,6 +1,7 @@
 ---
 title: Introduction
 publish: true
+image: images/introduction.png
 ---
 
 # Greetings, Family 
