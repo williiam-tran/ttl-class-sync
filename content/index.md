@@ -119,13 +119,15 @@ We even bought a pine tree and snow-dry ice dispenser for Christmas.
 Every day was either karaoke or movie day with mixed board games and debate contests (a type of roleplay with two opposing teams in [parliamentary style](https://en.wikipedia.org/wiki/Parliamentary_system), regarding local issues to international dilemmas).
 
 Karaoke was almost an indispensable daily activity, or at least I made it so.
-We all shared the same music taste and could jam to the beat forever, do headbang, and even pull off dance covers. The stage is almost always overcrowded.
+We all shared the same music taste and could jam to the beat forever, do headbang, and even pull off dance covers. The stage was almost always overcrowded.
 
 Despite all the temptations that might have been, the biggest one was not coming to class and missing out on something. I stopped playing truant, more or less. 
 
-I traveled with my class a lot, even by plane once, to many provinces in Vietnam. We even got to stay in Da Nang for 4 days during the fireworks season; that's when I won my 3rd girlfriend, a.k.a current bff, over as well, making it kinda unforgettable for me :D. Needless to say, looking back, everything is full of laughter, joyfulness, and a lot of singing 🎵 🎶🎵. 
+We did a lot of travelling, even by plane once, to many provinces in Vietnam. We even got to stay in Da Nang for 4 days during the fireworks season; that's when I won my 3rd girlfriend, a.k.a current bff, over as well, making it kinda memorable for me :D. Needless to say, looking back, everything is full of laughter, joyfulness, and a lot of singing 🎵 🎶🎵. 
 
-That's probably why I still love karaoke so much, living in a simulation. Even though it's never quite the same now, the experience always brings back those core memories subconsciously in the best way. Nostalgia hits hard 🥺😢
+That's probably why I still love karaoke so much, tending to live in a simulation. Even though it's never quite the same, the experience always brings back those core memories subconsciously in the best way. 
+
+Nostalgia hits hard 🥺😢
 ### Bittersweet Epiphany
 From what I can recall, everyone was innocent and carefree in a sense, embracing every passing moment without the slightest care in the world. The inquiry of what would become of us, or what our hopes and dreams for the future were, never crossed our daily **train of thought**. Yet I'm certain they will become the brightest people I know; some already are and are on the brink of refining their identities.
 
@@ -140,41 +142,46 @@ Now, I see them as something I **have to bear** on my shoulders, my responsibili
 
 ### Passing The Torch 🔥🔥🔥
 
-Back then, my mother brought up the idea that I should take on teaching as a profession. I used to despise that so much, claiming I hated teaching without any real reason — I still don't know why I said that. 
+Back in the days, my mother brought up the idea that I should take on teaching as a profession. I used to despise that so much, claiming I hated teaching without any real reason — I still don't know why I said that. 
 Ironically enough, I started tutoring in 12th grade, have had more than 100 students, and now you guys are my next endeavors. 
+
 With hindsight, my mom was quite a prophet, nhỉ?
 
 I often tell students about my teachers,  who put me on the right track even when I had strayed far from it —which fact never mattered to them. 
-I owe a great deal to my life sabers for guiding me back during times I needed it most, even without me realizing it at the time. 
+I owe a great deal to my life sabers for guiding me during times I needed it most, even without realizing it at the time. 
 
-I realize that many kids would have been a lot better off **had they met** the teachers I once had, those who have the most unconventional methods that I can somewhat fathom now.
+I realized that many kids would have been a lot better off **had they met** the teachers I once had, those who have the most unconventional methods that I can somewhat fathom now.
 
-My very first students were forced upon me as favors asked by relatives, leaving me with little room for decline. Slowly but surely, teaching crept up on me and now intrigues me as I see the growth and influence it can have on both parties.
+My very first students were forced upon me as favors asked by relatives, leaving me with little room for decline. Slowly but surely, teaching had crept up on me and intrigued me as I saw the growth and influence it can have on both parties.
 
 Even though I'm still learning, I feel like I've got a lot to share. 
- > **Sharing Is Caring**.
+ > *Sharing Is Caring.*
 >
 Knowledge isn't meant to be hoarded like treasure — it's meant to flow freely, like water. I've been fortunate enough to stumble upon this cheat code, and it would be selfish to keep it to myself.
 
 ### Cheat Code For Life
-I believe I possess a wide spectrum of emotions and strong knowledge utilization. I attribute this sort of accomplishment largely to learning languages.
+I believe I possess a wide spectrum of emotions and strong knowledge utilization and I attribute this sort of accomplishment largely to learning languages.
 
-Out of all the skills I've learned, learning English has been my ultimate cheat code. I see it as a bridge that connects me to any where, any souls across cultures.
+Out of all the skills I've learned, learning English has been my ultimate cheat code. I see it as a bridge that connects me to anywhere, any souls across cultures.
 
-I still remember the first time I heard lyrics in a language not my mother tongue, yet they resonated deeply. I had butterflies in my stomach, a sadness so profound that it wrenched my heart. That feeling when words echo straight to the heart, not the brain — it felt like discovering an entirely new part of myself. 
+I still remember the first time I heard lyrics in a language not my mother tongue, yet they resonated deeply. I had butterflies in my stomach, a sadness so profound that it wrenched my heart. That feeling when words echo straight to the heart, not the brain — I felt like discovering an entirely new part of myself. 
+
 Then, the new refreshing experiences kept flowing: breaking down in tears watching movies, giggling at random jokes in the comments, discovering beauty hidden **between the lines**, having words spiraling out of your mind that you didn't know were in your possession, and finally seeing the payoff of your efforts.
 
-From the moment I can proudly claim English as my second language, I feel like I got a master key that unlock virtually every door. I've walked in the shoes of people from different corners of the world, sharing nothing but a common language, yet it was enough to foster both sympathy and empathy.
+From the moment I can proudly claim English as my second language, I felt like I got a master key that unlock virtually every door. I've walked in the shoes of people from different corners of the world, sharing nothing but a common language, yet it was enough to foster both sympathy and empathy.
 
 Each conversation, each perspective shared, reshapes my understanding of the world. With the advent of the Internet, it's like having multiple lives in parallel: experiencing countless joys, struggles, triumphs, and so many unnamed emotions through the eyes of people I've never met. Truly a cheat code. 
 
-While this might seem commonplace to some, we fall into the category of those who weren't entitled to it. It upsets and frustrates me to see so many may forever remain ignorant of the potential of their growth had they known one more thing. 
+While this might seem commonplace to some, we fell into the category of those who weren't entitled to it. 
+It upsets and frustrates me to see so many may forever remain ignorant of the potential of their growth had they known a few more things. 
 
-The foreign viewpoint that reduces a language to merely a subject exists only because they haven't witnessed its magic — how it can transform your outlook overnight. What they dismiss as "just English" is actually a portal to infinite glitches: to friendships that span continents, to knowledge that hasn't been translated or better yet translated into this most accessible language, to perspectives that challenge everything you know, to opportunities that others can't even see.
+The foreign viewpoint that reduces a language to merely a subject exists only because they haven't witnessed its miracles — how it can transform your outlook overnight. 
 
-Okay, enough blabbering, I hope that you guys have caught some glimpse of my perspective and kudos to you for reaching here! 
+What they dismiss as "just English" is actually a portal to infinite glitches: to friendships that span continents, to knowledge that hasn't been translated or better yet translated into this most accessible language, to perspectives that challenge everything you know, to opportunities that others can't ever fathom.
 
-수고했어요. 나도.
+They haven't yet realized that a language isn't just a tool for communication—it's a lens through which to view the world, a key to unlock different versions of yourself simultaneously, to experience the cultural and personality subtle shift as you switch language, and ultimately to a more prosperous eye-opening life.
+
+여기까지 오기를 잘했어, 다들.
 
 # What's Next?
 
