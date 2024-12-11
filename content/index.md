@@ -44,9 +44,9 @@ This period was what I called *"A Dark Era,"* a time filled with confusion and a
 
 I was a perfect role model student and, better yet, a bully. 
 Too sharp for my own good, excelling at anything I picked up, so naturally, I got things in my favor. 
-People’s attention and praise probably took a heavy toll on me, feeding an ego that didn’t know how to process, but that was no excuse. I was led astray, blinded by the rewards and recognition and will live to condemn myself. 
+People’s attention and praise probably took a heavy toll on me, feeding an ego that I didn’t know how to process, but that was no excuse. I was led astray, blinded by the rewards and recognition.
 
-Maybe subtle blame for uncontrollable primal instincts—aggression, violence, and the desperate need for validation and attention.😏
+Maybe subtle blame for uncontrollable primal instincts—aggression, violence, and the desperate need for validation.😌
 
 Let's not delve further...
 
@@ -56,15 +56,15 @@ Let's not delve further...
 A got-away-with-it-somehow spoiled brat ended up in the top class of the top secondary school. I came to my senses only much later on, back then I was still feigning ignorance and acting on impulse, as most children would.
 
 The school wasn't too far from my house, but still far enough for a kid to go on his own, and my parents couldn't drop me off either.
-Therefore, I got this uncalled-for luxury of going to school by taxi — yep, a taxi, alongside my neighborhood friends. Truly a story to be bragging about, for bourgeois families.
+Therefore, I got this uncalled-for luxury of going to school by taxi—yep, a taxi, alongside my neighborhood friends. Truly a story to be bragging about, for bourgeois families.
 
 The academic life went south from here 😅 as the impetuous desires got the better of me. I skipped classes more than I skipped meals.
 
-I would told the cab driver to stop by the net on the way to school =))) and he would happily do so, since he was paid. Not my kid, not my problem 😂😂 Gotta respect that attitude. Had a lot of fun and a lot of bad grades... Everything was on a downward spiral, yet funny enough, I never got caught.
+I would told the cab driver to stop by the net on the way to school =))) and he would happily do so, since he was paid. Not my kid, not my problem 😂😂 Gotta respect that attitude. Had a lot of fun and a lot of bad grades... Everything was on a downward spiral, yet funny enough, I never got caught or confronted.
 
 ### Underappreciated Youth
 I formed bonds with most of my closest friends here with the most unfiltered, raw, and rough version of myself. The same goes for them. 
-These low-maintenance relationships, I believe, will stay unstained, growing stronger yet unaffected by time and distance as it has been.
+These low-maintenance relationships, I believe, will stay unstained, growing stronger yet unaffected by time and distance as it has always been.
 
 We were not only in the best but also the wealthiest class. We could go on weekend trips if any of the generous parents were happy that their kid scored a 10. A local prize would almost guarantee a trip and a national one!? We’d have back-to-back class holidays! Without spending a dime.
 
@@ -83,10 +83,10 @@ Though painful, these realizations became the compass points guiding my future p
 Getting into Lam Son has been my most significant cornerstone, though I didn’t realize it only until recently. 
 It's not because of the school's prestige or education (which, in and of itself, is remarkable) but because of the people here that changed me for the better, for good.
 
-My typical day would start like this: 
+My typical day here would start like this: 
 > I'd wake up late and rush to school, couldn't make it on time, so I'd think, "screw it," and go buy breakfast with extra, extra toppings, leisurely enjoying every bite. 
 >
-> I was the class secretary, so it was easy for me to **make up** a lot of excuses for my 15-to-30-minute tardiness. I did this so frequently that everyone gradually stopped questioning the legitimacy. Getting away with it almost every time - the pinnacle of gaslighting, huh?
+> I was the class secretary, so it was easy for me to **make up** a lot of excuses for my 15-to-30-minute tardiness. I did this so frequently that everyone gradually stopped questioning the legitimacy. **Getting away with it** almost every time - the pinnacle of gaslighting, huh?
 
 The daily inquiries were rather simple:
 >What should I eat next?
@@ -95,17 +95,16 @@ The daily inquiries were rather simple:
 >
 >Should we play Werewolves, Ribbit, or Exploding Kittens today? 
 
->Would the literature teacher let us play board games instead? I probably shouldn't be the one bringing it up since she wasn't particularly fond of me. 
+>Would the Literature teacher let us play board games instead? I probably shouldn't be the one bringing it up since she wasn't particularly fond of me. 
 >
 >We were in the middle of the game so it would suck if the flow is broken like this. A board game session typically lasts around 2 hours, but I have some teachers who are flexible enough to let us play through. That's why I had the audacity to consider asking in the first place, though not all were as accommodating.
-
 
 ### A Regime That Should Have Been Universal
 The educational autonomy level I got was unprecedentedly and inimitably high, along with a hefty budget for students. We had the freedom to decide how to spend our time, with a monthly salary exceeding a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. 
 
-Students who lived a bit off the beaten track would earn almost twice. 
-Big monetary rewards were given (around 9.000.000₫ per semester per student) for getting an 8.5 GPA, which was not too hard, at all. 
-The school's monthly budget for students was 2 billion VND, as stated by the headmaster.
+Students who lived a bit **off the beaten track** would earn almost twice as much. 
+Big monetary rewards were given (around 9.000.000₫ per semester per student) for getting an 8.5 GPA, which was not hard, at all. 
+The school's monthly budget for us was 2 billion VND, as stated by the headmaster.
 Amidst all this, the school policy was:
 > *If you wanted to play, play. If you wanted to learn, learn.* 
 
@@ -128,11 +127,13 @@ Despite all the temptations that might have been, the biggest one was not coming
 
 We did a lot of travelling, even by plane once, to many provinces in Vietnam. We even got to stay in Da Nang for 4 days during the fireworks season; that's when I won my 3rd girlfriend, a.k.a current bff, over as well, making it kinda memorable for me :D. Needless to say, looking back, everything is full of laughter, joyfulness, and a lot of singing 🎵 🎶🎵. 
 
-That's probably why I still love karaoke so much, tending to live in a simulation. Even though it's never quite the same, the experience always brings back those core memories subconsciously in the best way. 
+That's probably why I love karaoke so much, tending to live in a simulation. Even though it's never quite the same, the experience always brings back those core memories subconsciously in the best way. 
 
 Nostalgia hits hard 🥺😢
 ### Bittersweet Epiphany
-From what I can recall, everyone was innocent and carefree in a sense, embracing every passing moment without the slightest care in the world. The inquiry of what would become of us, or what our hopes and dreams for the future were, never crossed our daily **train of thought**. Yet I'm certain they will become the brightest people I know; some already are and are on the brink of refining their identities.
+From what I can recall, everyone was innocent and carefree in a sense, embracing every passing moment without the slightest care in the world. 
+
+The inquiry of what would become of us, or what our hopes and dreams for the future were, never crossed our daily **train of thought**. Yet I'm certain they will become the brightest people I know; some already are and are on the brink of refining their identities.
 
 I can still remember that feeling, vaguely - the way dreaming came as naturally as breathing. Just now, I remember someone from those days gave us a name: 🌱Lámer.
 
@@ -140,11 +141,10 @@ For me, high school was when the seed of my fantasies and aspirations was plante
 
 # ~~Why do I tell you all this?~~ Why not?
 
-I realized some time ago that these privileges I received should not be taken for granted as I wouldn't trade them for anything. 
-Now, I see them as something I **have to bear** on my shoulders, my responsibilities. The spark of life 🌟I received should be passed down, not because I must or should, but because I want to, sincerely.
-
+I realized some time ago that the privileges I received should not be taken for granted, as I wouldn't trade them for anything. 
+Now, I see them as something I **have to bear** on my shoulders, my responsibilities. The spark of life 🌟I received is something I long to share, driven by both my sense of obligation and wholeheartedness. 
+j
 ### Passing The Torch 🔥🔥🔥
-
 Back in the days, my mother brought up the idea that I should take on teaching as a profession. I used to despise that so much, claiming I hated teaching without any real reason — I still don't know why I said that. 
 Ironically enough, I started tutoring in 12th grade, have had more than 100 students, and now you guys are my next endeavors. 
 
