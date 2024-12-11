@@ -40,10 +40,11 @@ My life has been the complete opposite and will probably become of this quote:
 
 ## Primary School
 
-This period was what I called *"A Dark Era,"* a time filled with confusion, all sort of emotions with no self-awareness, and restraint. 
+This period was what I called *"A Dark Era,"* a time filled with confusion and all sorts of emotions with no self-awareness and restraint. 
 
-I was a perfect role model student and a bully. 
-Too sharp for my good, excelling at anything I picked up, so naturally, I got things in my favor. People’s attention and praise probably took a heavy toll on me, but that was no excuse.
+I was a perfect role model student and, better yet, a bully. 
+Too sharp for my own good, excelling at anything I picked up, so naturally, I got things in my favor. 
+People’s attention and praise probably took a heavy toll on me, feeding an ego that didn’t know how to process, but that was no excuse. I was led astray, blinded by the rewards and recognition and will live to condemn myself. 
 
 Maybe subtle blame for uncontrollable primal instincts—aggression, violence, and the desperate need for validation and attention.😏
 
