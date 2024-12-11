@@ -72,7 +72,7 @@ This seemingly chill class turned out to have the ==highest unprecedented accept
 
 I doubt I'll ever have as many extravagant field trips as I did back then. I got to see so much of Vietnam's beauty and historical richness — things I **had long taken for granted**.
 
-But it wasn’t just the scenes and places I overlooked; it was the people too. I discovered so many new emotions —ones that were pivotal, inevitable, but bitterish—regret, sorrow, rage, and that heartbroken feeling, or whatever you’d name it.
+But it wasn’t just the scenes and places I overlooked; it was the people too. I discovered so many new emotions—ones that were pivotal, inevitable, but bitterish—regret, sorrow, rage, and that heartbroken feeling, or whatever you’d name it.
 
 Most of these feelings were directed at myself: for the decisions I left unmade, for the precious people I failed to cherish until they quietly walked out of my life forever.
 
@@ -80,13 +80,13 @@ Though painful, these realizations became the compass points guiding my future p
 
 ## High School
 
-Getting into Lam Son has been my most significant cornerstone, though I didn’t realize it only until recently. 
-It's not because of the school's prestige or education (which, in and of itself, is remarkable) but because of the people here that changed me for the better, for good.
+Getting into Lam Son has been my most significant cornerstone, though I didn't realize it only until recently. 
+It wasn't the school's prestige or education (which, in and of itself, is remarkable) that made the difference—it was the people here who changed me for the better, forever.
 
 My typical day here would start like this: 
-> I'd wake up late and rush to school, couldn't make it on time, so I'd think, "screw it," and go buy breakfast with extra, extra toppings, leisurely enjoying every bite. 
+> I'd wake up late and rush to school, couldn't make it on time, thinking "screw it," and go buy breakfast with extra, extra toppings, leisurely enjoying every bite. 
 >
-> I was the class secretary, so it was easy for me to **make up** a lot of excuses for my 15-to-30-minute tardiness. I did this so frequently that everyone gradually stopped questioning the legitimacy. **Getting away with it** almost every time - the pinnacle of gaslighting, huh?
+> I was the class secretary, so it was easy for me to **make up** a lot of excuses for my 15-to-30-minute tardiness. I did this so frequently that everyone gradually stopped questioning my legitimacy. **Getting away with it** almost every time - the pinnacle of gaslighting, huh?
 
 The daily inquiries were rather simple:
 >What should I eat next?
@@ -94,13 +94,19 @@ The daily inquiries were rather simple:
 >Where should we hang out after school?
 >
 >Should we play Werewolves, Ribbit, or Exploding Kittens today? 
-
->Would the Literature teacher let us play board games instead? I probably shouldn't be the one bringing it up since she wasn't particularly fond of me. 
 >
->We were in the middle of the game so it would suck if the flow is broken like this. A board game session typically lasts around 2 hours, but I have some teachers who are flexible enough to let us play through. That's why I had the audacity to consider asking in the first place, though not all were as accommodating.
+>What rhetorical questions should I ask to make it more impactful during the debate?
+>
+>Would the Literature teacher let us play board games instead? I probably shouldn't be the one **bringing it up** since she wasn't particularly fond of me. 
+>
+>We were in the middle of the game so it would suck if the flow is broken like this. 
+>
+>A board game session typically lasts around 2 hours, but some teachers were flexible enough to let us play through. That's why I had the audacity to consider asking in the first place, though not all were as accommodating.
 
 ### A Regime That Should Have Been Universal
-The educational autonomy level I got was unprecedentedly and inimitably high, along with a hefty budget for students. We had the freedom to decide how to spend our time, with a monthly salary exceeding a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. 
+The educational autonomy level I got was unprecedentedly and inimitably high, along with a hefty budget for students. 
+
+We had the freedom to decide how to spend our time, with a monthly salary exceeding a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. 
 
 Students who lived a bit **off the beaten track** would earn almost twice as much. 
 Big monetary rewards were given (around 9.000.000₫ per semester per student) for getting an 8.5 GPA, which was not hard, at all. 
@@ -108,12 +114,12 @@ The school's monthly budget for us was 2 billion VND, as stated by the headmaste
 Amidst all this, the school policy was:
 > *If you wanted to play, play. If you wanted to learn, learn.* 
 
-By all means, that was the best thing since sliced bread for me.
+By all means, that was **the best thing since sliced bread** for me.
 
-I got the habit of playing truant since the regulations are so flexible and open. You got to decide what's next for you; the temptation level is obviously off the chart for a student, you see.
+I got the habit of playing truant since the regulations are so flexible and open. You got to decide what's next for you; the temptation level is obviously **off the chart** for a student, you see.
 
 I could attend only half the lessons (usually two) in the morning, go to the net to play video games, skip the afternoon lecture, and go to the coffee shop with my friends, who would skip as well. 
-When I first got admitted, I did this a lot, with leading repercussions, of course... Still, I am lucky enough to have many friends of the same frequency who would do those silly stuff with me and make so much memories, yet I could recount them like the back of my hand. 
+When I first got admitted, I did this a lot, with leading repercussions, of course... Still, I am lucky enough to have many friends of the same frequency who would do those silly stuff with me and make so much memories, yet I could recount them like **the back of my hand**. 
 
 Each class is financially independent, covering its own bills for electricity, water, and cleaning.
 We had a 65' touchscreen TV, 2 pairs of JBL Speakers in the name of learning listening 😂, and lots of mics 🎤🎤🎤.
@@ -125,9 +131,9 @@ We all shared the same music taste and could jam to the beat forever, do headban
 
 Despite all the temptations that might have been, the biggest one was not coming to class and missing out on something. I stopped playing truant, more or less. 
 
-We did a lot of travelling, even by plane once, to many provinces in Vietnam. We even got to stay in Da Nang for 4 days during the fireworks season; that's when I won my 3rd girlfriend, a.k.a current bff, over as well, making it kinda memorable for me :D. Needless to say, looking back, everything is full of laughter, joyfulness, and a lot of singing 🎵 🎶🎵. 
+We did a lot of travelling, even by plane once, to many provinces in Vietnam. We even got to stay in Da Nang for 4 days during the fireworks season; that's when I won my 3rd girlfriend, a.k.a current bff, over as well, making it kinda memorable for me. Needless to say, looking back, everything is full of laughter, joyfulness, and a lot of singing 🎵 🎶🎵. 
 
-That's probably why I love karaoke so much, tending to live in a simulation. Even though it's never quite the same, the experience always brings back those core memories subconsciously in the best way. 
+That's probably why I love karaoke; it feels like stepping into a bittersweet simulation. Though it's never quite the same, the experience always brings back those core memories subconsciously in the best way. 
 
 Nostalgia hits hard 🥺😢
 ### Bittersweet Epiphany
