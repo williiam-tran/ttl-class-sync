@@ -26,6 +26,7 @@ section {
     background-color: var(--light);
     font-family: var(--bodyFont);
     font-size: 18px;
+    --darkgray: #bababa;
     color: var(--darkgray);
     --tertiary: #9cecff;
     --highlight-background-color--normal: hsl(50deg 100% 50% / 15%) !important;
@@ -801,8 +802,10 @@ a.external {
         background-color: var(--light);
         font-family: var(--bodyFont);
         font-size: 18px;
+        --darkgray: black;
         color: var(--darkgray);
         --light: faf8f8;
+
         --tertiary: #00a3c9;
         --highlight-background-color--normal: hsl(50deg 100% 94%) !important;
         --highlight-background-color-underline: hsl(50deg 100% 50% / 100%) !important;
