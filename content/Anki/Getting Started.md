@@ -354,7 +354,7 @@ My method is simple:
 
 As a side note for default settings, pressing “Again” on a mature card for a total of **8 times** makes your card “disappear” and not show up for review.
 
-This is called a “==Leech card==”, and is usually classified as a *poorly* created card.
+This is called a ==**Leech card**==, and is usually classified as a **poorly created** card.
 
 When you get Leech cards, all you have to do is reformulate your questions. Again, refer back to how I told you to create flashcards.
 
@@ -370,7 +370,7 @@ Anki works to combat this effect. (But again, follow my tip#1 when creating card
 
 So, try do study every single day *without fail.*
 
-## Closing Thoughts: Anki is a great *tool* for studying — but it’s not the ENTIRE study system
+## Closing Thoughts: Anki is a ==great tool== for studying — but it’s not the ==entire== study system
 
 As powerful as Anki is, it’s just a *tool* that depends on your skills — and I want to make sure I drive that point home.
 

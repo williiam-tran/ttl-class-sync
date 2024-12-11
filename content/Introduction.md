@@ -189,7 +189,8 @@ What they dismiss as "just English" is actually a portal to infinite glitches: t
 
 They haven't yet realized that a language isn't just a tool for communication—it's a lens through which to view the world, a key to unlock different versions of yourself simultaneously, to experience the cultural and personality subtle shift as you switch language, and ultimately to a more prosperous eye-opening life.
 
-If you have faith in yourself and trust in me, those desired objectives will become your realities.
+If you have faith in yourself and trust in me:
+> *Those desired objectives will become your realities.*
 
 여기까지 오기를 잘했어, 다들. (Good work for reaching here)
 
