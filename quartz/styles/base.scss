@@ -802,7 +802,7 @@ a.external {
         background-color: var(--light);
         font-family: var(--bodyFont);
         font-size: 18px;
-        --darkgray: black;
+        --darkgray: black !important;
         color: var(--darkgray);
         --light: faf8f8;
 
