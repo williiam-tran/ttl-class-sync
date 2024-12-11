@@ -45,7 +45,7 @@ This period was what I called *"My Dark Era,"* a time filled with confusion, all
 I was a perfect role model student and a bully. Too sharp for my own good, excelling at anything I picked up so naturally I got things in my favor. People's attention and praise probably took a heavy toll on me, but that was no excuse.
 Maybe subtle blame for uncontrollable primal instincts —aggression, violence, and the desperate need for validation and attention.😏
 
-No need to delve further...
+Let's not delve further...
 
 ## Secondary School
 
@@ -57,12 +57,13 @@ Therefore, I got this uncalled-for luxury of going to school by taxi — yep, a 
 
 The academic life went south from here 😅 as the impetuous desires got the better of me. I skipped classes more than I skipped meals.
 
-I would told the driver to stop by the net on the way to school =))) and he would happily do so, since he was paid. Not my kid, not my problem 😂😂 Gotta respect that attitude. Had a lot of fun and a lot of bad grades... Everything was on a downward spiral 
+I would told the cab driver to stop by the net on the way to school =))) and he would happily do so, since he was paid. Not my kid, not my problem 😂😂 Gotta respect that attitude. Had a lot of fun and a lot of bad grades... Everything was on a downward spiral, yet funny enough, I never got caught.
 
 ### Underappreciated Youth
-I formed bonds with most of my closest friends here with the most unfiltered, raw, and rough version of myself, and the same goes for them. These low-maintenance relationships I believe will stay unstained, growing stronger yet unaffected by time and distance.
+I formed bonds with most of my closest friends here with the most unfiltered, raw, and rough version of myself. The same goes for them. 
+These low-maintenance relationships, I believe, will stay unstained, growing stronger yet unaffected by time and distance as it has been.
 
-We were not only in the best, but also the wealthiest, class. We could go on weekend trips if any of the generous parents were happy that their kid scored a 10. A local prize would almost guarantee a trip, and a national one!? We’d have back-to-back class holidays! Without spending a dime.
+We were not only in the best but also the wealthiest class. We could go on weekend trips if any of the generous parents were happy that their kid scored a 10. A local prize would almost guarantee a trip and a national one!? We’d have back-to-back class holidays! Without spending a dime.
 
 This seemingly chill class turned out to have the ==highest unprecedented acceptance rate== at Lam Son Gifted High School.
 
@@ -72,17 +73,17 @@ But it wasn’t just the scenes and places I overlooked; it was the people too. 
 
 Most of these feelings were directed at myself: for the decisions I left unmade, for the precious people I failed to cherish until they quietly walked out of my life forever.
 
-These realizations, though painful, became the compass points guiding my future path.
+Though painful, these realizations became the compass points guiding my future path and were the turning point for me. 
 
 ## High School
 
-Getting into Lam Son has been my most significant cornerstone so far, though I didn’t realize it only until recently. 
+Getting into Lam Son has been my most significant cornerstone, though I didn’t realize it only until recently. 
 It's not because of the school's prestige or education (which, in and of itself, is remarkable) but because of the people here that changed me for the better, for good.
 
 My typical day would start like this: 
 > I'd wake up late and rush to school, couldn't make it on time, so I'd think, "screw it," and go buy breakfast with extra, extra toppings, leisurely enjoying every bite. 
 >
-> I was the class secretary, so it was easy for me to **make up** a lot of excuses for my 15-to-30-minute tardiness. I did this so frequently that everyone gradually stopped questioning the legitimacy. Getting away with it almost every time - the pinnacle of gaslighting, huh? =))
+> I was the class secretary, so it was easy for me to **make up** a lot of excuses for my 15-to-30-minute tardiness. I did this so frequently that everyone gradually stopped questioning the legitimacy. Getting away with it almost every time - the pinnacle of gaslighting, huh?
 
 The daily inquiries were rather simple:
 >What should I eat next?
@@ -93,11 +94,13 @@ The daily inquiries were rather simple:
 
 >Would the literature teacher let us play board games instead? I probably shouldn't be the one bringing it up since she wasn't particularly fond of me. 
 >
->We were in the middle of the game so it would suck if the flow is broken like this. A board game session typically lasts around 2 hours, but I have some teachers who are flexible enough to let us play through. That's why I had the audacity to consider asking in the first place, though not all teachers were as accommodating.
+>We were in the middle of the game so it would suck if the flow is broken like this. A board game session typically lasts around 2 hours, but I have some teachers who are flexible enough to let us play through. That's why I had the audacity to consider asking in the first place, though not all were as accommodating.
+
 
 ### A Regime That Should Have Been Universal
-The educational autonomy level I got was high, along with a hefty budget. We had the freedom to decide how to spend our time, with a monthly salary exceeding a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. 
-To put it simply, the policy was: 
+The educational autonomy level I got was unprecedentedly and inimitably high, along with a hefty budget for students. We had the freedom to decide how to spend our time, with a monthly salary exceeding a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. Students who lived a bit off the beaten track would earn almost twice. 
+And big monetary rewards were given (around 9.000.000₫ per semester per student) by getting an 8.5 GPA, which was not too hard, at all. The school monthly budget for students was 2 billion VND, as stated by the headmaster.
+Amidst all this, the school policy was:
 > *If you wanted to play, play. If you wanted to learn, learn.* 
 
 By all means, that was the best thing since sliced bread for me.
