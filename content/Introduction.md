@@ -86,7 +86,9 @@ It wasn't the school's prestige or education (which, in and of itself, is remark
 My typical day here would start like this: 
 > I'd wake up late and rush to school, couldn't make it on time, thinking "screw it," and go buy breakfast with extra, extra toppings, leisurely enjoying every bite. 
 >
-> I was the class secretary, so it was easy for me to **make up** a lot of excuses for my 15-to-30-minute tardiness. I did this so frequently that everyone gradually stopped questioning my legitimacy. **Getting away with it** almost every time - the pinnacle of gaslighting, huh?
+> I was the class secretary, so it was easy for me to **make up** a lot of excuses for my 15-to-30-minute tardiness. I did this so frequently that everyone gradually stopped questioning my legitimacy. 
+> [[Vocabulary/Getting Away With It |Getting away with it]] almost every time - the pinnacle of gaslighting, huh?
+
 
 The daily inquiries were rather simple:
 >What should I eat next?

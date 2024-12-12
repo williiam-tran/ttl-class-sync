@@ -6,7 +6,7 @@ canvas_quiz_id: 20222971
 canvas_sync: true
 canvas_url: https://canvas.instructure.com/courses/10789406/quizzes/20222971
 due_date: '2024-12-08T23:59:59Z'
-last_sync: '2024-12-05T17:08:51.835956'
+last_sync: '2024-12-12T22:41:25.174376'
 points_possible: 100
 session_number: 1
 student: Trung
