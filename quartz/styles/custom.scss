@@ -98,16 +98,6 @@ li {
   color: #e8b195d4;
 }
 
-body:not(.default-font-color) strong,
-body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
-  color: #8bcbda !important;
-}
-
-body:not(.default-font-color) span:not(.cm-highlight).cm-em,
-em {
-  color: #eaa6c1 !important;
-  font-weight: 500;
-}
 
 .cm-lineNumbers,
 .cm-gutterElement.relative-line-numbers-mono.cm-active {

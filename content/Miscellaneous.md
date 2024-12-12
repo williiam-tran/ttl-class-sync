@@ -103,8 +103,6 @@ publish: true
 - [ ] on end
 - exxagerate
 - spice
-
-
 - indifferent (a) 
 - transitive verb / intransitive 
 	- transitive - no prep

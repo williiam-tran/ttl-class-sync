@@ -54,12 +54,15 @@ em {
 
 body:not(.default-font-color) strong,
 body:not(.default-font-color) span:not(.cm-highlight).cm-strong {
-  color: #8bcbda !important;
-  background-color: #283b42db !important;
+
+  background-color: var(--highlight) !important;
+  color: #a8dfff !important;
+  // color: #9cecff !important;
+  // background-color: #283b42db !important;
 }
 
 #explorer * {
-  color: #9bcdeb;
+  color: #a8dfff;
 }
 
 
