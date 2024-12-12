@@ -10,7 +10,7 @@ Our class will begin this week, I hope that we will have a smooth sailing journe
 
 ## A Personal Note
 
-First, this is deeply personal for me, and I trusted you guys within my circle to keep this between us, so <mark class="hltr-red">DO NOT</mark> share with anyone, okay? Even though it's on public domain :D
+First, this is deeply personal for me, and I trusted you guys to keep this between us, so <mark class="hltr-red">DO NOT</mark> share with anyone, okay? Even though it's on public domain :D
 
 Typically, I would **jot down** these reflections in my journal but for this occasion, to motivate you guys, to hopefully ignite a flame of undying passion for learning, I would like to share a snapshot of my life. First, one of my early mottos:
 > My thirst for knowledge will never be **quenched.**
