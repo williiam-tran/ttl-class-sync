@@ -4,6 +4,7 @@ publish: true
 ## Get away with something
 
 ### Definition
+#### Phrasal Verb
 To escape blame or punishment when you do something wrong, or to avoid harm or criticism for something you did.
 
 >[!example] Example
@@ -13,5 +14,3 @@ To escape blame or punishment when you do something wrong, or to avoid harm or c
 >- It's time they put a stop to his bad behaviour. He's been getting away with it for too long.
 >- She's determined that her students will not get away with plagiarism.
 >- That's such an old trick. I can't believe he gets away with it.
-
-
