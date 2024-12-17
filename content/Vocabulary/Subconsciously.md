@@ -1,17 +1,11 @@
 ---
 publish: true
 ---
-## [Subconsciously](https://dictionary.cambridge.org/dictionary/english/subconsciously)
-
-#### Word Type: Adverb
+## Subconsciously
 
 ### Definition
-In a way that is done without conscious thought, often influenced by feelings or instincts rather than deliberate intention.
+#### adv
+an adverb that describes actions, thoughts, or feelings that occur in the mind without conscious awareness or deliberate intent, often influenced by deeper, underlying mental processes.
 
-> [!example] Example
-> 
-> - "She **subconsciously** avoided the topic because it made her uncomfortable."
-> - "His hand moved **subconsciously** to the back of his neck when he felt nervous."
-> - "People often **subconsciously** mimic the body language of those they admire."
-> - "He **subconsciously** smiled when he saw the surprise gift."
-> - "The song reminded her **subconsciously** of her childhood."
+>[!example] Example
+> She subconsciously tapped her foot to the rhythm of the music.

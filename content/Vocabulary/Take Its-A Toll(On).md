@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 ## [Take its/a toll](https://dictionary.cambridge.org/dictionary/english/take-its-a-toll)
 
 #### Word Type: Phrase

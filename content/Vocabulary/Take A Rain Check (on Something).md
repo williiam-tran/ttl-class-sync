@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 ## [take a rain check (on something)](https://dictionary.cambridge.org/dictionary/english/take-a-rain-check-(on-something))
 
 #### Word Type: idiom

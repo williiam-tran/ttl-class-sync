@@ -35,7 +35,7 @@ My life has been the complete opposite and will probably become of this quote:
 
 >Without any intervention, wandering with [[perplexity|perplexity]] and curiosity, I turned into a bad, but [[meticulous|meticulous]] kid that no one seemed to notice.
 
->I believe the duality of one's nature will always be present, but my [[Poor|poor]] decisions were taken lightly, or more accurately, went by **[[Unawares|unawares]]**.
+>I believe the duality of one's nature will always be present, but my [[Poor|poor]] decisions were taken lightly, or more accurately, went by **[[Unawares|/unawares]]**.
 >I'm not proud, but thankfully, I could get back [[On The Right Track|on the right track]] without much of a fight.
 
 ## Primary School

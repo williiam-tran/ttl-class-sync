@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 ## [unaware](https://dictionary.cambridge.org/dictionary/english/unaware)
 
 #### Word Type: adjective

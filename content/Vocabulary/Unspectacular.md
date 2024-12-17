@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 ## [unspectacular](https://dictionary.cambridge.org/dictionary/english/unspectacular)
 
 #### Word Type: adjective
