@@ -21,7 +21,7 @@ publish: true
 - [a blip?](https://www.youtube.com/watch?v=ndhNxRU76s8): a snap out of existence
 	 - "He blipped so technically he's not allowed to drink."
 
-- camaraderie: a feeling of friendliness towards people that you work or share an experience with
+- camaraderie: a feeling of friendliness to people that you  share an experience with.
 	- *Example: "When you've been minding your own business for a long time, there's a tremendous sense of camaraderie when you meet another one."*
 	
 ## Speaking
