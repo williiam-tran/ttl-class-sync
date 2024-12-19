@@ -234,3 +234,6 @@ Here's a detailed elaboration with contextual examples:
 **Các cặp nguyên âm thường gặp:**
   - "oʊ" như trong "boat"
   - "ai" như trong "fire"
+  
+### TAnh, Thanh
+- [ ] ubiquitous

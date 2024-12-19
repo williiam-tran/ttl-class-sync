@@ -6,16 +6,16 @@ image: images/introduction.png
 
 # Greetings, Family 
 
-Our class will begin this week, I hope that we will have a [[Be Smooth Sailing|smooth sailing]] journey together.   
+Our class will begin this week, I hope that we will have a smooth sailing journey together.   
 
 ## A Personal Note
 
 First, this is deeply personal for me, and I trusted you guys to keep this between us, so <mark class="hltr-red">DO NOT</mark> share with anyone, okay? Even though it's on public [[Domain|domain]] :D
 
 Typically, I would **[[Jot Down|jot down]]** these reflections in my journal but for this occasion, to motivate you guys, to hopefully [[Ignite|ignite]] a flame of undying passion for learning, I would like to share a snapshot of my life. First, one of my early mottos:
-> My thirst for knowledge will never be **[[Quench|quenched]]**
+> My thirst for knowledge will never [[Be|be]] **[[Quench|quenched]].**
 
-If you don't like it, then tough luck, take this as a reading task, and I've **highlighted** the vocabulary that you've learned, not the new ones.
+If you don't like it, then tough luck, take this as a reading task, and I've **highlighted** the [[vocabulary|vocabulary]] that you've learned, not the new ones.
 So, to mark the [[commencement|commencement]] of our learning [[endeavor|endeavor]], here are your first tasks:
 
 > [!Example] This week's tasks
@@ -23,7 +23,7 @@ So, to mark the [[commencement|commencement]] of our learning [[endeavor|endeavo
 > - [ ] Your comments/remarks (at least 3), send me personally or via group chat, suit you.
 > - [ ] Extra 2 points for those who note grammar structures used as well. An [[exhaustive|exhaustive]] one.
 
-<mark class="hltr-orange">⚠️Note</mark>  Minus 1 point for each vocabulary word you miss if asked. Missing means that you haven't noted it yet.
+<mark class="hltr-orange">⚠️Note</mark>  Minus 1 point for each [[vocabulary|vocabulary]] word you miss if asked. Missing means that you haven't noted it yet.
 
 # Autobiography
 People often tell me how "a normal person" would behave differently than I do, so I guess it's only reasonable that my school life wasn't typical either, lol.
@@ -31,12 +31,12 @@ People often tell me how "a normal person" would behave differently than I do, s
 Compared to my peers, I didn't study as much, playing most of the time and often doing [[The Bare Minimum|the bare minimum]] or finding **unconventional** shortcuts to keep pace with them. But lucky me, the [[So-Called|so-called]] "peers" were all geniuses, so I got [[Put|put]] in place a lot. Even if I fooled around, the baseline level of effort to keep up helped me pass almost every important test entry.
 
 My life has been the complete opposite and will probably become of this quote:
-> *You either die a hero, or [[Live|live]] long enough to see yourself become the villain.*
+> *You either die a hero, or [[Live|live]] long enough to [[See|see]] yourself become the villain.*
 
 >Without any intervention, wandering with [[perplexity|perplexity]] and curiosity, I turned into a bad, but [[meticulous|meticulous]] kid that no one seemed to notice.
 
->I believe the duality of one's nature will always be present, but my [[Poor|poor]] decisions were taken lightly, or more accurately, went by **[[Unawares|/unawares]]**.
->I'm not proud, but thankfully, I could get back [[On The Right Track|on the right track]] without much of a fight.
+>I believe the duality of one's nature will always [[Be|be]] present, but my [[Poor|poor]] decisions were taken lightly, or more accurately, went by **[[Unawares|unawares]]**.
+>I'm not proud, but thankfully, I could [[Get|get]] back [[On The Right Track|on the right track]] without much of a fight.
 
 ## Primary School
 
@@ -56,7 +56,7 @@ Let's not [[delve|delve]] further...
 A got-away-with-it-somehow spoiled brat ended up in the top class of the top secondary school. I came to my senses only much later on, back then I was still feigning [[Ignorance|ignorance]] and acting [[On Impulse|on impulse]], as most children would.
 
 The school wasn't too far from my house, but still far enough for a kid to go on his own, and my parents couldn't drop me off either.
-Therefore, I got this [[Uncalled For|uncalled-for]] luxury of going to school by taxi—yep, a taxi, alongside my neighborhood friends. Truly a story to be bragging about, for [[Bourgeois|bourgeois]] families.
+Therefore, I got this [[Uncalled-For|uncalled-for]] luxury of going to school by taxi—yep, a taxi, alongside my neighborhood friends. Truly a story to [[Be|be]] bragging about, for [[Bourgeois|bourgeois]] families.
 
 The academic life went south from here 😅 as the [[impetuous|impetuous]] desires got the better of me. I skipped classes more than I skipped meals.
 
@@ -70,7 +70,7 @@ We were not only in the best but also the wealthiest class. We could go on weeke
 
 This seemingly chill class turned out to have the ==highest unprecedented acceptance rate== at Lam Son Gifted High School.
 
-I doubt I'll ever have as many [[extravagant|extravagant]] field trips as I did back then. I got to [[See|see]] so much of Vietnam's beauty and historical [[Richness|richness]] — things I **had long taken for granted**.
+I doubt I'll ever have as many [[extravagant|extravagant]] field trips as I did back then. I got to [[See|see]] so much of Vietnam's beauty and historical [[Richness|richness]] — things I **had long taken for [[Granted|granted]]**.
 
 But it wasn’t [[Just|just]] the scenes and places I overlooked; it was the people too. I discovered so many new emotions—ones that were [[pivotal|pivotal]], inevitable, but bitterish—regret, sorrow, rage, and that heartbroken feeling, or whatever you’d name it.
 
@@ -84,10 +84,10 @@ Getting into Lam Son has been my most significant cornerstone, though I didn't r
 It wasn't the school's [[prestige|prestige]] or education (which, in and of itself, is remarkable) that made the difference—it was the people here who changed me for the better, forever.
 
 My typical day here would start like this: 
-> I'd wake up late and rush to school, couldn't make it on time, thinking "screw it," and go buy breakfast with extra, extra toppings, leisurely enjoying every bite. 
+> I'd wake up late and rush to school, couldn't [[Make|make]] it on time, thinking "screw it," and go buy breakfast with extra, extra toppings, leisurely enjoying every bite. 
 >
 > I was the class secretary, so it was easy for me to **[[Make Up|make up]]** a lot of excuses for my 15-to-30-minute [[tardiness|tardiness]]. I did this so frequently that everyone gradually stopped questioning my legitimacy. 
-> [[Vocabulary/Getting Away With It |Getting away with it]] almost every time - the pinnacle of [[gaslighting|gaslighting]], huh?
+> [[Getting Away With It|Getting away with it]] almost every time - the pinnacle of [[gaslighting|gaslighting]], huh?
 
 
 The daily inquiries were rather [[Simple|simple]]:
@@ -97,9 +97,9 @@ The daily inquiries were rather [[Simple|simple]]:
 >
 >Should we play Werewolves, Ribbit, or Exploding Kittens today? 
 >
->What rhetorical questions should I ask to make it more impactful during the debate?
+>What rhetorical questions should I ask to [[Make|make]] it more impactful during the debate?
 >
->Would the Literature teacher let us play board games instead? I probably shouldn't be the one [[Bring Up|bringing it up]] since she wasn't particularly fond of me. 
+>Would the Literature teacher let us play board games instead? I probably shouldn't [[Be|be]] the one [[Bring Up|bringing it up]] since she wasn't particularly fond of me. 
 >
 >We were in the middle of the game so it would suck if the flow is broken like this. 
 >
@@ -121,7 +121,7 @@ By all means, that was **[[The Best Thing Since Sliced Bread|the best thing sinc
 I got the habit of playing [[truant|truant]] since the regulations are so flexible and open. You got to decide what's next for you; the temptation level is obviously **off the chart** for a student, you [[See|see]].
 
 I could attend only half the lessons (usually two) in the morning, go to the net to play video games, skip the afternoon lecture, and go to the coffee shop with my friends, who would skip as well. 
-When I first got admitted, I did this a lot, with leading repercussions, of course... Still, I am lucky enough to have many friends of the same frequency who would do those silly stuff with me and make so much memories, yet I could recount them like **the back of my hand**. 
+When I first got admitted, I did this a lot, with leading repercussions, of course... Still, I am lucky enough to have many friends of the same frequency who would do those silly stuff with me and [[Make|make]] so much memories, yet I could recount them like **the back of my hand**. 
 
 Each class is financially independent, covering its own bills for electricity, water, and cleaning.
 We had a 65' touchscreen TV, 2 pairs of JBL Speakers in the name of learning listening 😂, and lots of mics 🎤🎤🎤.
@@ -145,11 +145,11 @@ The inquiry of what would [[Become Of Us|become of us]], or what our hopes and d
 
 I can still remember that feeling, [[vaguely|vaguely]] - the way dreaming came as naturally as breathing. [[Just|Just]] now, I remember someone from those days gave us a name: 🌱Lámer.
 
-For me, high school was when the seed of my fantasies and aspirations was planted, and the mold of my true self was finalized, all stemming from those [[Naive|naive]] and untroubled experiences. None of what I have achieved, or will achieve, **could have happened** without those everlasting moments when we could afford to be dreamers. Those [[fleeting|fleeting]], [[Precious|precious]]  days shaped our dreams and life trajectories, allowing us to envision a future filled with endless possibilities.
+For me, high school was when the seed of my fantasies and aspirations was planted, and the mold of my true self was finalized, all stemming from those [[Naive|naive]] and untroubled experiences. None of what I have achieved, or will achieve, **could have happened** without those everlasting moments when we could afford to [[Be|be]] dreamers. Those [[fleeting|fleeting]], [[Precious|precious]]  days shaped our dreams and life trajectories, allowing us to envision a future filled with endless possibilities.
 
 # ~~Why do I tell you all this?~~ Why not?
 
-I realized some time ago that the privileges I received should not be taken for granted, as I wouldn't trade them for anything. 
+I realized some time ago that the privileges I received should not [[Be|be]] taken for [[Granted|granted]], as I wouldn't trade them for anything. 
 Now, I [[See|see]] them as something I **have to [[Bear|bear]]** on my shoulders, my responsibilities. The spark of life 🌟I received is something I long to share, driven by both my sense of obligation and [[wholeheartedness|wholeheartedness]]. 
 ### Passing The Torch 🔥🔥🔥
 Back in the days, my mother brought up the idea that I should take on teaching as a profession. I used to despise that so much, claiming I hated teaching without any real reason—I still don't know why I said that. 
@@ -167,7 +167,7 @@ My very first students were **forced upon** me as favors asked by relatives, lea
 Even though I'm still learning, I feel like I've got a lot to share. 
  > *Sharing Is Caring.*
 >
-Knowledge isn't meant to be hoarded like treasure — it's meant to flow freely, like water. I've been fortunate enough to **[[Stumble Upon|stumble upon]]** this cheat code, and it would be selfish to keep it to myself.
+Knowledge isn't meant to [[Be|be]] hoarded like treasure — it's meant to flow freely, like water. I've been fortunate enough to **[[Stumble Upon|stumble upon]]** this cheat code, and it would [[Be|be]] selfish to keep it to myself.
 
 ### Cheat Code For Life
 I believe I possess a wide [[spectrum|spectrum]] of emotions and strong knowledge utilization and I attribute this sort of [[Accomplishment|accomplishment]] largely to learning languages.
@@ -176,9 +176,9 @@ Out of all the skills I've learned, learning English has been my ultimate cheat 
 
 I still remember the first time I heard lyrics in a language not my mother tongue, yet they resonated deeply. I had **[[Butterflies In My Stomach|butterflies in my stomach]]**, a sadness so profound that it wrenched my heart. That feeling when words echo straight to the heart, not the brain — I felt like discovering an entirely new part of myself. 
 
-Then, the new refreshing experiences kept flowing: **breaking down** in tears watching movies, giggling at random jokes in the comments, discovering beauty hidden **[[Read Between The Lines|between the lines]]**, having words spiraling out of your mind that you didn't know were in your possession, and finally seeing the payoff of your efforts.
+Then, the new refreshing experiences kept flowing: **[[Breaking Down|breaking down]]** in tears watching movies, giggling at random jokes in the comments, discovering beauty hidden **between the lines**, having words spiraling out of your mind that you didn't know were in your possession, and finally seeing the payoff of your efforts.
 
-From the moment I can proudly claim English as my second language, I felt like I got a master key that unlock virtually every door. I've **[[Be In Someone's Shoes|walked in the shoes of]]** people from different corners of the world, sharing nothing but a common language, yet it was enough to foster both sympathy and empathy.
+From the moment I can proudly claim English as my second language, I felt like I got a master key that unlock virtually every door. I've **walked in the shoes of** people from different corners of the world, sharing nothing but a common language, yet it was enough to foster both sympathy and empathy.
 
 Each conversation, each perspective shared, reshapes my understanding of the world. With the advent of the Internet, it's like having multiple lives in parallel: experiencing countless joys, struggles, triumphs, and so many unnamed emotions through the eyes of people I've never met. Truly a cheat code. 
 
@@ -199,4 +199,4 @@ If you have [[faith|faith]] in yourself and trust in me:
 # What's Next?
 
 Now, you have familiarized yourself with your teacher. Let's move on to the class guidelines.
-- [[Weekly Routine]]
+- Weekly Routine
