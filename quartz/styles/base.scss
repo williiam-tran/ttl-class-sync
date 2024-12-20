@@ -705,6 +705,7 @@ ol.overflow {
 
 .external-embed.youtube,
 iframe.pdf {
+  margin-top: 15px;
   aspect-ratio: 16 / 9;
   height: 100%;
   width: 100%;
@@ -754,6 +755,7 @@ blockquote {
 
 .callout[data-callout=example] {
   --color: rgba(243, 114, 152, 0.925) !important;
+  border-left: 3px solid rgba(243, 114, 152, 0.925) !important;
   --border: #7a43b544;
   --bg: #7a43b510;
   --callout-icon: var(--callout-icon-example);
@@ -938,7 +940,11 @@ a.external {
   }
 
 
-  a.internal,
+  a.internal {
+    color: inherit !important;
+  }
+
+
   a.external {
     background-color: #d9f7ffcc !important;
     color: #08add4 !important;
@@ -962,6 +968,7 @@ a.external {
   .callout[data-callout=example] {
     --color: #ff3d8a !important;
     color: #ff3d8a !important;
+    border-left: 3px solid #ff3d8a !important;
     --border: #7a43b544;
     --bg: #7a43b510;
     --callout-icon: var(--callout-icon-example);
@@ -979,5 +986,9 @@ a.external {
 
   .popover>.popover-inner {
     background-color: #f8f8f8 !important;
+  }
+
+  .hltr-red {
+    color: #fff !important;
   }
 }
