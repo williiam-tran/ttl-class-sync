@@ -1,12 +1,18 @@
 ## Weekly Duties
 ### At Home
-- [ ] Daily check-in on Duolingo
-- [ ] Daily quizzes in Anki 
-- [ ] Weekly Assignment (from 1 to 3)
+1. Daily check-in on Duolingo
+2. Daily quizzes in Anki 
+3. Weekly Assignment (from 1 to 3)
+	- One national-level test, trong 1 rotation sẽ có 3 bước: 
+		1. Mng làm xong đề trước deadline, tra cứu thoải mái + note từ mới trong bài. 
+		2. Mình sẽ gửi feedback trước buổi học tiếp theo để mng review. 
+		3. Buổi học sau sẽ lướt qua đề đấy để cho mng insights + check kiến thức dựa trên các assumptions là: 
+			- Mọi người đã note lại từ mới + biết level 1 recursion của từ đấy (loosely) 
+			- Các câu đã làm đúng = hiểu grammar + vocab của câu đấy 
+			- Các câu làm sai mình feedback rồi = đã note lại các mục grammar đấy.
 ### During Class
 - Note down new words and grammar structure that the teacher mentioned
 - Spontaneous KnowLedge Check on first level recursion of previously encountered words
-- 
 
 ## Reward & Punishment System
 

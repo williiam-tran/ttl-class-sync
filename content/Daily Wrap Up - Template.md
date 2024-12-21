@@ -48,3 +48,9 @@ publish: true
 
 
 ![[../../../../Resources/What's on my mind-20241208183539900.webp]]
+
+
+Có một fundamental concept trong coding là DRY: Don't repeat yourself,  or duplication is evil. I live by this. ref cho b nào quên https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+
+Lớp này minh rất khuyến khích đặt câu hỏi, sắp tới sẽ là requisite, hỏi ngu càng tốt vì hỏi thì mới hết dốt, nhưng mà
+Do not ask ignorant questions or any of the rhetorical variety. First timer
