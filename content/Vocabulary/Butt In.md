@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [butt in](https://dictionary.cambridge.org/dictionary/english/butt-in)
 
-#### Word Type: phrasal verb
 ### Definition
+#### Word Type: phrasal verb
 to interrupt a conversation or discussion or someone who is talking:
 
 >[!example] Example

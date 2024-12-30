@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [irritated](https://dictionary.cambridge.org/dictionary/english/irritated)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 annoyed:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [gratefully](https://dictionary.cambridge.org/dictionary/english/gratefully)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 in a grateful way:
 
 >[!example] Example

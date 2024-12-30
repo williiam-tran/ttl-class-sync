@@ -1,11 +1,12 @@
 ---
 publish: true
 ---
-## ignition
+
+## [ignition](https://dictionary.cambridge.org/dictionary/english/ignition)
 
 ### Definition
-#### n
+#### Word Type: N
 The beginning or triggering of a process or feeling.
 
 >[!example] Example
-> Her idea was the ignition of a revolutionary movement in education.
+> - Her idea was the ignition of a revolutionary movement in education.

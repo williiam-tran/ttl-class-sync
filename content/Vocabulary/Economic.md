@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [economic](https://dictionary.cambridge.org/dictionary/english/economic)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 relating to trade, industry, or money:
 
 >[!example] Example

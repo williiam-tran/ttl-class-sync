@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [economics](https://dictionary.cambridge.org/dictionary/english/economics)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the way in which trade, industry, or money is organized, or the study of this:
 
 >[!example] Example

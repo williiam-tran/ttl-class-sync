@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [incalculable](https://dictionary.cambridge.org/dictionary/english/incalculable)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 extremely large and therefore unable to be measured:
 
 >[!example] Example

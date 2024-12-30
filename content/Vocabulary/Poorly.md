@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [poorly](https://dictionary.cambridge.org/dictionary/english/poorly)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 not well:
 
 >[!example] Example

@@ -1,12 +1,18 @@
 ---
 publish: true
+aliases:
+  - recursion
 ---
 
 ## [recursion](https://dictionary.cambridge.org/dictionary/english/recursion)
-
+#### Word Type: Noun
 ### Definition
-#### Word Type: n
 process that repeats itself in a self-similar way (đệ quy).
 
->[!example] Example
-> - To solve the problem, the programmer used recursion, where the function called itself to break the task into smaller, manageable parts.
+> [!example] Example
+> 
+> - "The algorithm uses **recursion** to break down complex tasks into simpler ones."
+> - "In programming, **recursion** can be an efficient way to solve problems involving nested structures."
+> - "The concept of **recursion** is fundamental in understanding certain data structures like trees."
+> - "Mathematical problems often involve **recursion** to simplify the solution process."
+> - "The puzzle was solved using a **recursion** method that repeatedly called smaller subproblems."

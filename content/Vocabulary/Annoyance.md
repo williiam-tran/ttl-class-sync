@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [annoyance](https://dictionary.cambridge.org/dictionary/english/annoyance)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the feeling or state of being annoyed:
 
 >[!example] Example

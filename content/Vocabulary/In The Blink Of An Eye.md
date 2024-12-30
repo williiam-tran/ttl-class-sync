@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [in the blink of an eye](https://dictionary.cambridge.org/dictionary/english/in-the-blink-of-an-eye)
 
-#### Word Type: idiom
 ### Definition
+#### Word Type: idiom
 extremely quickly:
 
 >[!example] Example

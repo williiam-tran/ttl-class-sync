@@ -4,8 +4,8 @@ publish: true
 
 ## [be over the moon](https://dictionary.cambridge.org/dictionary/english/be-over-the-moon)
 
-#### Word Type: idiom
 ### Definition
+#### Word Type: idiom
 to be very pleased:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [rich](https://dictionary.cambridge.org/dictionary/english/rich)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 having a lot of money or valuable possessions:
 
 >[!example] Example

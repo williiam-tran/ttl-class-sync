@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [ponder](https://dictionary.cambridge.org/dictionary/english/ponder)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to think carefully about something, especially for a noticeable length of time:
 
 >[!example] Example

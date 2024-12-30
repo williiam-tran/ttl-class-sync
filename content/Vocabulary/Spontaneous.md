@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [spontaneous](https://dictionary.cambridge.org/dictionary/english/spontaneous)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 happening or done in a natural, often sudden way, without any planning or without being forced:
 
 >[!example] Example

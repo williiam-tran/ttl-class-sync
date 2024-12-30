@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [extracurricular](https://dictionary.cambridge.org/dictionary/english/extracurricular)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 An extracurricular activity or subject is not part of the usual school or college course:
 
 >[!example] Example

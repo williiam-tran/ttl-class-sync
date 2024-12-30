@@ -1,9 +1,10 @@
 ---
 publish: true
+aliases:
+  - took a heavy toll on me
 ---
 
-## [Take its/a toll](https://dictionary.cambridge.org/dictionary/english/take-its-a-toll)
-
+## [Take its/a toll(on)](https://dictionary.cambridge.org/dictionary/english/take-its-a-toll)
 #### Word Type: Phrase
 
 ### Definition

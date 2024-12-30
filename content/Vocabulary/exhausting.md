@@ -1,11 +1,12 @@
 ---
 publish: true
 ---
-## exhausting
+
+## [exhausting](https://dictionary.cambridge.org/dictionary/english/exhausting)
 
 ### Definition
-#### a
+#### Word Type: a
 making you feel extremely tired.
 
 >[!example] Example
-> The long hike up the mountain was physically exhausting.
+> - The long hike up the mountain was physically exhausting.

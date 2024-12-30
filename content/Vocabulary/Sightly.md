@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [sightly](https://dictionary.cambridge.org/dictionary/english/sightly)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 attractive or pleasing to look at or see:
 
 >[!example] Example

@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - continents
 ---
+
 ## [continent](https://dictionary.cambridge.org/dictionary/english/continent)
 #### Word Type: Noun, Adjective
 ### Definition

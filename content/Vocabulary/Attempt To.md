@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [attempt to](https://dictionary.cambridge.org/dictionary/english/attempt-to)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to try to do something, especially something difficult:
 
 >[!example] Example

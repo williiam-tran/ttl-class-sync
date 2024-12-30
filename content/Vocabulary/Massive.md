@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [massive](https://dictionary.cambridge.org/dictionary/english/massive)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 very large in size, amount, or number:
 
 >[!example] Example

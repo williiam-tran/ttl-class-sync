@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [retrain](https://dictionary.cambridge.org/dictionary/english/retrain)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to learn new skills so you can do a different job:
 
 >[!example] Example

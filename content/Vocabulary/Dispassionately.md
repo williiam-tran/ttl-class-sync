@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [dispassionately](https://dictionary.cambridge.org/dictionary/english/dispassionately)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 in a way that is not influenced by emotions:
 
 >[!example] Example

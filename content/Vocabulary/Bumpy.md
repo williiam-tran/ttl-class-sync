@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [bumpy](https://dictionary.cambridge.org/dictionary/english/bumpy)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not smooth:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [spicy](https://dictionary.cambridge.org/dictionary/english/spicy)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 containing strong flavours from spices:
 
 >[!example] Example

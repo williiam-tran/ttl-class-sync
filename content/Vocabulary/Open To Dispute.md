@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [open to dispute](https://dictionary.cambridge.org/dictionary/english/open-to-dispute)
 
-#### Word Type: phrase
 ### Definition
+#### Word Type: phrase
 not certain:
 
 >[!example] Example

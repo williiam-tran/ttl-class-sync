@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [ignorance](https://dictionary.cambridge.org/dictionary/english/ignorance)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 lack of knowledge, understanding, or information about something:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [hit the hay](https://dictionary.cambridge.org/dictionary/english/hit-the-hay)
 
-#### Word Type: idiom
 ### Definition
+#### Word Type: idiom
 to go to bed in order to sleep:
 
 >[!example] Example

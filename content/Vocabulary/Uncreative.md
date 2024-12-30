@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [uncreative](https://dictionary.cambridge.org/dictionary/english/uncreative)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not producing or using original or unusual ideas:
 
 >[!example] Example

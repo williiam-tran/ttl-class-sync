@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [indifferent](https://dictionary.cambridge.org/dictionary/english/indifferent)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not thinking about or interested in someone or something:
 
 >[!example] Example

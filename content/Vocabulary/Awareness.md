@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [awareness](https://dictionary.cambridge.org/dictionary/english/awareness)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 knowledge that something exists, or understanding of a situation or subject at the present time based on information or experience:
 
 >[!example] Example

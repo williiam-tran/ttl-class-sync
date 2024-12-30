@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [economically](https://dictionary.cambridge.org/dictionary/english/economically)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 using little money, time, etc.:
 
 >[!example] Example

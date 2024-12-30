@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - bragging about
 ---
+
 ## [brag](https://dictionary.cambridge.org/dictionary/english/brag)
 
 ### Definition

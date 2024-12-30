@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [manufacturer](https://dictionary.cambridge.org/dictionary/english/manufacturer)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a company that produces goods in large numbers:
 
 >[!example] Example

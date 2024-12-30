@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [sanguine](https://dictionary.cambridge.org/dictionary/english/sanguine)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 (of someone or someone's character) positive and hoping for good things:
 
 >[!example] Example

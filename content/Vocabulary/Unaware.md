@@ -4,8 +4,8 @@ publish: true
 
 ## [unaware](https://dictionary.cambridge.org/dictionary/english/unaware)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not understanding or realizing something:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [overbearingly](https://dictionary.cambridge.org/dictionary/english/overbearingly)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 in the manner of someone who is too confident and too determined to tell other people what to do, especially in a way that is unpleasant :
 
 >[!example] Example

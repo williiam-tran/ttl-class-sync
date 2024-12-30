@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [chaotic](https://dictionary.cambridge.org/dictionary/english/chaotic)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 in a state of chaos:
 
 >[!example] Example

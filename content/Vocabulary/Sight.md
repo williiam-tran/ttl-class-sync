@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [sight](https://dictionary.cambridge.org/dictionary/english/sight)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the ability to see:
 
 >[!example] Example

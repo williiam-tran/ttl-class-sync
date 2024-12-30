@@ -4,8 +4,8 @@ publish: true
 
 ## [unwilling](https://dictionary.cambridge.org/dictionary/english/unwilling)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not willing:
 
 >[!example] Example

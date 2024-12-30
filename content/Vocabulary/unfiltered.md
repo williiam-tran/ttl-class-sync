@@ -1,12 +1,20 @@
 ---
 publish: true
+aliases:
+  - unfiltered
 ---
 
 ## [unfiltered](https://dictionary.cambridge.org/dictionary/english/unfiltered)
 
-### Definition
-#### Word Type: a
-Honest, raw, or unedited, often referring to opinions, language, or emotions.
+#### Word Type: Adjective
 
->[!example] Example
-> - Her reaction was completely **unfiltered**, showing exactly how she felt.
+### Definition
+Not edited or refined; raw, direct, or without censorship.
+
+> [!example] Example
+> 
+> - "His **unfiltered** comments during the meeting made everyone uncomfortable."
+> - "She gave an **unfiltered** opinion about the new project, speaking her mind freely."
+> - "The interview was **unfiltered**, revealing the actor’s true feelings about the industry."
+> - "His **unfiltered** enthusiasm for the new idea was contagious."
+> - "The blog post contained **unfiltered** insights into the author's personal struggles."

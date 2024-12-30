@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [unimpressive](https://dictionary.cambridge.org/dictionary/english/unimpressive)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not making you feel admiration or respect:
 
 >[!example] Example

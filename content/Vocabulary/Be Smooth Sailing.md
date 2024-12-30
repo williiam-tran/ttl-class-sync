@@ -1,10 +1,10 @@
 ---
 publish: true
 aliases:
-  - smooth sailing
-  - hello world
+  - a smooth sailing journey
 ---
-## [be smooth sailing](https://dictionary.cambridge.org/dictionary/english/-be-smooth-sailing)
+
+## [be smooth sailing](https://dictionary.cambridge.org/dictionary/english/be-smooth-sailing)
 #### Word Type: Idiom
 ### Definition
 to be easy and without problems.

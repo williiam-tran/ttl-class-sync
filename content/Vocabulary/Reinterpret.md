@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [reinterpret](https://dictionary.cambridge.org/dictionary/english/reinterpret)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to change what you think the meaning of something is:
 
 >[!example] Example

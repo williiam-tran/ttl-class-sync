@@ -1,7 +1,10 @@
 ---
 publish: true
+aliases:
+  - audacity
 ---
-## [audacity](https://dictionary.cambridge.org/dictionary/english/audacity Word Type: Noun)
+
+## [audacity](https://dictionary.cambridge.org/dictionary/english/audacity)
 #### Word Type: Noun
 ### Definition
 The willingness to take bold risks or have the nerve to do something, often in a way that is disrespectful or rude.

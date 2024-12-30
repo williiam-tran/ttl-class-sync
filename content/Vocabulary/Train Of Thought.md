@@ -1,7 +1,10 @@
 ---
 publish: true
+aliases:
+  - train of thought
 ---
-## [train of thought](https://dictionary.cambridge.org/dictionary/english/train-of-thought)
+
+## [train of thought/events](https://dictionary.cambridge.org/dictionary/english/z//)
 
 #### Word Type: Noun
 

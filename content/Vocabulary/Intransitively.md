@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [intransitively](https://dictionary.cambridge.org/dictionary/english/intransitively)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 (of a verb) in an intransitive way (= not having or needing an object ):
 
 >[!example] Example

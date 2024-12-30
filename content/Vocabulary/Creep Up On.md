@@ -1,7 +1,10 @@
 ---
 publish: true
+aliases:
+  - crept up on me
 ---
-## [creep up on/behind someone](https://dictionary.cambridge.org/dictionary/english/creep-up-on-behind?q=creep+up+on%2Fbehind+someone)
+
+## [creep up on](https://dictionary.cambridge.org/dictionary/english/creep-up-on)
 #### Word Type: Phrasal Verb
 ### Definition
 to surprise someone and move closer to them without being seen or heard.

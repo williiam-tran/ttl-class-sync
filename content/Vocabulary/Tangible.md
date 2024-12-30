@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [tangible](https://dictionary.cambridge.org/dictionary/english/tangible)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 real and not imaginary; able to be shown, touched, or experienced:
 
 >[!example] Example

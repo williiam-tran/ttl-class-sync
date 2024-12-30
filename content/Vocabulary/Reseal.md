@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [reseal](https://dictionary.cambridge.org/dictionary/english/reseal)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to close an envelope or container again by sticking the edges together:
 
 >[!example] Example

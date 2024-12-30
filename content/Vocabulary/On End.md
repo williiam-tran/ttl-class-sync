@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [on end](https://dictionary.cambridge.org/dictionary/english/on-end)
 
-#### Word Type: idiom
 ### Definition
+#### Word Type: idiom
 continuously:
 
 >[!example] Example

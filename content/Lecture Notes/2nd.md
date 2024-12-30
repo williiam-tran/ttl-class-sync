@@ -238,7 +238,7 @@ Here's a detailed elaboration with contextual examples:
   
 ## Vocabulary
   
-### Tlinh, Trung, Thanh
+### TLinh, Trung, Thanh
 - [ ] lose count of sth
 - [ ] lose face
 - [ ] lose sight of

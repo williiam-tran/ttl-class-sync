@@ -1,11 +1,19 @@
 ---
 publish: true
+aliases:
+  - on the brink of
 ---
-## [on the brink of](https://dictionary.cambridge.org/dictionary/english/on-the-brink-of)
+
+## On the Brink of
+#### Word Type: Idiom
 
 ### Definition
-#### Word Pype: phrase
-be very close to a major event or situation, typically one that is significant, critical, or dramatic. It can refer to both positive and negative outcomes.
+To be very close to experiencing or achieving something, often something significant or extreme.
 
->[!example] Example
-> - They were on the brink of discovering a major scientific breakthrough.
+> [!example] Example
+> 
+> - "The company was **on the brink of** bankruptcy before the new CEO took over."
+> - "The patient was **on the brink of** recovery after weeks of treatment."
+> - "She was **on the brink of** tears after hearing the good news."
+> - "The nation was **on the brink of** war, but diplomacy helped avoid it."
+> - "He was **on the brink of** making a major discovery when the experiment failed."

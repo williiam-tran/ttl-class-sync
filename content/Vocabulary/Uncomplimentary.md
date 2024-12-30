@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [uncomplimentary](https://dictionary.cambridge.org/dictionary/english/uncomplimentary)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 rudely criticizing:
 
 >[!example] Example

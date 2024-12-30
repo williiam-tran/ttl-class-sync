@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [ponderous](https://dictionary.cambridge.org/dictionary/english/ponderous)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 slow and awkward because of being very heavy or large:
 
 >[!example] Example

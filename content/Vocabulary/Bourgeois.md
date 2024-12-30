@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - bourgeois
 ---
+
 ## [bourgeois](https://dictionary.cambridge.org/dictionary/english/bourgeois)
 #### Word Type: Noun
 ### Definition

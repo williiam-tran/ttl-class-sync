@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 ## [come to one's senses](https://dictionary.cambridge.org/dictionary/english/come-to-one's-senses)
 
 ### Definition

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [bile](https://dictionary.cambridge.org/dictionary/english/bile)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the bitter, yellow liquid produced by the liver that helps to digest fat:
 
 >[!example] Example

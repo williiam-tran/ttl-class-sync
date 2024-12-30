@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [inability](https://dictionary.cambridge.org/dictionary/english/inability)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 lack of ability to do something:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [oversee](https://dictionary.cambridge.org/dictionary/english/oversee)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to watch or organize a job or an activity to make certain that it is being done correctly:
 
 >[!example] Example

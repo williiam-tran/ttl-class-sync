@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [extrovert](https://dictionary.cambridge.org/dictionary/english/extrovert)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 an energetic person who enjoys being with other people:
 
 >[!example] Example

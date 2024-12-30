@@ -1,7 +1,10 @@
 ---
 publish: true
+aliases:
+  - accomplishment
 ---
-## [Accomplishment](https://dictionary.cambridge.org/dictionary/english/accomplishment)
+
+## [accomplishment](https://dictionary.cambridge.org/dictionary/english/accomplishment)
 #### Word Type: Noun
 ### Definition
 Something achieved successfully, especially through effort, skill, or perseverance.

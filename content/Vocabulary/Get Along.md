@@ -1,10 +1,12 @@
 ---
 publish: true
 ---
-## Get Along
+
+## [get along](https://dictionary.cambridge.org/dictionary/english/get-along)
 
 ### Definition
-If two or more people get along, they like each other and are friendly to each other.
+#### Word Type: phr v
+If two or more people get along, they like each other and are friendly to each other:
 
 >[!example] Example
-> I don't really get along with my sister's husband.
+> - get along with I don't really get along with my sister's husband.

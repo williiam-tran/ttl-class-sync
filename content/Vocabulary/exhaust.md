@@ -1,11 +1,12 @@
 ---
 publish: true
 ---
-## exhaust
+
+## [exhaust](https://dictionary.cambridge.org/dictionary/english/exhaust)
 
 ### Definition
-#### n
+#### Word Type: n
 Waste gases or air released from an engine or machine.
 
 >[!example] Example
-> The car's exhaust was loud and smoky.
+> - The car's exhaust was loud and smoky.

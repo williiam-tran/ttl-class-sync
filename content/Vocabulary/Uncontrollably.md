@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [uncontrollably](https://dictionary.cambridge.org/dictionary/english/uncontrollably)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 in a way that is too strong or violent to be controlled:
 
 >[!example] Example

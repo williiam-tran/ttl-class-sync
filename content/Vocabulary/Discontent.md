@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [discontent](https://dictionary.cambridge.org/dictionary/english/discontent)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a feeling of wanting better treatment or an improved situation:
 
 >[!example] Example

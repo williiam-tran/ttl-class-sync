@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - commencement
 ---
+
 ## [commencement](https://dictionary.cambridge.org/dictionary/english/commencement)
 #### Word Type: Noun
 ### Definition

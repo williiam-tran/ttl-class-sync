@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - off the beaten track
 ---
+
 ## [off the beaten track](https://dictionary.cambridge.org/dictionary/english/off-the-beaten-track)
 
 #### Word Type: Idiom

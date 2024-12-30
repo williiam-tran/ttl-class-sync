@@ -4,8 +4,8 @@ publish: true
 
 ## [get off](https://dictionary.cambridge.org/dictionary/english/get-off)
 
-#### Word Type: phrasal verb
 ### Definition
+#### Word Type: phr v
 to leave a place, usually in order to start a journey:
 
 >[!example] Example

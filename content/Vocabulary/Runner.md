@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [runner](https://dictionary.cambridge.org/dictionary/english/runner)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 someone who runs, especially in competitions:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [creativity](https://dictionary.cambridge.org/dictionary/english/creativity)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the ability to produce or use original and unusual ideas:
 
 >[!example] Example

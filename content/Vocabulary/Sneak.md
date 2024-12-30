@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [sneak](https://dictionary.cambridge.org/dictionary/english/sneak)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to go somewhere secretly, or to take someone or something somewhere secretly:
 
 >[!example] Example

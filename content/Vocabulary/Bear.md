@@ -1,7 +1,10 @@
 ---
 publish: true
+aliases:
+  - have to bear
 ---
-## [bear](https://dictionary.cambridge.org/dictionary/english/bear)
+
+## [bear](https://dictionary.cambridge.org/dictionary/english/have-to-bear)
 
 #### Word Type: Verb
 ### Definition

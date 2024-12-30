@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [hustle](https://dictionary.cambridge.org/dictionary/english/hustle)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to make someone move quickly by pushing or pulling them along:
 
 >[!example] Example

@@ -4,8 +4,8 @@ publish: true
 
 ## [optimist](https://dictionary.cambridge.org/dictionary/english/optimist)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 someone who always believes that good things will happen:
 
 >[!example] Example

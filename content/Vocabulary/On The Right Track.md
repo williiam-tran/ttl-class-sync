@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - on the right track
 ---
+
 ## [on the right track](https://dictionary.cambridge.org/dictionary/english/on-the-right-track)
 
 #### Word Type: Idiom

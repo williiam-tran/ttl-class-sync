@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [vendor](https://dictionary.cambridge.org/dictionary/english/vendor)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 someone who is selling something:
 
 >[!example] Example

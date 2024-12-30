@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [train](https://dictionary.cambridge.org/dictionary/english/train)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [discontentment](https://dictionary.cambridge.org/dictionary/english/discontentment)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a feeling of wanting better treatment or an improved situation:
 
 >[!example] Example

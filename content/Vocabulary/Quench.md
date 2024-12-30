@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - quenched
 ---
+
 ## [quench](https://dictionary.cambridge.org/dictionary/english/quench)
 
 #### Word Type: Verb

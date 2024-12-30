@@ -1,11 +1,12 @@
 ---
 publish: true
 ---
-## exhausted
+
+## [exhausted](https://dictionary.cambridge.org/dictionary/english/exhausted)
 
 ### Definition
-#### a
+#### Word Type: a
 extremely tired.
 
 >[!example] Example
-> After the long day at work, she felt completely exhausted.
+> - After the long day at work, she felt completely exhausted.

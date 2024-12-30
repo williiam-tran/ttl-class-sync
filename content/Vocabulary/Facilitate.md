@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [facilitate](https://dictionary.cambridge.org/dictionary/english/facilitate)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to make something possible or easier:
 
 >[!example] Example

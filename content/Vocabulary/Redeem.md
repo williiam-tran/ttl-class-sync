@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [redeem](https://dictionary.cambridge.org/dictionary/english/redeem)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to make something or someone seem less bad:
 
 >[!example] Example

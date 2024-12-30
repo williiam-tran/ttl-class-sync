@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - Regime
 ---
+
 ## [regime](https://dictionary.cambridge.org/dictionary/english/regime)
 
 #### Word Type: Noun

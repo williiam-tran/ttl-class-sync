@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [interpretation](https://dictionary.cambridge.org/dictionary/english/interpretation)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 an explanation or opinion of what something means:
 
 >[!example] Example

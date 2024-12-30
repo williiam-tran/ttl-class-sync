@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [kindly](https://dictionary.cambridge.org/dictionary/english/kindly)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 in a kind way:
 
 >[!example] Example

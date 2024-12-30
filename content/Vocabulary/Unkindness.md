@@ -4,8 +4,8 @@ publish: true
 
 ## [unkindness](https://dictionary.cambridge.org/dictionary/english/unkindness)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the quality of not treating someone very well, or not considering someone's feelings:
 
 >[!example] Example

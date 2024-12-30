@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [quarrel](https://dictionary.cambridge.org/dictionary/english/quarrel)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 an angry disagreement between two or more people or groups:
 
 >[!example] Example

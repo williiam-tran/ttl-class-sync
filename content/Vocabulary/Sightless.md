@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [sightless](https://dictionary.cambridge.org/dictionary/english/sightless)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 unable to see
 
 >[!example] Example

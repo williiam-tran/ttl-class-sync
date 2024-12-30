@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [deem](https://dictionary.cambridge.org/dictionary/english/deem)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to consider or judge something in a particular way:
 
 >[!example] Example

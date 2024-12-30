@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - privileges
 ---
+
 ## [privilege](https://dictionary.cambridge.org/dictionary/english/privilege)
 
 #### Word Type: Noun

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [jot sth down](https://dictionary.cambridge.org/dictionary/english/jot-sth-down)
 
-#### Word Type: phrasal verb
 ### Definition
+#### Word Type: phrasal verb
 to write something quickly on a piece of paper so that you remember it:
 
 >[!example] Example

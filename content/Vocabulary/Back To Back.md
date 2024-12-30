@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - back-to-back
 ---
+
 ## [back to back](https://dictionary.cambridge.org/dictionary/english/back-to-back)
 #### Word Type: Phrase
 ### Definition

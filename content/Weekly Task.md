@@ -29,6 +29,7 @@
 ### Deductions
 - [ ] Missed attendance: 1 point
 - [ ] Grade below 50% - 1 point
+- [ ] Missed deadline: 2 point
 - [ ] Missed weekly assignment/quiz: 2 points each
 - [ ] Aforementioned weakness/issue: 2 point each
 

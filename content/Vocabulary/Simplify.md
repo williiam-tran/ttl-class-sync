@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [simplify](https://dictionary.cambridge.org/dictionary/english/simplify)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to make something less complicated and therefore easier to do or understand:
 
 >[!example] Example

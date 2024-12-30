@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [unmake](https://dictionary.cambridge.org/dictionary/english/unmake)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to destroy a reputation or a career:
 
 >[!example] Example

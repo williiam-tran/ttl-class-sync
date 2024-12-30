@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [richly](https://dictionary.cambridge.org/dictionary/english/richly)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 having a lot of beautiful or expensive decoration, furniture, etc.:
 
 >[!example] Example

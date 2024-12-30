@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [show](https://dictionary.cambridge.org/dictionary/english/show)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to make it possible for something to be seen:
 
 >[!example] Example

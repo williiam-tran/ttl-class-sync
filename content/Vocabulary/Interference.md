@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [interference](https://dictionary.cambridge.org/dictionary/english/interference)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 an occasion when someone tries to interfere in a situation:
 
 >[!example] Example

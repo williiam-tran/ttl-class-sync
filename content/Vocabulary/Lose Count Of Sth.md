@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [lose count of sth](https://dictionary.cambridge.org/dictionary/english/lose-count-of-sth)
 
-#### Word Type: idiom
 ### Definition
+#### Word Type: idiom
 to not be able to remember a total:
 
 >[!example] Example

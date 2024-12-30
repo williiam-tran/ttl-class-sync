@@ -1,5 +1,7 @@
 ---
 publish: true
+aliases:
+  - got-away-with-it-somehow
 ---
 ## [get away with something](https://dictionary.cambridge.org/dictionary/english/get-away-with something)
 

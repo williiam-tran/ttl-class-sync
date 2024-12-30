@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [bearable](https://dictionary.cambridge.org/dictionary/english/bearable)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 If an unpleasant situation is bearable, you can accept or deal with it:
 
 >[!example] Example

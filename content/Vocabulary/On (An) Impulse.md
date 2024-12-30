@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - on impulse
 ---
+
 ## [on (an) impulse](https://dictionary.cambridge.org/dictionary/english/on-(an)-impulse)
 
 #### Word Type: Idiom

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [gratitude](https://dictionary.cambridge.org/dictionary/english/gratitude)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the feeling or quality of being grateful:
 
 >[!example] Example

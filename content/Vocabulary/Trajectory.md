@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - trajectories
 ---
+
 ## [trajectory](https://dictionary.cambridge.org/dictionary/english/trajectory)
 
 #### Word Type: Noun

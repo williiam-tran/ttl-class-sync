@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [entrain](https://dictionary.cambridge.org/dictionary/english/entrain)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to get on a train:
 
 >[!example] Example

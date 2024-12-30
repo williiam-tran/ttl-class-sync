@@ -1,12 +1,20 @@
 ---
 publish: true
+aliases:
+  - wholeheartedness
 ---
 
 ## [wholeheartedness](https://dictionary.cambridge.org/dictionary/english/wholeheartedness)
 
-### Definition
-#### Word Type: n
-the quality of being fully sincere, committed, or enthusiastic about something, without any reservations or doubt.
+#### Word Type: Adjective
 
->[!example] Example
-> - Her wholeheartedness in supporting the charity impressed everyone.
+### Definition
+With complete sincerity, enthusiasm, or commitment.
+
+> [!example] Example
+> 
+> - "She gave a **wholehearted** effort to the community project."
+> - "The team showed **wholehearted** support for their coach after the challenging season."
+> - "His **wholehearted** dedication to the cause earned him admiration from everyone."
+> - "They accepted the challenge with **wholehearted** enthusiasm."
+> - "Her **wholehearted** belief in the project inspired everyone around her."

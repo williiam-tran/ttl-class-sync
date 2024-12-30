@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [put](https://dictionary.cambridge.org/dictionary/english/put)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to move something or someone into the stated place, position, or direction:
 
 >[!example] Example

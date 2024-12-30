@@ -1,0 +1,1 @@
+Question: The dog was very ________, responding to commands promptly and without hesitation.

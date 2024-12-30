@@ -1,12 +1,19 @@
 ---
 publish: true
+aliases:
+  - simultaneously
 ---
 
 ## [simultaneously](https://dictionary.cambridge.org/dictionary/english/simultaneously)
+#### Word Type: Adverb
 
 ### Definition
-#### Word Type: adv
-at the same time or occurring together.
+At the same time; happening or done at the same moment.
 
->[!example] Example
-> - She was able to speak and type simultaneously.
+> [!example] Example
+> 
+> - "The two events were happening **simultaneously**, making it hard to choose which one to attend."
+> - "She was able to answer emails **simultaneously** while working on the report."
+> - "The lights flickered **simultaneously** with the thunder, creating a dramatic effect."
+> - "He was juggling several tasks **simultaneously**, from making phone calls to organizing files."
+> - "The two rockets launched **simultaneously**, marking a milestone in the mission."

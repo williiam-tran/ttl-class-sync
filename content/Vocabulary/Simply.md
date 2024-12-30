@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [simply](https://dictionary.cambridge.org/dictionary/english/simply)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 completely or as much as possible:
 
 >[!example] Example

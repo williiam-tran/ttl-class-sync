@@ -1,11 +1,12 @@
 ---
 publish: true
 ---
-## recur
+
+## [recur](https://dictionary.cambridge.org/dictionary/english/recur)
 
 ### Definition
-#### v
+#### Word Type: v
 To happen again or repeatedly, especially after a period of time.
 
 >[!example] Example
-> The issue seems to recur every few months.
+> - The issue seems to recur every few months.

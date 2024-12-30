@@ -4,8 +4,8 @@ publish: true
 
 ## [willing](https://dictionary.cambridge.org/dictionary/english/willing)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 to be happy to do something if it is needed:
 
 >[!example] Example

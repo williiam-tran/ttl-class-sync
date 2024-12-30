@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [aggravate](https://dictionary.cambridge.org/dictionary/english/aggravate)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to make a bad situation worse:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [make up sth](https://dictionary.cambridge.org/dictionary/english/make-up-sth)
 
-#### Word Type: phrasal verb
 ### Definition
+#### Word Type: phrasal verb
 to invent something, such as an excuse or a story, often in order to deceive:
 
 >[!example] Example

@@ -1,7 +1,10 @@
 ---
 publish: true
+aliases:
+  - rhetorical questions
 ---
-## [rhetorical question](https://dictionary.cambridge.org/dictionary/english/rhetorical-question)
+
+## [rhetorical question](https://dictionary.cambridge.org/dictionary/english/rhetorical-questions)
 
 #### Word Type: Noun
 

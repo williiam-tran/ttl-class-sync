@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - went south
 ---
+
 ## [go south](https://dictionary.cambridge.org/dictionary/english/go-south)
 #### Word Type: Idiom
 ### Definition

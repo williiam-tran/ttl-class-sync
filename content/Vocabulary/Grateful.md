@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [grateful](https://dictionary.cambridge.org/dictionary/english/grateful)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 showing or expressing thanks, especially to another person:
 
 >[!example] Example

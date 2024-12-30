@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [come up with sth](https://dictionary.cambridge.org/dictionary/english/come-up-with-sth)
 
-#### Word Type: phrasal verb
 ### Definition
+#### Word Type: phrasal verb
 to suggest or think of an idea or plan:
 
 >[!example] Example

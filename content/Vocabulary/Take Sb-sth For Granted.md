@@ -1,5 +1,8 @@
 ---
 publish: true
+aliases:
+  - I had long taken for granted
+  - for granted
 ---
 ## [Take somebody/something for granted](https://dictionary.cambridge.org/dictionary/english/take-for-granted?q=take+sth+for+granted)
 

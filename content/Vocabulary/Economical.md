@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [economical](https://dictionary.cambridge.org/dictionary/english/economical)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 using as little of something as possible; wasting nothing or very little:
 
 >[!example] Example

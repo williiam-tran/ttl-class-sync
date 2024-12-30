@@ -1,16 +1,19 @@
 ---
 publish: true
+aliases:
+  - for my own good
 ---
-## [ for your/someone's own good](https://dictionary.cambridge.org/dictionary/english/for-own-good?q=for-someone%27s-own-good)
-#### Word Type: Collocation
+
+## [for your/someone's own good](https://dictionary.cambridge.org/dictionary/english/for-own-good?q=for-your-own-good)
+#### Word Type: Idiom
+
 ### Definition
-something is being done with the intention of benefiting the person, even if they may not realize it or may not like it at the time.
+To do something with the intention of benefiting the person, even if they may not realize it or agree at the time.
 
 > [!example] Example
 > 
-> - "The doctor recommended surgery **for his own good**, even though he was hesitant."
-> - "I know you’re upset, but I made that decision **for your own good**."
-> - "She insisted on strict rules **for the children’s own good**, to teach them discipline."
-> - "He didn’t want to take a break, but it was **for his own good** to avoid burnout."
-> - "Sometimes tough love is necessary **for someone’s own good**."
-
+> - "I know you're upset, but I'm making you take a break **for your own good**."
+> - "She was strict with her children **for their own good**, wanting them to develop good habits."
+> - "He told her to stop working so much, **for her own good**, because it was affecting her health."
+> - "The doctor suggested she cut back on sugar **for her own good**."
+> - "Although it felt uncomfortable, the tough feedback was **for his own good**."

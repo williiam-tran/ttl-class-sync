@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [seal](https://dictionary.cambridge.org/dictionary/english/seal)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a large mammal that eats fish and lives partly in the sea and partly on land or ice
 
 >[!example] Example

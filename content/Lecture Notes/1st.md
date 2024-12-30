@@ -4,7 +4,7 @@ publish: true
 
 ## Vocabulary
 
-### Tlinh, Trung, Thanh
+### TLinh, Trung, Thanh
 
 - [ ] analogy
 - [ ] ponder

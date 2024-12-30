@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [poor](https://dictionary.cambridge.org/dictionary/english/poor)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 having little money and/or few possessions:
 
 >[!example] Example

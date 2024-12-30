@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [wonder](https://dictionary.cambridge.org/dictionary/english/wonder)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to ask yourself questions or express a wish to know about something:
 
 >[!example] Example

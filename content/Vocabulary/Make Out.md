@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [make out](https://dictionary.cambridge.org/dictionary/english/make-out)
 
-#### Word Type: phrasal verb
 ### Definition
+#### Word Type: phrasal verb
 to see, hear, or understand something or someone with difficulty:
 
 >[!example] Example

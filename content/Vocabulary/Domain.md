@@ -1,5 +1,10 @@
-## [domain](https://dictionary.cambridge.org/dictionary/english/domain)
+---
+publish: true
+aliases:
+  - domain
+---
 
+## [domain](https://dictionary.cambridge.org/dictionary/english/domain)
 #### Word Type: Noun
 ### Definition
 an area of knowledge, activity, or control.

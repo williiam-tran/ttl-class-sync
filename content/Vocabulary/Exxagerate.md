@@ -1,11 +1,12 @@
 ---
 publish: true
 ---
+
 ## [exxagerate](https://dictionary.cambridge.org/dictionary/english/exxagerate)
 
-#### Word Type: 
 ### Definition
-Definition not found
+#### Word Type: 
+to make something seem larger, more important, better, or worse than it really is:
 
 >[!example] Example
-> - 
+> - I'm not exaggerating - it was the worst meal I've ever eaten in my life.

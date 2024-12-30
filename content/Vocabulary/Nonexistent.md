@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [nonexistent](https://dictionary.cambridge.org/dictionary/english/nonexistent)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 completely absent:
 
 >[!example] Example

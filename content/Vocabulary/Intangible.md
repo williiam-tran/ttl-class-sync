@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [intangible](https://dictionary.cambridge.org/dictionary/english/intangible)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 impossible to touch, to describe exactly, or to give an exact value:
 
 >[!example] Example

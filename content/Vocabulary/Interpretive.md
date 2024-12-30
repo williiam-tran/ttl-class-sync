@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [interpretive](https://dictionary.cambridge.org/dictionary/english/interpretive)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 related to explaining or understanding the meaning of something:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [gratuitous](https://dictionary.cambridge.org/dictionary/english/gratuitous)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 (of something such as bad behaviour) not necessary, or with no cause:
 
 >[!example] Example

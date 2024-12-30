@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [ungrateful](https://dictionary.cambridge.org/dictionary/english/ungrateful)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not showing or expressing any thanks
 
 >[!example] Example

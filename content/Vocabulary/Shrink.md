@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [shrink](https://dictionary.cambridge.org/dictionary/english/shrink)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to become smaller, or to make something smaller:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [agnostic](https://dictionary.cambridge.org/dictionary/english/agnostic)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 someone who does not know, or believes that it is impossible to know, if a god exists:
 
 >[!example] Example

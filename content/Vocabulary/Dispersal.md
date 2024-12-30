@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [dispersal](https://dictionary.cambridge.org/dictionary/english/dispersal)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the action of spreading across or moving away over a large area, or of making people or things do this:
 
 >[!example] Example

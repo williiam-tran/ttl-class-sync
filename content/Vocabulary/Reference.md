@@ -4,8 +4,8 @@ publish: true
 
 ## [reference](https://dictionary.cambridge.org/dictionary/english/reference)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a mention of something:
 
 >[!example] Example

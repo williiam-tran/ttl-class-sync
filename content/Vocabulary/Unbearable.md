@@ -4,8 +4,8 @@ publish: true
 
 ## [unbearable](https://dictionary.cambridge.org/dictionary/english/unbearable)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 too painful or unpleasant for you to continue to experience:
 
 >[!example] Example

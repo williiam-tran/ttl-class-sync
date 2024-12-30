@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [proposal](https://dictionary.cambridge.org/dictionary/english/proposal)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a suggestion, sometimes a written one:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [relive](https://dictionary.cambridge.org/dictionary/english/relive)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to remember clearly an experience that happened in the past:
 
 >[!example] Example

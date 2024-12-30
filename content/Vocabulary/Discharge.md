@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [discharge](https://dictionary.cambridge.org/dictionary/english/discharge)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to allow someone officially to leave somewhere, especially a hospital or a law court:
 
 >[!example] Example

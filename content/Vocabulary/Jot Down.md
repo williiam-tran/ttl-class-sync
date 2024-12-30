@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - jot down
 ---
-## [jot down](https://dictionary.cambridge.org/dictionary/english/jot-down)
 
+
+## [jot down](https://dictionary.cambridge.org/dictionary/english/jot-down)
 #### Word Type: Phrasal Verb
 
 ### Definition
@@ -15,4 +18,3 @@ To quickly write something down, usually a note or brief information.
 > - "I’ll **jot down** the address so I don’t forget it."
 > - "Can you **jot down** the details of the event so we can review them later?"
 > - "He quickly **jotted down** the recipe before his grandmother could forget it."
-s.

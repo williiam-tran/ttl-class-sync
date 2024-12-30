@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [necessary](https://dictionary.cambridge.org/dictionary/english/necessary)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 needed in order to achieve a particular result:
 
 >[!example] Example

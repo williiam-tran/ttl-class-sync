@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [successor](https://dictionary.cambridge.org/dictionary/english/successor)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 someone or something that comes after another person or thing:
 
 >[!example] Example

@@ -1,11 +1,13 @@
 ---
 publish: true
 ---
+
+
 ## [strike](https://dictionary.cambridge.org/dictionary/english/strike)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to refuse to continue working because of an argument with an employer about working conditions, pay levels, or job losses:
 
 >[!example] Example
-> - the right to strike Democratization has brought workers the right to strike and join a trade union.
+> - The city's bus drivers have been on strike for three weeks.

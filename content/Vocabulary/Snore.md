@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [snore](https://dictionary.cambridge.org/dictionary/english/snore)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to breathe in a very noisy way while you are sleeping:
 
 >[!example] Example

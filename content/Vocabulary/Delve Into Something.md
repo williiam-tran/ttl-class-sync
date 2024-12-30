@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 ## [delve into something](https://dictionary.cambridge.org/dictionary/english/delve-into-something)
 
 ### Definition

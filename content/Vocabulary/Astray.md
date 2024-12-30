@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - astray
 ---
+
 ## [astray](https://dictionary.cambridge.org/dictionary/english/astray)
 #### Word Type: Adverb
 ### Definition

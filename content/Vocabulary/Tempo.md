@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [tempo](https://dictionary.cambridge.org/dictionary/english/tempo)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 the speed at which an event happens:
 
 >[!example] Example

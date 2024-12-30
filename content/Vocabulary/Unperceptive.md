@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [unperceptive](https://dictionary.cambridge.org/dictionary/english/unperceptive)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 having or showing a lack of understanding because of not noticing things:
 
 >[!example] Example

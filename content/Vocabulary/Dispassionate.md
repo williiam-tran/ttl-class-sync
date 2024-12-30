@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [dispassionate](https://dictionary.cambridge.org/dictionary/english/dispassionate)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 able to think clearly or make good decisions because of not being influenced by emotions:
 
 >[!example] Example

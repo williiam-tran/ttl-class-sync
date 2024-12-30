@@ -1,6 +1,9 @@
 ---
 publish: true
+aliases:
+  - so-called
 ---
+
 ## [so-called](https://dictionary.cambridge.org/dictionary/english/so-called)
 
 #### Word Type: Adjective

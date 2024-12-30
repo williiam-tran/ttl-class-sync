@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [spectacular](https://dictionary.cambridge.org/dictionary/english/spectacular)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 very exciting to look at:
 
 >[!example] Example

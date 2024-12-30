@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [helpless](https://dictionary.cambridge.org/dictionary/english/helpless)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 unable to do anything to help yourself or anyone else:
 
 >[!example] Example

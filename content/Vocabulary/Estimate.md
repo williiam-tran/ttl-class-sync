@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [estimate](https://dictionary.cambridge.org/dictionary/english/estimate)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to guess or calculate the cost, size, value, etc. of something:
 
 >[!example] Example

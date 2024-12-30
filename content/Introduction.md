@@ -122,7 +122,7 @@ I got the habit of playing [[truant|truant]] since the [[Regulation|regulations]
 
 I could [[Attend|attend]] only half the lessons (usually two) in the morning, go to the net to play video games, skip the afternoon lecture, and go to the coffee shop with my friends, who would skip as well. 
 When I first got admitted, I did this a lot, with leading [[repercussion|repercussions]], of course... Still, I am lucky enough to have many friends of the same frequency who would do those [[Silly|silly]] stuff with me and [[Make|make]] so much memories, yet I could [[Recount|recount]] them like **the back of my hand**. 
-
+   
 Each class is [[Financially Independent|financially independent]], covering its own bills for electricity, water, and cleaning.
 We had a 65' touchscreen TV, 2 pairs of JBL Speakers [[In The Name Of Someone-Something|in the name of]] learning listening 😂, and lots of mics 🎤🎤🎤.
 We even bought a pine tree and snow-dry ice [[dispenser|dispenser]] for Christmas.

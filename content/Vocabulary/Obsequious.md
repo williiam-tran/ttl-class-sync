@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [obsequious](https://dictionary.cambridge.org/dictionary/english/obsequious)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 too eager to praise or obey someone:
 
 >[!example] Example

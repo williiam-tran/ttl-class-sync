@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [outlive](https://dictionary.cambridge.org/dictionary/english/outlive)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to live or exist longer than someone or something:
 
 >[!example] Example

@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [ponderable](https://dictionary.cambridge.org/dictionary/english/ponderable)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 able to be guessed or calculated by thinking:
 
 >[!example] Example

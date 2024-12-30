@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [unsightly](https://dictionary.cambridge.org/dictionary/english/unsightly)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not attractive; ugly:
 
 >[!example] Example

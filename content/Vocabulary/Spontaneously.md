@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [spontaneously](https://dictionary.cambridge.org/dictionary/english/spontaneously)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 in a way that is natural, often sudden, and not planned or forced:
 
 >[!example] Example

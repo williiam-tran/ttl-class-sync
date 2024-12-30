@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [effortlessly](https://dictionary.cambridge.org/dictionary/english/effortlessly)
 
-#### Word Type: adverb
 ### Definition
+#### Word Type: adverb
 in a way that is effortless (= seeming not to need any effort):
 
 >[!example] Example

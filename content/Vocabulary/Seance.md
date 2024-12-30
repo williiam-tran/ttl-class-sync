@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [seance](https://dictionary.cambridge.org/dictionary/english/seance)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a meeting where people try to talk with dead people:
 
 >[!example] Example

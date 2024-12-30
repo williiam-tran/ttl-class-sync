@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [averse](https://dictionary.cambridge.org/dictionary/english/averse)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 strongly disliking or opposed to:
 
 >[!example] Example

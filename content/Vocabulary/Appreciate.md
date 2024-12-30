@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [appreciate](https://dictionary.cambridge.org/dictionary/english/appreciate)
 
-#### Word Type: verb
 ### Definition
+#### Word Type: verb
 to recognize how good someone or something is and to value them or it:
 
 >[!example] Example

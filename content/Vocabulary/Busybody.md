@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [busybody](https://dictionary.cambridge.org/dictionary/english/busybody)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a person who is too interested in things that do not involve them:
 
 >[!example] Example

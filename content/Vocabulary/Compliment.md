@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [compliment](https://dictionary.cambridge.org/dictionary/english/compliment)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 a remark that expresses approval, admiration, or respect:
 
 >[!example] Example

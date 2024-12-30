@@ -1,6 +1,7 @@
 ---
 publish: true
 ---
+
 ## [take something as read](https://dictionary.cambridge.org/dictionary/english/take-something-as-read)
 
 ### Definition

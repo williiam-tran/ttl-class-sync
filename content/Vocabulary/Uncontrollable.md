@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [uncontrollable](https://dictionary.cambridge.org/dictionary/english/uncontrollable)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 too strong or violent to be controlled:
 
 >[!example] Example

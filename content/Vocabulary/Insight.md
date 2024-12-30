@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [insight](https://dictionary.cambridge.org/dictionary/english/insight)
 
-#### Word Type: noun
 ### Definition
+#### Word Type: noun
 (the ability to have) a clear, deep, and sometimes sudden understanding of a complicated problem or situation:
 
 >[!example] Example

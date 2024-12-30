@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [overbearing](https://dictionary.cambridge.org/dictionary/english/overbearing)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 too confident and too determined to tell other people what to do, in a way that is unpleasant:
 
 >[!example] Example

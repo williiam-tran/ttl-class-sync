@@ -1,10 +1,11 @@
 ---
 publish: true
 ---
+
 ## [unjust](https://dictionary.cambridge.org/dictionary/english/unjust)
 
-#### Word Type: adjective
 ### Definition
+#### Word Type: adjective
 not fair:
 
 >[!example] Example
