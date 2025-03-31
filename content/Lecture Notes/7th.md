@@ -29,7 +29,6 @@ publish: true
 3. Names & Numbers
    - Split numbers in chunks (075-331-4422)
    - Use phonetic alphabet for spelling names
-   - Ask for repetition if unclear
    - Echo back for confirmation
 
 ### Second Brain Method
@@ -41,32 +40,15 @@ publish: true
 
 2. Capture Methods
    - Quick notes during listening
-   - Voice recordings (when permitted)
+   - Voice recordings
    - Mind maps for complex topics
    - Review within 24 hours
-
-### Practice Exercises
-1. Number Dictation
-   - Phone numbers
-   - Addresses
-   - Bank account details
-
-2. Direction Practice
-   - Campus navigation
-   - City landmarks
-   - Public transport routes
-
-3. Active Recall
-   - Summarize main points
-   - Teach concept to partner
-   - Create quiz questions
 
 ### Keywords
 - second brain
 - active listening
-- note-taking
-- abbreviations
-- map reading
+- mnemonics
+- short-term memory
 
 ## Vocabulary
 
