@@ -976,11 +976,12 @@ iframe.pdf {
   aspect-ratio: 16 / 9;
   border: none !important;
   width: 100% !important;
-  min-height: 120vh !important;
+  min-height: 130vh !important;
   height: 100% !important;
-  scrollbar-width: none !important;
 }
 
-.toolbar {
-  display: none !important;
+iframe {
+  .toolbar {
+    display: none !important;
+  }
 }
