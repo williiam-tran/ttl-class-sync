@@ -1,0 +1,88 @@
+- Sentence Types & Structure
+- Simple sentence: I read books every day.
+- Compound sentence: I love coffee, and I enjoy tea.
+- Complex sentence: I stayed home because it was raining.
+- Compound-complex sentence: While I was cooking, the phone rang, and I missed the call.
+- Declarative sentence: The sky is blue.
+- Interrogative sentence: Did you finish your homework?
+- Imperative sentence: Close the door when you leave.
+- Exclamatory sentence: What a beautiful day it is!
+- Main clause: She smiled when she saw me.
+- Subordinate clause: I stayed quiet because I was tired.
+- Parts of Speech
+- Noun: The cat is sleeping.
+- Pronoun: She loves ice cream.
+- Verb: He runs every morning.
+- Adjective: It’s a sunny day.
+- Adverb: She spoke quietly to the baby.
+- Preposition: The book is on the table.
+- Conjunction: I wanted to go out, but it started raining.
+- Interjection: Wow, that’s amazing!
+- Article: The dog barked loudly.
+- Determiner: This car is mine.
+- Verb Types & Forms
+- Auxiliary verb: She is singing beautifully.
+- Modal verb: You should study for the test.
+- Linking verb: He is a doctor.
+- Transitive verb: She kicked the ball.
+- Intransitive verb: He slept peacefully.
+- Regular verb: I walked to school.
+- Irregular verb: They went to the market.
+- Finite verb: She dances every morning.
+- Non-finite verb: I enjoy dancing at parties.
+- Base form: I want to eat pizza.
+- Tense & Aspect
+- Present tense: I work hard every day.
+- Past tense: He visited the museum yesterday.
+- Future tense: They will go shopping tomorrow.
+- Simple aspect: I read novels.
+- Progressive aspect: She is reading a book.
+- Perfect aspect: He has finished his work.
+- Perfect progressive aspect: I have been studying for hours.
+- Present continuous tense: They are playing soccer.
+- Past continuous tense: He was cooking dinner when I arrived.
+- Future continuous tense: She will be traveling next week.
+- Voice & Mood
+- Active voice: She wrote the letter.
+- Passive voice: The letter was written by her.
+- Indicative mood: He likes pizza.
+- Imperative mood: Please help me with this.
+- Subjunctive mood: If I were you, I’d apologize.
+- Conditional mood: I would travel if I had more time.
+- Gerund: I love reading.
+- Infinitive: He wants to learn French.
+- Participial phrase: Running late, she grabbed her bag.
+- Causative: She had her car washed yesterday.
+- Phrases & Clauses
+- Noun phrase: The big brown dog barked.
+- Verb phrase: She is working hard.
+- Adjective phrase: The cake was very delicious.
+- Adverb phrase: He drove extremely quickly.
+- Prepositional phrase: She lives in a small town.
+- Independent clause: I stayed home because it rained.
+- Dependent clause: I’ll call you when I arrive.
+- Relative clause: The book that I borrowed is interesting.
+- Conditional clause: If I study hard, I’ll pass.
+- Adverbial clause: I left because it was late.
+- Sentence Mechanics
+- Subject: John is running.
+- Predicate: The baby is sleeping peacefully.
+- Object: She bought a gift.
+- Direct object: He sent a letter.
+- Indirect object: He sent her a letter.
+- Complement: She became a doctor.
+- Appositive: My friend, a skilled artist, is here.
+- Modifier: The blue car is fast.
+- Antecedent: The dog wagged its tail.
+- Ellipsis: He likes coffee, and I like tea.
+- Conditionals
+- Zero conditional: If water boils, it evaporates.
+- First conditional: If you study, you will pass.
+- Second conditional: If I won, I would travel.
+- Third conditional: If I had known, I would have helped.
+- Mixed conditional: If I were rich, I would have bought it.
+- Inversion: Had I known, I would have stayed.
+- Hypothetical condition: If I could, I’d fly.
+- Real condition: If it rains, we’ll cancel.
+- Unreal condition: If I were taller, I’d play basketball.
+- Wish clause: I wish I had studied more.

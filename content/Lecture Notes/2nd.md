@@ -116,13 +116,13 @@ Here's a detailed elaboration with contextual examples:
 
 ## Other Topics Mentioned
 
- ### 1. Transitive/Intransitive Verbs (Nội động từ / Ngoại động từ)
- ### 2. Article (Mạo từ)
- ### 3. Conditional Sentences
+### 1. Transitive/Intransitive Verbs (Nội Động Từ / Ngoại Động từ)
+### 2. Article (Mạo từ)
+### 3. Conditional Sentences
  
 # Pronunciation
 
-## Vietnamese vs English Pronunciation: Key Differences
+## Vietnamese Vs English Pronunciation: Key Differences
 
 ### 1. Jaw Movement Differences
 **Vietnamese Characteristic:**

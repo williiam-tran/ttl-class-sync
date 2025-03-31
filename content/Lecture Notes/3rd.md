@@ -19,7 +19,9 @@
 
 ## Vocabulary
 
-### Thanh, TLinh, Trung
+### TLInh
+- [ ] controversy ⇾ controversial
+### Thanh, TLinh
 
 - [ ] courtesy 
 - [ ] controversy ⇾ controversial

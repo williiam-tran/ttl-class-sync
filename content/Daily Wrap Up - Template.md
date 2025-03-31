@@ -21,7 +21,8 @@ publish: true
 - [a blip?](https://www.youtube.com/watch?v=ndhNxRU76s8): a snap out of existence
 	 - "He blipped so technically he's not allowed to drink."
 
-- camaraderie: a feeling of friendliness to people that you  share an experience with.
+- camaraderie: a feeling of friendliness to people that you share an 
+	experience with.
 	- *Example: "When you've been minding your own business for a long time, there's a tremendous sense of camaraderie when you meet another one."*
 	
 ## Speaking
@@ -42,8 +43,6 @@ publish: true
 - before the third
 	- Transition from /ð/ to /θ/ and vice versa are still bumpy.
 
-
-
 ## Listening
 
 
@@ -53,4 +52,5 @@ publish: true
 Có một fundamental concept trong coding là DRY: Don't repeat yourself,  or duplication is evil. I live by this. ref cho b nào quên https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
 Lớp này minh rất khuyến khích đặt câu hỏi, sắp tới sẽ là requisite, hỏi ngu càng tốt vì hỏi thì mới hết dốt, nhưng mà
-Do not ask ignorant questions or any of the rhetorical variety. First timer
+
+Do not ask ignorant questions or any of the rhetorical variety. 

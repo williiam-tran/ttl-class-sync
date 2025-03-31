@@ -5,7 +5,7 @@ publish: true
 ## [take a rain check (on something)](https://dictionary.cambridge.org/dictionary/english/take-a-rain-check-(on-something))
 
 ### Definition
-#### Word Type: idiom
+#### Word Type: Idiom
 used to tell someone that you cannot accept an invitation now, but would like to do so at a later time:
 
 >[!example] Example

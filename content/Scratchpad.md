@@ -132,6 +132,18 @@ I've been to Singapore twice.
 ### Use air from lower
 
 
+- Every syllable has 2 steps
+	- ai
+	- oi
+
+- follow /fɑː.loʊ/
+- **shine** 
+- see
+- **sugar**
+- sun
+- **short**
+- sort
+- Such a shame
 - lose count of sth
 - lose face
 - lose sight of
@@ -140,8 +152,9 @@ I've been to Singapore twice.
 - open to dispute
 - prerequisite
 - rich ~ affluent ~ wealthy
-- make ends meet
+	- someone never have to make end's meet.
 - poor ~ needy ~ impoverished
+	
 - make ends meet
 - misfortunate (n)
 - take a rain check (on something)
@@ -169,24 +182,22 @@ I've been to Singapore twice.
 - see
 	- sight (n)
 
-- annoy
-- introvert
-- extrovert
-- snore
-- sneeze
-- yawn
-- tone sth down
-- irritated ~ annoyed
-- shame
-- economic
-- economy
-- geographic
-- geography
-- photographic
-- photogenic
-- economics
-- resort to
-- manufacturer
-- vendor
-- see
-	- sight
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+	
+	

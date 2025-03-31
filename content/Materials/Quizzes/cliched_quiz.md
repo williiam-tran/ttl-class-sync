@@ -1,4 +1,4 @@
-Question: The movie was criticized for its ________ plot, which seemed to follow a predictable pattern.  
+: The ieaieathlnhtnhtn
 - [ ] original  
 - [ ] innovative  
 - [x] cliched  
