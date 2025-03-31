@@ -180,8 +180,9 @@ em {
 .callout[data-callout="info"] {
   .callout-title,
   .callout-icon .svg-icon {
+    font-size: 20px !important;
     font-weight: 600 !important;
-    color: #539edf;
+    color: #539edf !important;
   }
 
   font-weight: 520;
@@ -224,17 +225,17 @@ em {
 .callout[data-callout="note"],
 .callout[data-callout="todo"] {
   .callout-title {
-    color: rgba(118, 236, 236, 0.75);
+    color: rgba(118, 236, 236, 0.75) !important;
   }
 
   .callout-icon svg,
   .callout-fold {
-    width: 34px;
-    height: 34px;
-    color: rgba(118, 236, 236, 0.75);
+    width: 34px !important;
+    height: 34px !important;
+    color: rgba(118, 236, 236, 0.75) !important;
   }
 
-  background: transparent;
+  background: transparent !important;
 }
 
 .callout-icon svg,
@@ -242,10 +243,6 @@ em {
   width: 40px;
   height: 40px;
   margin-right: 10px;
-}
-
-.callout-title {
-  font-size: 24px;
 }
 
 .callout[data-callout="book"] {
@@ -984,4 +981,13 @@ iframe {
   .toolbar {
     display: none !important;
   }
+}
+
+.callout-icon,
+.fold-callout-icon {
+  background-color: #9cdcfe !important;
+}
+
+.callout-title > .callout-title-inner > p {
+  color: #9cdcfe !important;
 }
