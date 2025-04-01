@@ -1,25 +1,25 @@
-import { QuartzTransformerPlugin } from "../types"
-import { Root, Html, BlockContent, DefinitionContent, Paragraph, Code } from "mdast"
-import { Element, Literal, Root as HtmlRoot } from "hast"
+import { Element, Root as HtmlRoot, Literal } from "hast"
+import { BlockContent, Code, DefinitionContent, Html, Paragraph, Root } from "mdast"
 import { ReplaceFunction, findAndReplace as mdastFindReplace } from "mdast-util-find-and-replace"
+import path from "path"
 import rehypeRaw from "rehype-raw"
 import { SKIP, visit } from "unist-util-visit"
-import path from "path"
 import { splitAnchor } from "../../util/path"
-import { JSResource, CSSResource } from "../../util/resources"
+import { CSSResource, JSResource } from "../../util/resources"
+import { QuartzTransformerPlugin } from "../types"
 // @ts-ignore
 import calloutScript from "../../components/scripts/callout.inline.ts"
 // @ts-ignore
 import checkboxScript from "../../components/scripts/checkbox.inline.ts"
 // @ts-ignore
-import mermaidExtensionScript from "../../components/scripts/mermaid.inline.ts"
-import mermaidStyle from "../../components/styles/mermaid.inline.scss"
-import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
-import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
 import { PhrasingContent } from "mdast-util-find-and-replace/lib"
-import { capitalize } from "../../util/lang"
+import { toHast } from "mdast-util-to-hast"
 import { PluggableList } from "unified"
+import mermaidExtensionScript from "../../components/scripts/mermaid.inline.ts"
+import mermaidStyle from "../../components/styles/mermaid.inline.scss"
+import { capitalize } from "../../util/lang"
+import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 
 export interface Options {
   comments: boolean
@@ -110,6 +110,10 @@ export const arrowRegex = new RegExp(/(-{1,2}>|={1,2}>|<-{1,2}|<={1,2})/g)
 export const wikilinkRegex = new RegExp(
   /!?\[\[([^\[\]\|\#\\]+)?(#+[^\[\]\|\#\\]+)?(\\?\|[^\[\]\#]+)?\]\]/g,
 )
+
+export const wikilinkAndAudioRegex = new RegExp(
+  /(!?\[\[([^\[\]\|\#\\]+)?(#+[^\[\]\|\#\\]+)?(\\?\|[^\[\]\#]+)?\]\])|(!\[.*?\]\(.*?\.mp3\))/g
+);
 
 // ^\|([^\n])+\|\n(\|) -> matches the header row
 // ( ?:?-{3,}:? ?\|)+  -> matches the header row separator
@@ -271,9 +275,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     return {
                       type: "html",
                       data: { hProperties: { transclude: true } },
-                      value: `<blockquote class="transclude" data-url="${url}" data-block="${block}" data-embed-alias="${alias}"><a href="${
-                        url + anchor
-                      }" class="transclude-inner">Transclude of ${url}${block}</a></blockquote>`,
+                      value: `<blockquote class="transclude" data-url="${url}" data-block="${block}" data-embed-alias="${alias}"><a href="${url + anchor
+                        }" class="transclude-inner">Transclude of ${url}${block}</a></blockquote>`,
                     }
                   }
 
@@ -388,14 +391,22 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         plugins.push(() => {
           return (tree: Root, _file) => {
             visit(tree, "image", (node, index, parent) => {
-              if (parent && index != undefined && videoExtensionRegex.test(node.url)) {
-                const newNode: Html = {
-                  type: "html",
-                  value: `<video controls src="${node.url}"></video>`,
+              if (parent && index != undefined) {
+                if (videoExtensionRegex.test(node.url)) {
+                  const newNode: Html = {
+                    type: "html",
+                    value: `<video controls src="${node.url}"></video>`,
+                  }
+                  parent.children.splice(index, 1, newNode)
+                  return SKIP
+                } else if (/\.(mp3|webm|wav|m4a|ogg|3gp|flac)$/i.test(node.url)) {
+                  const newNode: Html = {
+                    type: "html",
+                    value: `<audio controls src="${node.url}"></audio>`,
+                  }
+                  parent.children.splice(index, 1, newNode)
+                  return SKIP
                 }
-
-                parent.children.splice(index, 1, newNode)
-                return SKIP
               }
             })
           }
