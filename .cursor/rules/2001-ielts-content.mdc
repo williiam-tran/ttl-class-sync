@@ -1,0 +1,74 @@
+---
+description: Format IELTS test content with consistent structure for headings, transcripts, answers and media links
+globs: ["**/IELTS/**/*.md"]
+alwaysApply: false
+---
+
+# IELTS Content Structure Rule
+
+## Context
+- When creating or editing IELTS test content files
+- When standardizing content format across test materials
+- When embedding audio and PDF resources
+
+## Requirements
+- Use frontmatter with publish: true
+- Structure content with H2 (##) for Parts and H3 (###) for Question groups
+- Place transcript at end under H3 Transcript heading
+- Format transcript in callouts with unordered lists
+- Add question index in parentheses after each answer
+- Use consistent media embedding for both internal and external sources
+
+## Examples
+<example>
+```md
+---
+publish: true
+---
+## Part 1
+
+### Questions 1-10
+![[Resources/Audio/Test-Audio.mp3|Part 1]]
+![[Resources/PDF/Test-Questions.pdf|Questions]]
+
+External audio:
+![alt text](https://example.com/audio.mp3)
+
+### Transcript
+> [!Info]- Part 1
+> - The lecture began with discussion of ==climate change== (1)
+> - Students were asked to ==submit their papers== by Friday (2)
+> - The professor mentioned ==three key points== (3):
+>   - ==First point== (4)
+>   - ==Second point== (5)
+>   - ==Third point== (6)
+```
+</example>
+
+<example type="invalid">
+```md
+Part 1
+Questions
+[audio](link)
+
+Transcript:
+The answers are...
+Answer 1 (no highlight)
+Answer 2 [no index]
+```
+</example>
+
+## Critical Rules
+- ALWAYS use H2 (##) for Part sections
+- ALWAYS use H3 (###) for Question groups and Transcript
+- ALWAYS include question numbers in section headings
+- ALWAYS put transcript at the end
+- ALWAYS use callout format (> [!Info]-) for transcript sections
+- ALWAYS use unordered lists (-) in transcript
+- ALWAYS highlight answers with ==text== format
+- ALWAYS add question index in parentheses (N) after highlighted answers
+- ONLY use internal links (![[file]]) or external format ![alt text](url) for media
+- NEVER use relative links or other URL formats
+- NEVER mix transcript with questions
+- NEVER omit frontmatter publish flag
+- NEVER omit question indices after answers 

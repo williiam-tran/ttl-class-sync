@@ -3,7 +3,7 @@ title: Introduction
 publish: true
 image: images/introduction.png
 ---
-# Greetings, Family 
+# Greetings, Family
 
 Our class will begin this week, I hope that we will have [[Be Smooth Sailing|a smooth sailing journey]] together.   
 
@@ -13,7 +13,11 @@ First, this is deeply personal for me, and I trusted you guys to [[Keep This Bet
 
 Typically, I would **[[Jot Down|jot down]]** these [[Reflection|reflections]] in my journal [[But For Someone-something|but for]] this occasion, to [[Motivate|motivate]] you guys, to hopefully [[Ignite|ignite]] a flame of [[Undying Passion|undying passion]] for learning, I would like to share a [[Snapshot|snapshot]] of my life. First, one of my early [[motto|mottos]]:
 > My [[Thirst After-for Something|thirst for knowledge]] will never be **[[Quench|quenched]].**
+
+
+
 If you don't like it, then tough luck, take this as a reading task, and I've **highlighted** the vocabulary that you've learned, not the new ones.
+
 So, to mark the [[commencement|commencement]] of our learning [[endeavor|endeavor]], here are your first tasks:
 
 ---
@@ -22,7 +26,7 @@ So, to mark the [[commencement|commencement]] of our learning [[endeavor|endeavo
 > - [ ] Your comments/remarks (at least 3), send me personally or [[Via|via]] group chat, suit you.
 > - [ ] Extra 2 points for those who note grammar structures used as well. An [[exhaustive|exhaustive]] one.
 
-<mark class="hltr-orange">⚠️Note</mark>  Minus 1 point for each vocabulary word you miss if asked. Missing means that you haven't noted it yet.
+<mark class="hltr-orange">⚠️Note</mark> Minus 1 point for each vocabulary word you miss if asked. Missing means that you haven't noted it yet.
 
 # [[Autobiography|Autobiography]]
 People often tell me how "a normal person" would [[Behave|behave]] differently than I do, so I guess it's only [[Reasonable|reasonable]] that my school life wasn't typical either, lol.
@@ -106,7 +110,7 @@ The daily [[Inquiry|inquiries]] were rather [[Simple|simple]]:
 ### A [[Regime|Regime]] That Should Have Been Universal
 The educational [[Autonomy|autonomy]] level I got was [[unprecedentedly|unprecedentedly]] and [[inimitably|inimitably]] high, along with a [[hefty|hefty]] budget for students. 
 
-We had the freedom to decide how to spend our time, with a monthly salary [[Exceed|exceeding]] a million —a huge amount back then,  far more than one student could reasonably spend— for basically existing. 
+We had the freedom to decide how to spend our time, with a monthly salary [[Exceed|exceeding]] a million —a huge amount back then, far more than one student could reasonably spend— for basically existing. 
 
 Students who lived a bit **[[Off The Beaten Track|off the beaten track]]** would earn almost twice as much. 
 Big [[Monetary|monetary]] rewards were given (around 9.000.000₫ per [[semester|semester]] per student) for getting an 8.5 GPA, which was not hard, at all. 
@@ -143,9 +147,9 @@ The [[Inquiry|inquiry]] of what would [[Become Of Us|become of us]], or what our
 
 I can still remember that feeling, [[vaguely|vaguely]] - the way dreaming [[As Naturally As Breathing|came as naturally as breathing]]. [[Just|Just]] now, I remember someone from those days gave us a name: 🌱Lámer.
 
-For me, high school was when [[The Seed Of|the seed of]] my [[Fantasy|fantasies]] and [[Aspiration|aspirations]] was planted, and the mold of my true self was finalized, all [[stem|stemming]] from those [[Naive|naive]] and [[Untroubled|untroubled]] experiences. None of what I have achieved, or will achieve, **could have happened** without those [[Everlasting|everlasting]] moments when we could afford to be dreamers. Those [[fleeting|fleeting]], [[Precious|precious]]  days shaped our dreams and life [[Trajectory|trajectories]], allowing us to [[Envision|envision]] a future [[Fill something with something|filled with]] endless possibilities.
+For me, high school was when [[The Seed Of|the seed of]] my [[Fantasy|fantasies]] and [[Aspiration|aspirations]] was planted, and the mold of my true self was finalized, all [[stem|stemming]] from those [[Naive|naive]] and [[Untroubled|untroubled]] experiences. None of what I have achieved, or will achieve, **could have happened** without those [[Everlasting|everlasting]] moments when we could afford to be dreamers. Those [[fleeting|fleeting]], [[Precious|precious]] days shaped our dreams and life [[Trajectory|trajectories]], allowing us to [[Envision|envision]] a future [[Fill something with something|filled with]] endless possibilities.
 
-# ~~Why do I tell you all this?~~ Why not?
+# ~~Why Do I Tell You All this?~~ Why Not?
 
 I realized some time ago that the [[Privilege|privileges]] I received should not be taken for granted, as I wouldn't trade them for anything. 
 Now, I see them as something I **have to [[Bear|bear]]** on my shoulders, my responsibilities. The spark of life 🌟I received is something I long to share, [[Driven By|driven by]] both my sense of [[Obligation|obligation]] and [[wholeheartedness|wholeheartedness]]. 
@@ -155,7 +159,7 @@ Back in the days, my mother brought up the idea that I should [[Take On|take on]
 
 With [[hindsight|hindsight]], my mom was quite a [[prophet|prophet]], nhỉ?
 
-I often tell students about my teachers,  who **[[Put|put]] me [[On The Right Track|on the right track]]** even when I had strayed far from it—which fact never mattered to them. 
+I often tell students about my teachers, who **[[Put|put]] me [[On The Right Track|on the right track]]** even when I had strayed far from it—which fact never mattered to them. 
 I owe a great deal to my life sabers for guiding me during times I needed it most, even without realizing it at the time. 
 
 I realized that many kids would have been a lot [[Better Off|better off]] **had they met** the teachers I once had, those who have the most [[Unconventional|unconventional]] methods that I can somewhat [[fathom|fathom]] now.

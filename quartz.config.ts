@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { IELTSAnswerCheck, MetaBind } from "./quartz/plugins/transformers"
 import { RemovePrivate } from "./quartz/plugins/transformers/remove-private"
 
 /**
@@ -22,7 +23,6 @@ const config: QuartzConfig = {
     baseUrl: "ttl-class.williamtran.tech",
     ignorePatterns: ["private", "_templates", ".obsidian", "_Index*", "**/_Index*"],
     defaultDateType: "created",
-    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -76,18 +76,22 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true, enableCheckbox: true }),
+      Plugin.ObsidianFlavoredMarkdown({
+        enableInHtmlEmbed: true,
+        enableCheckbox: true,
+        enableExternalAudioEmbed: true,
+      }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      IELTSAnswerCheck(),
+      MetaBind(),
     ],
     filters: [
       Plugin.RemoveDrafts(),
-      Plugin.ExplicitPublish({
-        alwaysPublishExtensions: [".pdf", ".docx", ".doc", ".xlsx", ".xls", ".pptx", ".ppt"],
-      }),
+      Plugin.ExplicitPublish(),
     ],
     emitters: [
       Plugin.AliasRedirects(),

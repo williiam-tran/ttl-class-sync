@@ -3,6 +3,7 @@ title: Introduction
 publish: true
 image: images/introduction.png
 ---
+
 # Greetings, Family 
 
 Our class will begin this week, I hope that we will have [[Be Smooth Sailing|a smooth sailing journey]] together.   
@@ -13,10 +14,10 @@ First, this is deeply personal for me, and I trusted you guys to [[Keep This Bet
 
 Typically, I would **[[Jot Down|jot down]]** these [[Reflection|reflections]] in my journal [[But For Someone-something|but for]] this occasion, to [[Motivate|motivate]] you guys, to hopefully [[Ignite|ignite]] a flame of [[Undying Passion|undying passion]] for learning, I would like to share a [[Snapshot|snapshot]] of my life. First, one of my early [[motto|mottos]]:
 > My [[Thirst After-for Something|thirst for knowledge]] will never be **[[Quench|quenched]].**
+
 If you don't like it, then tough luck, take this as a reading task, and I've **highlighted** the vocabulary that you've learned, not the new ones.
 So, to mark the [[commencement|commencement]] of our learning [[endeavor|endeavor]], here are your first tasks:
 
----
 > [!Example] This week's tasks
 > - [ ]  First-level of [[recursion|recursion]] for new words on this reading task.
 > - [ ] Your comments/remarks (at least 3), send me personally or [[Via|via]] group chat, suit you.
@@ -41,7 +42,7 @@ My life has been the complete opposite and will probably become of this quote:
 
 This period was what I called *"A Dark Era,"* a time [[Fill something with something|filled with]] confusion and all sorts of emotions with no self-[[Awareness|awareness]] and [[restraint|restraint]]. 
 
-- I was a perfect [[Role Model|role model]] student and, [[Better Yet|better yet]], a bully. 
+I was a perfect [[Role Model|role model]] student and, [[Better Yet|better yet]], a bully. 
 Too sharp [[For Your-Someone'S Own Good|for my own good]], excelling at anything I [[Pick Up|picked up]], so naturally, I got things in my favor. 
 People’s attention and [[Praise|praise]] probably [[Take Its-A Toll(On)|took a heavy toll on me]], [[Feed An Ego|feeding an ego]] that I didn’t know how to process, but that was no excuse. I was led [[Astray|astray]], blinded by the rewards and [[Recognition|recognition]].
 
@@ -54,6 +55,7 @@ Let's not [[delve|delve]] further...
 ### The Muted [[aftermath|Aftermath]]
 A [[Get Away With Something|got-away-with-it-somehow]] spoiled brat [[End up|ended up]] in the top class of the top secondary school. I came to my senses only much later on, back then I was still feigning [[Ignorance|ignorance]] and acting [[On Impulse|on impulse]], as most children would.
 
+The school wasn't too far from my house, but still far enough for a kid to go on his own, and my parents couldn't [[Drop Off|drop me off]] either.
 Therefore, I got this [[Uncalled-For|uncalled-for]] luxury of going to school by taxi—yep, a taxi, alongside my neighborhood friends. Truly a story to be [[Brag|bragging about]], for [[Bourgeois|bourgeois]] families.
 
 The academic life [[Go South|went south]] from here 😅 as the [[impetuous|impetuous]] desires [[get the better of|got the better of me]]. I skipped classes more than I skipped meals.

@@ -8,7 +8,7 @@ aliases:
 #### Word Type: Idiom
 
 ### Definition
-To strongly desire or crave something, often referring to ambition, knowledge, or success.
+- [ ] To strongly desire or crave something, often referring to ambition, knowledge, or success.
 
 > [!example] Example
 > 
