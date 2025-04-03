@@ -12,7 +12,6 @@ import { ReplaceFunction, findAndReplace as mdastFindReplace } from "mdast-util-
 import path from "path"
 import rehypeRaw from "rehype-raw"
 import { SKIP, visit } from "unist-util-visit"
-import { splitAnchor } from "../../util/path"
 import { CSSResource, JSResource } from "../../util/resources"
 import { QuartzTransformerPlugin } from "../types"
 // @ts-ignore
@@ -27,7 +26,7 @@ import { PluggableList } from "unified"
 import mermaidScript from "../../components/scripts/mermaid.inline"
 import mermaidStyle from "../../components/styles/mermaid.inline.scss"
 import { capitalize } from "../../util/lang"
-import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
+import { FilePath, pathToRoot, slugTag, slugifyFilePath, splitAnchor } from "../../util/path"
 
 export interface Options {
   comments: boolean
@@ -146,6 +145,7 @@ const ytLinkRegex = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]
 const ytPlaylistLinkRegex = /[?&]list=([^#?&]*)/
 const videoExtensionRegex = new RegExp(/\.(mp4|webm|ogg|avi|mov|flv|wmv|mkv|mpg|mpeg|3gp|m4v)$/)
 const audioExtensionRegex = new RegExp(/\.(mp3|wav|m4a|ogg|3gp|flac)$/)
+const pdfExtensionRegex = new RegExp(/\.(pdf)$/)
 const wikilinkImageEmbedRegex = new RegExp(
   /^(?<alt>(?!^\d*x?\d*$).*?)?(\|?\s*?(?<width>\d+)(x(?<height>\d+))?)?$/,
 )
@@ -230,6 +230,14 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
                 // embed cases
                 if (value.startsWith("!")) {
+                  // Check if the file path is an external URL with PDF extension
+                  if (fp.match(externalLinkRegex) && fp.toLowerCase().endsWith(".pdf")) {
+                    return {
+                      type: "html",
+                      value: `<iframe src="${fp}" class="pdf"></iframe>`,
+                    }
+                  }
+                  
                   const ext: string = path.extname(fp).toLowerCase()
                   const url = slugifyFilePath(fp as FilePath)
                   if ([".png", ".jpg", ".jpeg", ".gif", ".bmp", ".svg", ".webp"].includes(ext)) {
@@ -409,6 +417,15 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                 const newNode: Html = {
                   type: "html",
                   value: `<audio controls src="${node.url}"></audio>`,
+                }
+
+                parent.children.splice(index, 1, newNode)
+                return SKIP
+              }
+              else if (parent && index != undefined && pdfExtensionRegex.test(node.url)) {
+                const newNode: Html = {
+                  type: "html",
+                  value: `<iframe src="${node.url}" class="pdf"></iframe>`,
                 }
 
                 parent.children.splice(index, 1, newNode)

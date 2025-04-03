@@ -9,7 +9,6 @@ export class MountableManager {
 
   constructor() {
     this.activeMountables = new Map<string, FieldMountable>();
-    console.debug('meta-bind-quartz | MountableManager initialized');
   }
 
   /**
@@ -18,7 +17,6 @@ export class MountableManager {
   unloadFile(filePath: string): void {
     for (const mountable of this.activeMountables.values()) {
       if (mountable.getFilePath() === filePath) {
-        console.debug(`meta-bind-quartz | MountableManager >> unregistered Mountable ${mountable.getUuid()}`);
         mountable.unmount();
       }
     }
@@ -29,7 +27,6 @@ export class MountableManager {
    */
   unload(): void {
     for (const mountable of this.activeMountables.values()) {
-      console.debug(`meta-bind-quartz | MountableManager >> unregistered Mountable ${mountable.getUuid()}`);
       mountable.unmount();
     }
   }
@@ -38,7 +35,6 @@ export class MountableManager {
    * Register a mountable component
    */
   registerMountable(mountable: FieldMountable): void {
-    console.debug(`meta-bind-quartz | MountableManager >> registered Mountable ${mountable.getUuid()}`);
     this.activeMountables.set(mountable.getUuid(), mountable);
   }
 
@@ -46,7 +42,6 @@ export class MountableManager {
    * Unregister a mountable component
    */
   unregisterMountable(mountable: FieldMountable): void {
-    console.debug(`meta-bind-quartz | MountableManager >> unregistered Mountable ${mountable.getUuid()}`);
     this.activeMountables.delete(mountable.getUuid());
   }
 } 

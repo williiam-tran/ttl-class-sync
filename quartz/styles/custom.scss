@@ -1009,3 +1009,21 @@ input:not([type="checkbox"]) {
 input:focus {
   outline: none;
 }
+
+::-webkit-input-placeholder { /* WebKit browsers */
+  color: #1e1e1e !important;
+  opacity:  1;
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color: #1e1e1e !important;
+  opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color: #1e1e1e !important;
+  opacity:  0;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+  color: #1e1e1e;
+  opacity:  0;
+}

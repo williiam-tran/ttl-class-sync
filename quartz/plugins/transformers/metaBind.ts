@@ -31,12 +31,19 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                 const isInput = content.startsWith("INPUT[")
                 
                 if (isInput) {
-                  // Parse target path
-                  const match = content.match(/INPUT\[text:([^\]]+)\]/)
-                  if (match) {
-                    const path = match[1]
+                  // Parse target path - support both formats:
+                  // INPUT[text:path] and INPUT[text():path]
+                  const withPlaceholderMatch = content.match(/INPUT\[text:([^\]]+)\]/)
+                  const withoutPlaceholderMatch = content.match(/INPUT\[text\(\):([^\]]+)\]/)
+                  
+                  if (withPlaceholderMatch) {
+                    const path = withPlaceholderMatch[1]
                     // Convert to div with data attributes
                     node.value = `<div class="meta-bind-input" data-bind-target="${path}" data-type="text"></div>`
+                  } else if (withoutPlaceholderMatch) {
+                    const path = withoutPlaceholderMatch[1]
+                    // Convert to div with data attributes, with no placeholder
+                    node.value = `<div class="meta-bind-input" data-bind-target="${path}" data-type="text" data-no-placeholder="true"></div>`
                   }
                 }
               } else if (node.lang === "meta-bind-js-view") {
@@ -131,12 +138,15 @@ export const MetaBind: QuartzTransformerPlugin = () => {
               document.querySelectorAll('.meta-bind-input').forEach(el => {
                 const bindTarget = el.getAttribute('data-bind-target');
                 const type = el.getAttribute('data-type');
+                const noPlaceholder = el.getAttribute('data-no-placeholder') === 'true';
                 
                 // Create input element
                 const input = document.createElement('input');
                 input.type = 'text';
                 input.className = 'meta-bind-text-input';
-                input.placeholder = bindTarget;
+                if (!noPlaceholder) {
+                  input.placeholder = bindTarget;
+                }
                 
                 // Get initial value from frontmatter if available
                 const pathParts = bindTarget.split('.');

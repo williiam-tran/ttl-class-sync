@@ -22,16 +22,12 @@ export const MetaBind: QuartzTransformerPlugin = () => {
           return (tree, file) => {
             // Extract frontmatter metadata to be available for binding
             const frontmatter = file.data.frontmatter || {};
-            console.log('[MetaBind Debug] Processing file:', file.data.filePath);
-            console.log('[MetaBind Debug] Frontmatter:', frontmatter);
             
             file.data.metaBind = {
               metadata: frontmatter,
               answers: (frontmatter as any).answers || {} // Type cast to avoid linter error
             };
             
-            console.log('[MetaBind Debug] MetaBind data:', file.data.metaBind);
-
             // Store in global cache for access by components
             if (typeof window !== 'undefined' && window._quartzMetaBindCache && file.data.filePath) {
               window._quartzMetaBindCache.frontmatter[file.data.filePath] = deepClone(frontmatter);
@@ -537,15 +533,10 @@ export const MetaBind: QuartzTransformerPlugin = () => {
           (pageData: any) => {
             // Make sure we're passing the full frontmatter data
             const metaBind = pageData.metaBind || {};
-            console.log('[MetaBind Debug] additionalHead pageData:', pageData);
-            console.log('[MetaBind Debug] additionalHead metaBind:', metaBind);
-            
             const metaBindData = {
               metadata: metaBind.metadata || pageData.frontmatter || {},
               answers: metaBind.answers || (pageData.frontmatter as any)?.answers || {}
             };
-            
-            console.log('[MetaBind Debug] additionalHead metaBindData:', metaBindData);
             
             return createElement("meta", {
               name: "meta-bind-data",

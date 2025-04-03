@@ -109,7 +109,6 @@ export class MetadataManager {
     }
     
     // Notify subscribers if we had them
-    console.debug('meta-bind-quartz | MetadataManager >> wrote value', value, 'to', bindTarget);
   }
 
   /**
@@ -143,7 +142,6 @@ export class MetaBindQuartz {
       window._quartzMetaBindCache = { frontmatter: {} };
     }
 
-    console.debug('meta-bind-quartz | initialized');
   }
   
   /**

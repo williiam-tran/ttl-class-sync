@@ -1,14 +1,14 @@
+import { Element, ElementContent, Root } from "hast"
 import { render } from "preact-render-to-string"
-import { QuartzComponent, QuartzComponentProps } from "./types"
-import HeaderConstructor from "./Header"
-import BodyConstructor from "./Body"
-import { JSResourceToScriptElement, StaticResources } from "../util/resources"
-import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
-import { clone } from "../util/clone"
 import { visit } from "unist-util-visit"
-import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
+import { clone } from "../util/clone"
+import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
+import { JSResourceToScriptElement, StaticResources } from "../util/resources"
+import BodyConstructor from "./Body"
+import HeaderConstructor from "./Header"
+import { QuartzComponent, QuartzComponentProps } from "./types"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -153,21 +153,21 @@ function renderTranscludes(
         } else if (page.htmlAst) {
           // page transclude
           node.children = [
-            {
-              type: "element",
-              tagName: "h1",
-              properties: {},
-              children: [
-                {
-                  type: "text",
-                  value:
-                    page.frontmatter?.title ??
-                    i18n(cfg.locale).components.transcludes.transcludeOf({
-                      targetSlug: page.slug!,
-                    }),
-                },
-              ],
-            },
+            // {
+            //   type: "element",
+            //   tagName: "h1",
+            //   properties: {},
+            //   children: [
+            //     {
+            //       type: "text",
+            //       value:
+            //         page.frontmatter?.title ??
+            //         i18n(cfg.locale).components.transcludes.transcludeOf({
+            //           targetSlug: page.slug!,
+            //         }),
+            //     },
+            //   ],
+            // },
             ...(page.htmlAst.children as ElementContent[]).map((child) =>
               normalizeHastElement(child as Element, slug, transcludeTarget),
             ),
