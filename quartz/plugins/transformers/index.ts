@@ -12,5 +12,6 @@ export { ObsidianFlavoredMarkdown } from "./ofm"
 export { OxHugoFlavouredMarkdown } from "./oxhugofm"
 export { RoamFlavoredMarkdown } from "./roam"
 export { SyntaxHighlighting } from "./syntax"
+export { TestResults } from "./testResults"
 export { TableOfContents } from "./toc"
 

@@ -1,6 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-import { IELTSAnswerCheck, MetaBind } from "./quartz/plugins/transformers"
+import { IELTSAnswerCheck, MetaBind, TestResults } from "./quartz/plugins/transformers"
 import { RemovePrivate } from "./quartz/plugins/transformers/remove-private"
 
 /**
@@ -86,8 +86,10 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.HardLineBreaks(),
       IELTSAnswerCheck(),
       MetaBind(),
+      TestResults(),
     ],
     filters: [
       Plugin.RemoveDrafts(),

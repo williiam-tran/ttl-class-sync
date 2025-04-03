@@ -27,8 +27,7 @@ export const MetaBind: QuartzTransformerPlugin = () => {
             
             file.data.metaBind = {
               metadata: frontmatter,
-              answers: (frontmatter as any).answers || {}, // Type cast to avoid linter error
-              user_answers: {} // Add user_answers property to store user input
+              answers: (frontmatter as any).answers || {} // Type cast to avoid linter error
             };
             
             console.log('[MetaBind Debug] MetaBind data:', file.data.metaBind);
@@ -252,11 +251,9 @@ export const MetaBind: QuartzTransformerPlugin = () => {
               // Extract frontmatter and answers
               const frontmatter = metaBindData.metadata || {};
               const answers = metaBindData.answers || {};
-              const user_answers = metaBindData.user_answers || {};
               
               console.log('[MetaBind Client] Extracted frontmatter:', frontmatter);
               console.log('[MetaBind Client] Extracted answers:', answers);
-              console.log('[MetaBind Client] Extracted user_answers:', user_answers);
 
               // Initialize cache if not already done
               if (!window._quartzMetaBindCache) {
@@ -387,15 +384,6 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                   
                   setValueAtPath(window._quartzMetaBindCache.frontmatter[filePath], bindTarget, value);
                   
-                  // Special handling for user_answers paths to ensure they're saved correctly
-                  if (bindTarget.startsWith('user_answers.')) {
-                    if (!window._quartzMetaBindCache.user_answers) {
-                      window._quartzMetaBindCache.user_answers = {};
-                    }
-                    const userAnswerKey = bindTarget.substring('user_answers.'.length);
-                    window._quartzMetaBindCache.user_answers[userAnswerKey] = value;
-                  }
-                  
                   console.log('Meta Bind value changed:', bindTarget, value);
                   
                   // Update any JS view fields that depend on this value
@@ -420,6 +408,15 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                       view.dispatchEvent(event);
                     }
                   });
+
+                  // Special handling for user_answers paths to ensure they're saved correctly
+                  if (bindTarget.startsWith('user_answers.')) {
+                    if (!window._quartzMetaBindCache.user_answers) {
+                      window._quartzMetaBindCache.user_answers = {};
+                    }
+                    const userAnswerKey = bindTarget.substring('user_answers.'.length);
+                    window._quartzMetaBindCache.user_answers[userAnswerKey] = value;
+                  }
                 });
                 
                 // Initial validation
@@ -457,14 +454,12 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                     const context = {
                       bound: {},
                       page: JSON.parse(JSON.stringify(frontmatter || {})), // Clone to avoid reference issues
-                      answers: answers, // Pass answers directly to the context
-                      user_answers: user_answers // Add user_answers to context
+                      answers: answers // Pass answers directly to the context
                     };
                     
                     console.log('[MetaBind View] Initial context:', {
                       page: context.page,
                       answers: context.answers,
-                      user_answers: context.user_answers,
                       frontmatter
                     });
                     
@@ -493,14 +488,6 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                       
                       context.bound[key] = value;
                       console.log('[MetaBind View] Bound ' + key + ' to value:', value);
-
-                      // Add user_answers field to context.bound when binding user_answers paths
-                      if (path.startsWith('user_answers.')) {
-                        const userAnswerKey = path.substring('user_answers.'.length);
-                        if (window._quartzMetaBindCache?.user_answers) {
-                          context.bound[key] = window._quartzMetaBindCache.user_answers[userAnswerKey];
-                        }
-                      }
                     });
                     
                     console.log('[MetaBind View] Final bound values:', context.bound);
@@ -517,12 +504,9 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                     
                     // Execute the script with the context
                     let script = scriptStr.trim();
-                    // Create appropriate function body based on script content
+                    // Check if the script already starts with 'return'
                     let functionBody;
-                    if (script.startsWith('var') || script.startsWith('let') || script.startsWith('const')) {
-                      // If script starts with a variable declaration, assume it ends with returning 'html'
-                      functionBody = script + '\nreturn html;';
-                    } else if (script.startsWith('return')) {
+                    if (script.startsWith('return')) {
                       functionBody = script;
                     } else {
                       functionBody = 'return ' + script;
@@ -559,8 +543,7 @@ export const MetaBind: QuartzTransformerPlugin = () => {
             
             const metaBindData = {
               metadata: metaBind.metadata || pageData.frontmatter || {},
-              answers: metaBind.answers || (pageData.frontmatter as any)?.answers || {},
-              user_answers: metaBind.user_answers || {}
+              answers: metaBind.answers || (pageData.frontmatter as any)?.answers || {}
             };
             
             console.log('[MetaBind Debug] additionalHead metaBindData:', metaBindData);
