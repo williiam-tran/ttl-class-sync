@@ -63,8 +63,9 @@ export const IELTSAnswerCheck: QuartzTransformerPlugin = () => {
               .ielts-answer-section {
                 margin: 2rem 0;
                 padding: 1rem;
-                border: 1px solid var(--border);
+                border: none;
                 border-radius: 0.5rem;
+                background-color: #1e1e1e;
               }
               .ielts-answer-inputs {
                 display: grid;
@@ -75,10 +76,11 @@ export const IELTSAnswerCheck: QuartzTransformerPlugin = () => {
                 display: flex;
                 align-items: center;
                 gap: 0.5rem;
+                background-color: #1e1e1e;
               }
               .ielts-answer-input input {
                 padding: 0.5rem;
-                border: 1px solid var(--border);
+                border: none;
                 border-radius: 0.25rem;
                 background: var(--bg);
                 color: var(--text);

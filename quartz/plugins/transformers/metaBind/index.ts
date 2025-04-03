@@ -144,26 +144,25 @@ export const MetaBind: QuartzTransformerPlugin = () => {
           {
             content: `
             .meta-bind-input {
+              background-color: #1e1e1e;
               display: inline-block;
               padding: 8px;
-              border: 1px solid var(--border);
               border-radius: 4px;
-              background: var(--bg);
               min-width: 200px;
               margin: 5px 0;
             }
             
-            .meta-bind-inline-input {
+            .meta-bind-inline-input input {
+              background-color: #1e1e1e;
               display: inline-block;
               margin: 0 2px;
             }
             
-            .meta-bind-inline-input input {
+            .meta-bind-inline-text-input {
+              background-color: #1e1e1e;
               padding: 2px 5px;
-              border: 1px solid var(--border);
               border-radius: 4px;
-              background: var(--bg);
-              font-size: 0.9em;
+              font-size: 2rem;
               width: auto;
               min-width: 100px;
             }

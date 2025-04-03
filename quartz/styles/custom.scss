@@ -984,6 +984,7 @@ iframe {
 
 table {
    border-collapse: collapse;
+   margin-bottom: 1rem !important;
 }
 
 th {
@@ -993,4 +994,18 @@ th {
 td, tr {
   border: 2px solid var(--gray);
   padding: 15px;
+}
+
+input:not([type="checkbox"]) {
+  background-color: #1e1e1e;
+  padding: 8px;
+  display: inline-block;
+  border: 2px solid var(--gray);
+  margin: 5px 0;
+  font-size: 1rem;
+  width: auto;
+  min-width: 100px;
+}
+input:focus {
+  outline: none;
 }

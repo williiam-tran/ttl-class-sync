@@ -17,7 +17,27 @@ export const TestResults: QuartzTransformerPlugin = () => {
             visit(tree, "code", (node: any) => {
               if (node.lang === "test-results") {
                 node.type = "html"
-                node.value = `<div class="test-results-container"></div>`
+                
+                // Check if there are options in the code block
+                const content = node.value.trim()
+                let options = {}
+                
+                if (content) {
+                  try {
+                    // Try to parse as JSON if there's content
+                    options = JSON.parse(content)
+                  } catch (e) {
+                    // If not valid JSON, use as a title
+                    options = { title: content }
+                  }
+                }
+                
+                // Pass options as data attributes
+                const optionsAttr = Object.entries(options)
+                  .map(([key, value]) => `data-${key}="${String(value).replace(/"/g, '&quot;')}"`)
+                  .join(' ')
+                
+                node.value = `<div class="test-results-container" ${optionsAttr}></div>`
               }
             })
           }
@@ -26,53 +46,6 @@ export const TestResults: QuartzTransformerPlugin = () => {
     },
     externalResources() {
       return {
-        css: [
-          {
-            content: `
-              .test-results-container {
-                margin: 2rem 0;
-                padding: 1rem;
-                border: 1px solid var(--border);
-                border-radius: 0.5rem;
-              }
-              
-              .test-results-table {
-                width: 100%;
-                border-collapse: collapse;
-                margin-top: 1rem;
-              }
-              
-              .test-results-table th,
-              .test-results-table td {
-                padding: 0.5rem;
-                border: 1px solid var(--border);
-                text-align: left;
-              }
-              
-              .test-results-table th {
-                background-color: var(--lightgray);
-                font-weight: bold;
-              }
-              
-              .test-results-status.correct {
-                color: #4caf50;
-                font-weight: bold;
-              }
-              
-              .test-results-status.incorrect {
-                color: #f44336;
-              }
-              
-              .test-results-score {
-                margin-top: 1rem;
-                padding: 1rem;
-                background-color: var(--lightgray);
-                border-radius: 0.5rem;
-                font-weight: bold;
-              }
-            `
-          }
-        ],
         js: [
           {
             script: `
@@ -83,55 +56,119 @@ export const TestResults: QuartzTransformerPlugin = () => {
                 function updateTestResults() {
                   try {
                     const metaBindData = JSON.parse(metaBindDataEl.getAttribute('content') || '{}');
-                    const correctAnswers = metaBindData.answers || {};
+                    let correctAnswers = metaBindData.answers || {};
                     const userAnswers = window._quartzMetaBindCache?.user_answers || {};
                     
-                    console.log('[TestResults] Correct answers:', correctAnswers);
+                    console.log('[TestResults] Initial correct answers:', correctAnswers);
                     console.log('[TestResults] User answers:', userAnswers);
                     
-                    document.querySelectorAll('.test-results-container').forEach(container => {
-                      // If no answers, show message
-                      if (Object.keys(correctAnswers).length === 0) {
-                        container.innerHTML = '<div class="test-results-message">No answer data available in frontmatter.</div>';
-                        return;
+                    // Look for embedded frontmatter
+                    const transclusions = document.querySelectorAll('blockquote.transclude');
+                    transclusions.forEach(transclude => {
+                      // Get the target URL
+                      const url = transclude.getAttribute('data-url');
+                      if (url && url.includes('Key')) {
+                        console.log('[TestResults] Found Key transclude, fetching frontmatter:', url);
+                        // Fetch the embedded file's frontmatter
+                        fetch(\`/\${url}/\`)
+                          .then(response => response.text())
+                          .then(html => {
+                            // Extract frontmatter from meta tag
+                            const tempDiv = document.createElement('div');
+                            tempDiv.innerHTML = html;
+                            const embeddedMetaBindDataEl = tempDiv.querySelector('meta[name="meta-bind-data"]');
+                            
+                            if (embeddedMetaBindDataEl) {
+                              const embeddedMetaBindData = JSON.parse(embeddedMetaBindDataEl.getAttribute('content') || '{}');
+                              console.log('[TestResults] Embedded frontmatter:', embeddedMetaBindData);
+                              
+                              // Merge the embedded answers with existing answers
+                              if (embeddedMetaBindData.answers) {
+                                correctAnswers = { ...correctAnswers, ...embeddedMetaBindData.answers };
+                                console.log('[TestResults] Updated correct answers with embedded data:', correctAnswers);
+                                
+                                // Update the display after fetching embedded data
+                                updateTestResultsDisplay(correctAnswers, userAnswers);
+                              }
+                            }
+                          })
+                          .catch(error => {
+                            console.error('[TestResults] Error fetching embedded frontmatter:', error);
+                          });
                       }
-                      
-                      // Create results table
-                      let html = '<h3>Answer Check</h3>';
-                      html += '<table class="test-results-table"><thead><tr><th>Question</th><th>Your Answer</th><th>Correct Answer</th><th>Status</th></tr></thead><tbody>';
-                      
-                      let score = 0;
-                      const questionKeys = Object.keys(correctAnswers).sort();
-                      
-                      questionKeys.forEach(key => {
-                        const userAnswer = userAnswers[key] || '';
-                        const correctAnswer = correctAnswers[key] || '';
-                        
-                        const isCorrect = userAnswer.toLowerCase().trim() === correctAnswer.toString().toLowerCase().trim();
-                        if (isCorrect) score++;
-                        
-                        const statusClass = isCorrect ? 'correct' : 'incorrect';
-                        const statusText = isCorrect ? '✅ Correct' : '❌ Incorrect';
-                        
-                        html += \`<tr>
-                          <td>Q\${key}</td>
-                          <td>\${userAnswer || '-'}</td>
-                          <td>\${correctAnswer}</td>
-                          <td class="test-results-status \${statusClass}">\${statusText}</td>
-                        </tr>\`;
-                      });
-                      
-                      html += '</tbody></table>';
-                      html += \`<div class="test-results-score">Total Score: <strong>\${score} / \${questionKeys.length}</strong></div>\`;
-                      
-                      container.innerHTML = html;
                     });
+                    
+                    // Initial update (will be overridden if embedded frontmatter is found)
+                    updateTestResultsDisplay(correctAnswers, userAnswers);
                   } catch (error) {
                     console.error('[TestResults] Error processing test results:', error);
                     document.querySelectorAll('.test-results-container').forEach(container => {
                       container.innerHTML = '<div class="test-results-error">Error processing test results.</div>';
                     });
                   }
+                }
+                
+                // Separate function to update display (called both initially and after fetching embedded data)
+                function updateTestResultsDisplay(correctAnswers, userAnswers) {
+                  document.querySelectorAll('.test-results-container').forEach(container => {
+                    // If no answers, show message
+                    if (Object.keys(correctAnswers).length === 0) {
+                      container.innerHTML = '<div class="test-results-message">No answer data available in frontmatter.</div>';
+                      return;
+                    }
+                    
+                    // Get custom title if provided
+                    const title = container.getAttribute('data-title') || 'Answer Check';
+                    
+                    // Get filter if provided (comma-separated list of question numbers)
+                    // Examples: 
+                    // - "31,32,33" - Will filter to only show questions 31, 32, 33
+                    // - "q31,q32,q33" - Will also work with prefixed question numbers
+                    const filter = container.getAttribute('data-filter');
+                    const filterQuestions = filter ? filter.split(',').map(q => q.trim()) : null;
+                    
+                    // Create results table
+                    let html = \`<h3>\${title}</h3>\`;
+                    html += '<table class="test-results-table"><thead><tr><th>Question</th><th>Your Answer</th><th>Correct Answer</th><th>Status</th></tr></thead><tbody>';
+                    
+                    let score = 0;
+                    let questionKeys = Object.keys(correctAnswers).sort();
+                    
+                    // Apply filter if provided
+                    if (filterQuestions) {
+                      questionKeys = questionKeys.filter(key => {
+                        // Match exact keys or just the number part
+                        return filterQuestions.includes(key) || filterQuestions.includes(key.replace(/[^0-9]/g, ''));
+                      });
+                    }
+                    
+                    questionKeys.forEach(key => {
+                      const userAnswer = userAnswers[key] || '';
+                      const correctAnswer = correctAnswers[key] || '';
+                      
+                      const isCorrect = userAnswer.toLowerCase().trim() === correctAnswer.toString().toLowerCase().trim();
+                      if (isCorrect) score++;
+                      
+                      const statusClass = isCorrect ? 'correct' : 'incorrect';
+                      const statusText = isCorrect ? '✅ Correct' : '❌ Incorrect';
+                      
+                      // Extract the number part for display (strip any non-numeric prefix)
+                      const questionNumber = key.replace(/[^0-9]/g, '');
+                      
+                      html += \`<tr>
+                        <td>Q\${questionNumber}</td>
+                        <td>\${userAnswer || '-'}</td>
+                        <td>\${correctAnswer}</td>
+                        <td class="test-results-status \${statusClass}">\${statusText}</td>
+                      </tr>\`;
+                    });
+                    
+                    html += '</tbody></table>';
+                    
+                    html += \`<div class="test-results-score">Total Score: <strong>\${score} / \${questionKeys.length}</strong></div>\`;
+                    
+                    container.innerHTML = html;
+                  });
                 }
                 
                 // Initial update

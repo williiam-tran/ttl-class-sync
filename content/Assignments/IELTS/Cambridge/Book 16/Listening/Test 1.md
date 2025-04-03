@@ -68,125 +68,18 @@ Question 38: `INPUT[text(showcase):user_answers.q38]`
 
 Question 39: `INPUT[text(showcase):user_answers.q39]`
 
-# MetaBind Validation and Table View Test
-
-This page shows examples of input validation and displaying data in a table.
-
-## Input Questions
-
-1. What is your name? `INPUT[text(Name):user_data.name]`
-
-2. What is your age? `INPUT[text(Age):user_data.age]` 
-
-3. What is your email? `INPUT[text(Email):user_data.email]`
-
-4. Question 39: `INPUT[text(Answer):user_data.q39]`
-
-## JSON View with Table
-
-```meta-bind-js-view
-{user_data.name} as name
-{user_data.age} as age
-{user_data.email} as email
-{user_data.q39} as q39
----
-return `
-<div>
-  <h3>Your Input Summary:</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Field</th>
-        <th>Value</th>
-        <th>Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Name</td>
-        <td>${context.bound.name || 'Not provided'}</td>
-        <td>${context.bound.name ? '✅' : '❌'}</td>
-      </tr>
-      <tr>
-        <td>Age</td>
-        <td>${context.bound.age || 'Not provided'}</td>
-        <td>${!isNaN(context.bound.age) ? '✅' : '❌'}</td>
-      </tr>
-      <tr>
-        <td>Email</td>
-        <td>${context.bound.email || 'Not provided'}</td>
-        <td>${context.bound.email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(context.bound.email) ? '✅' : '❌'}</td>
-      </tr>
-      <tr>
-        <td>Question 39</td>
-        <td>${context.bound.q39 || 'Not answered'}</td>
-        <td>${context.bound.q39 ? '✅' : '❌'}</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-`
-``` 
-
 ## Answer Check
+![[Key]]
 
-```meta-bind-js-view
-{user_answers.q31} as userAnswer31
-{user_answers.q32} as userAnswer32
-{user_answers.q33} as userAnswer33
-{user_answers.q34} as userAnswer34
-{user_answers.q35} as userAnswer35
-{user_answers.q36} as userAnswer36
-{user_answers.q37} as userAnswer37
-{user_answers.q38} as userAnswer38
-{user_answers.q39} as userAnswer39
----
-var html = '<div class="answer-comparison"><h3>Answer Check</h3><table><thead><tr><th>Question</th><th>Your Answer</th><th>Correct Answer</th><th>Status</th></tr></thead><tbody>';
-
-// Get answers from frontmatter
-var answers = context.page?.answers || {};
-
-// Helper function to check answer
-function checkAnswer(userAnswer, correctAnswer) {
-  if (!userAnswer) return '❌ Not answered';
-  if (userAnswer.toLowerCase().trim() === correctAnswer.toLowerCase().trim()) {
-    return '✅ Correct';
-  }
-  return '❌ Incorrect';
-}
-
-// Add rows for each question
-html += '<tr><td>Q31</td><td>' + (context.bound.userAnswer31 || '-') + '</td><td>' + answers.q31 + '</td><td>' + checkAnswer(context.bound.userAnswer31, answers.q31) + '</td></tr>';
-html += '<tr><td>Q32</td><td>' + (context.bound.userAnswer32 || '-') + '</td><td>' + answers.q32 + '</td><td>' + checkAnswer(context.bound.userAnswer32, answers.q32) + '</td></tr>';
-html += '<tr><td>Q33</td><td>' + (context.bound.userAnswer33 || '-') + '</td><td>' + answers.q33 + '</td><td>' + checkAnswer(context.bound.userAnswer33, answers.q33) + '</td></tr>';
-html += '<tr><td>Q34</td><td>' + (context.bound.userAnswer34 || '-') + '</td><td>' + answers.q34 + '</td><td>' + checkAnswer(context.bound.userAnswer34, answers.q34) + '</td></tr>';
-html += '<tr><td>Q35</td><td>' + (context.bound.userAnswer35 || '-') + '</td><td>' + answers.q35 + '</td><td>' + checkAnswer(context.bound.userAnswer35, answers.q35) + '</td></tr>';
-html += '<tr><td>Q36</td><td>' + (context.bound.userAnswer36 || '-') + '</td><td>' + answers.q36 + '</td><td>' + checkAnswer(context.bound.userAnswer36, answers.q36) + '</td></tr>';
-html += '<tr><td>Q37</td><td>' + (context.bound.userAnswer37 || '-') + '</td><td>' + answers.q37 + '</td><td>' + checkAnswer(context.bound.userAnswer37, answers.q37) + '</td></tr>';
-html += '<tr><td>Q38</td><td>' + (context.bound.userAnswer38 || '-') + '</td><td>' + answers.q38 + '</td><td>' + checkAnswer(context.bound.userAnswer38, answers.q38) + '</td></tr>';
-html += '<tr><td>Q39</td><td>' + (context.bound.userAnswer39 || '-') + '</td><td>' + answers.q39 + '</td><td>' + checkAnswer(context.bound.userAnswer39, answers.q39) + '</td></tr>';
-
-// Count correct answers
-var score = 0;
-if (context.bound.userAnswer31 && context.bound.userAnswer31.toLowerCase().trim() === answers.q31.toLowerCase().trim()) score++;
-if (context.bound.userAnswer32 && context.bound.userAnswer32.toLowerCase().trim() === answers.q32.toLowerCase().trim()) score++;
-if (context.bound.userAnswer33 && context.bound.userAnswer33.toLowerCase().trim() === answers.q33.toLowerCase().trim()) score++;
-if (context.bound.userAnswer34 && context.bound.userAnswer34.toLowerCase().trim() === answers.q34.toLowerCase().trim()) score++;
-if (context.bound.userAnswer35 && context.bound.userAnswer35.toLowerCase().trim() === answers.q35.toLowerCase().trim()) score++;
-if (context.bound.userAnswer36 && context.bound.userAnswer36.toLowerCase().trim() === answers.q36.toLowerCase().trim()) score++;
-if (context.bound.userAnswer37 && context.bound.userAnswer37.toLowerCase().trim() === answers.q37.toLowerCase().trim()) score++;
-if (context.bound.userAnswer38 && context.bound.userAnswer38.toLowerCase().trim() === answers.q38.toLowerCase().trim()) score++;
-if (context.bound.userAnswer39 && context.bound.userAnswer39.toLowerCase().trim() === answers.q39.toLowerCase().trim()) score++;
-
-html += '</tbody></table>';
-html += '<div class="score-summary"><h4>Score Summary</h4><p>Total Score: <strong>' + score + ' / 9</strong></p></div>';
-html += '</div>';
-
-html
+### Part 4 Results
+```test-results
+{"filter": "1,2,3,31,32,33,34,35,36,37,38,39"}
 ```
 
-## Standard Code Block Input
-
+### Part 3 Results
+```test-results
+{"filter": "q21,q22,q23,q24,q25,q26,q27,q28,q29,q31"}
+```
 ### Transcript
 
 > [!Info]- Part 4
