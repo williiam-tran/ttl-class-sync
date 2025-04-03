@@ -200,6 +200,7 @@ declare global {
   interface Window {
     _quartzMetaBindCache?: {
       frontmatter: Record<string, any>;
+      user_answers?: Record<string, any>;
     };
   }
 } 

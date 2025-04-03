@@ -24,11 +24,6 @@ user_answers:
 ![[Resources/Audio/Cam 16/Test 1 Part 1.mp3|Test 1 Part 1]]
 ![[Resources/Cambridge/16/Test 1 - Part 1.pdf|Test 1 - Part 1]]
 
-online mp3
-![alt text](https://ia802202.us.archive.org/15/items/cambridge-ielts-1-to-18-pdf-audio/5.%20Cambridge%20Books/Cambridge%20IELTS%2016/Cambridge%20IELTS%2016-Audio/Test%201%20Part%204.mp3)
-
-<iframe scrolling="no" style="overflow: hidden;" src="https://ttl-s3.williamtran.tech/Week%204.pdf#view=FitV" frameborder="0"></iframe>
-
 ## Part 2
 ![[Resources/Audio/Cam 16/Test 1 Part 2.mp3|Test 1 Part 2]]
 
@@ -72,20 +67,6 @@ Question 37: `INPUT[text(showcase):user_answers.q37]`
 Question 38: `INPUT[text(showcase):user_answers.q38]`
 
 Question 39: `INPUT[text(showcase):user_answers.q39]`
-
-## Standard Code Block Input
-
-```meta-bind
-INPUT[text:example_input]
-```
-
-## Inline Input Examples
-
-Here's a question with an inline input field: What is 2+2? `INPUT[text(answer):user_answers.q1]`
-
-Another question 39: `INPUT[text(showcase):user_answers.q39]`
-
-Multiple inputs on one line: `INPUT[text(first):user_answers.first]` and `INPUT[text(second):user_answers.second]`
 
 # MetaBind Validation and Table View Test
 
@@ -147,6 +128,64 @@ return `
 `
 ``` 
 
+## Answer Check
+
+```meta-bind-js-view
+{user_answers.q31} as userAnswer31
+{user_answers.q32} as userAnswer32
+{user_answers.q33} as userAnswer33
+{user_answers.q34} as userAnswer34
+{user_answers.q35} as userAnswer35
+{user_answers.q36} as userAnswer36
+{user_answers.q37} as userAnswer37
+{user_answers.q38} as userAnswer38
+{user_answers.q39} as userAnswer39
+---
+var html = '<div class="answer-comparison"><h3>Answer Check</h3><table><thead><tr><th>Question</th><th>Your Answer</th><th>Correct Answer</th><th>Status</th></tr></thead><tbody>';
+
+// Get answers from frontmatter
+var answers = context.page?.answers || {};
+
+// Helper function to check answer
+function checkAnswer(userAnswer, correctAnswer) {
+  if (!userAnswer) return '❌ Not answered';
+  if (userAnswer.toLowerCase().trim() === correctAnswer.toLowerCase().trim()) {
+    return '✅ Correct';
+  }
+  return '❌ Incorrect';
+}
+
+// Add rows for each question
+html += '<tr><td>Q31</td><td>' + (context.bound.userAnswer31 || '-') + '</td><td>' + answers.q31 + '</td><td>' + checkAnswer(context.bound.userAnswer31, answers.q31) + '</td></tr>';
+html += '<tr><td>Q32</td><td>' + (context.bound.userAnswer32 || '-') + '</td><td>' + answers.q32 + '</td><td>' + checkAnswer(context.bound.userAnswer32, answers.q32) + '</td></tr>';
+html += '<tr><td>Q33</td><td>' + (context.bound.userAnswer33 || '-') + '</td><td>' + answers.q33 + '</td><td>' + checkAnswer(context.bound.userAnswer33, answers.q33) + '</td></tr>';
+html += '<tr><td>Q34</td><td>' + (context.bound.userAnswer34 || '-') + '</td><td>' + answers.q34 + '</td><td>' + checkAnswer(context.bound.userAnswer34, answers.q34) + '</td></tr>';
+html += '<tr><td>Q35</td><td>' + (context.bound.userAnswer35 || '-') + '</td><td>' + answers.q35 + '</td><td>' + checkAnswer(context.bound.userAnswer35, answers.q35) + '</td></tr>';
+html += '<tr><td>Q36</td><td>' + (context.bound.userAnswer36 || '-') + '</td><td>' + answers.q36 + '</td><td>' + checkAnswer(context.bound.userAnswer36, answers.q36) + '</td></tr>';
+html += '<tr><td>Q37</td><td>' + (context.bound.userAnswer37 || '-') + '</td><td>' + answers.q37 + '</td><td>' + checkAnswer(context.bound.userAnswer37, answers.q37) + '</td></tr>';
+html += '<tr><td>Q38</td><td>' + (context.bound.userAnswer38 || '-') + '</td><td>' + answers.q38 + '</td><td>' + checkAnswer(context.bound.userAnswer38, answers.q38) + '</td></tr>';
+html += '<tr><td>Q39</td><td>' + (context.bound.userAnswer39 || '-') + '</td><td>' + answers.q39 + '</td><td>' + checkAnswer(context.bound.userAnswer39, answers.q39) + '</td></tr>';
+
+// Count correct answers
+var score = 0;
+if (context.bound.userAnswer31 && context.bound.userAnswer31.toLowerCase().trim() === answers.q31.toLowerCase().trim()) score++;
+if (context.bound.userAnswer32 && context.bound.userAnswer32.toLowerCase().trim() === answers.q32.toLowerCase().trim()) score++;
+if (context.bound.userAnswer33 && context.bound.userAnswer33.toLowerCase().trim() === answers.q33.toLowerCase().trim()) score++;
+if (context.bound.userAnswer34 && context.bound.userAnswer34.toLowerCase().trim() === answers.q34.toLowerCase().trim()) score++;
+if (context.bound.userAnswer35 && context.bound.userAnswer35.toLowerCase().trim() === answers.q35.toLowerCase().trim()) score++;
+if (context.bound.userAnswer36 && context.bound.userAnswer36.toLowerCase().trim() === answers.q36.toLowerCase().trim()) score++;
+if (context.bound.userAnswer37 && context.bound.userAnswer37.toLowerCase().trim() === answers.q37.toLowerCase().trim()) score++;
+if (context.bound.userAnswer38 && context.bound.userAnswer38.toLowerCase().trim() === answers.q38.toLowerCase().trim()) score++;
+if (context.bound.userAnswer39 && context.bound.userAnswer39.toLowerCase().trim() === answers.q39.toLowerCase().trim()) score++;
+
+html += '</tbody></table>';
+html += '<div class="score-summary"><h4>Score Summary</h4><p>Total Score: <strong>' + score + ' / 9</strong></p></div>';
+html += '</div>';
+
+html
+```
+
+## Standard Code Block Input
 
 ### Transcript
 

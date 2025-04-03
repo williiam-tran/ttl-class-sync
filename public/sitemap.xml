@@ -1,105 +1,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://ttl-class.williamtran.tech/Daily-Wrap-Up---Template</loc>
-    <lastmod>2025-02-19T04:12:06.621Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Daily-Wrap-Up</loc>
-    <lastmod>2025-02-19T04:12:06.621Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Dashboard</loc>
-    <lastmod>2025-03-29T09:58:20.224Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Getting-Started</loc>
-    <lastmod>2025-02-19T04:12:06.621Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Introduction</loc>
-    <lastmod>2025-03-31T06:02:38.197Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Knowledge-Debt---All</loc>
-    <lastmod>2025-02-19T04:12:06.622Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Knowledge-Debt</loc>
-    <lastmod>2025-02-19T04:12:06.622Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Miscellaneous</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/New-Words</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Online-1st</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/README</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Schedule</loc>
-    <lastmod>2025-02-19T04:12:06.708Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Scratchpad</loc>
-    <lastmod>2025-02-19T04:12:06.709Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Weekly-Routine</loc>
-    <lastmod>2025-02-19T04:12:06.759Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Weekly-Task</loc>
-    <lastmod>2025-02-19T04:12:06.759Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/What's-on-my-mind</loc>
-    <lastmod>2025-02-19T04:12:06.759Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/index-1</loc>
-    <lastmod>2025-02-19T04:12:06.761Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/</loc>
-    <lastmod>2025-03-31T05:55:25.902Z</lastmod>
-  </url><url>
     <loc>https://ttl-class.williamtran.tech/Anki/Getting-Started</loc>
-    <lastmod>2025-02-19T04:12:06.620Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Anki/Minitung</loc>
     <lastmod>2025-02-19T04:12:06.620Z</lastmod>
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Anki/Setup-Subscriber</loc>
     <lastmod>2025-02-19T04:12:06.620Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Assignments/1st</loc>
-    <lastmod>2025-02-19T04:12:06.620Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Assignments/Hello-World</loc>
-    <lastmod>2025-02-19T04:12:06.621Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Grammar/Keywords</loc>
-    <lastmod>2025-02-19T04:12:06.621Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/1st</loc>
-    <lastmod>2025-02-19T04:12:06.622Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/2nd</loc>
-    <lastmod>2025-03-29T10:39:45.270Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/3rd</loc>
-    <lastmod>2025-02-19T04:12:06.622Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/4th</loc>
-    <lastmod>2025-02-19T04:12:06.622Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/5th</loc>
-    <lastmod>2025-03-23T09:25:52.678Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/6th</loc>
-    <lastmod>2025-03-30T08:05:25.526Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/7th</loc>
-    <lastmod>2025-03-31T05:56:59.611Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/test/metabind-example</loc>
-    <lastmod>2025-04-02T18:01:31.809Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/test/metabind-validate</loc>
-    <lastmod>2025-04-02T18:14:17.592Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Resources/To-do-2024-08-21-18.45.48.excalidraw</loc>
-    <lastmod>2025-04-02T10:27:17.454Z</lastmod>
+    <loc>https://ttl-class.williamtran.tech/Assignments/IELTS/Cambridge/Book-16/Listening/Test-1</loc>
+    <lastmod>2025-04-02T09:49:48.847Z</lastmod>
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Assignments/Week-2/1st</loc>
     <lastmod>2025-02-19T04:12:06.621Z</lastmod>
@@ -110,11 +17,29 @@
     <loc>https://ttl-class.williamtran.tech/Assignments/Week-3/2nd</loc>
     <lastmod>2025-02-19T04:12:06.621Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/PDF/dashboard</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
+    <loc>https://ttl-class.williamtran.tech/Daily-Wrap-Up---Template</loc>
+    <lastmod>2025-02-19T04:12:06.621Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/-Be-Smooth-Sailing</loc>
-    <lastmod>2025-02-19T04:12:06.714Z</lastmod>
+    <loc>https://ttl-class.williamtran.tech/Dashboard</loc>
+    <lastmod>2025-03-29T09:58:20.224Z</lastmod>
+  </url><url>
+    <loc>https://ttl-class.williamtran.tech/Introduction</loc>
+    <lastmod>2025-03-31T06:02:38.197Z</lastmod>
+  </url><url>
+    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/1st</loc>
+    <lastmod>2025-02-19T04:12:06.622Z</lastmod>
+  </url><url>
+    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/2nd</loc>
+    <lastmod>2025-03-29T10:39:45.270Z</lastmod>
+  </url><url>
+    <loc>https://ttl-class.williamtran.tech/Lecture-Notes/7th</loc>
+    <lastmod>2025-03-31T05:56:59.611Z</lastmod>
+  </url><url>
+    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/present-tense-quiz</loc>
+    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
+  </url><url>
+    <loc>https://ttl-class.williamtran.tech/Miscellaneous</loc>
+    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/A-Pinch-Of-Salt</loc>
     <lastmod>2025-02-19T04:12:06.715Z</lastmod>
@@ -1391,9 +1316,6 @@
     <loc>https://ttl-class.williamtran.tech/Vocabulary/Snore</loc>
     <lastmod>2025-02-19T04:12:06.745Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/Someone-Something</loc>
-    <lastmod>2025-02-19T04:12:06.745Z</lastmod>
-  </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/Sorrow</loc>
     <lastmod>2025-02-19T04:12:06.745Z</lastmod>
   </url><url>
@@ -1715,12 +1637,6 @@
     <loc>https://ttl-class.williamtran.tech/Vocabulary/Yawn</loc>
     <lastmod>2025-02-19T04:12:06.753Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/a-pinch-of-salt</loc>
-    <lastmod>2025-03-29T09:59:47.664Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/a-the-bare-minimum</loc>
-    <lastmod>2025-03-29T09:59:50.905Z</lastmod>
-  </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/aftermath</loc>
     <lastmod>2025-02-19T04:12:06.753Z</lastmod>
   </url><url>
@@ -1729,15 +1645,6 @@
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/as-stated-by</loc>
     <lastmod>2025-02-19T04:12:06.753Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/back-to-back</loc>
-    <lastmod>2025-03-29T10:04:43.677Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/be-smooth-sailing</loc>
-    <lastmod>2025-03-29T10:04:46.586Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/become-of-us</loc>
-    <lastmod>2025-03-29T10:04:48.852Z</lastmod>
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/bourgeois</loc>
     <lastmod>2025-02-19T04:12:06.753Z</lastmod>
@@ -1756,12 +1663,6 @@
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/continent</loc>
     <lastmod>2025-02-19T04:12:06.754Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/creep-up-on-behind-someone</loc>
-    <lastmod>2025-03-29T10:05:09.942Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/delve-into-something</loc>
-    <lastmod>2025-03-29T10:05:12.590Z</lastmod>
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/delve</loc>
     <lastmod>2025-02-19T04:12:06.754Z</lastmod>
@@ -1829,9 +1730,6 @@
     <loc>https://ttl-class.williamtran.tech/Vocabulary/get-along</loc>
     <lastmod>2025-02-19T04:12:06.756Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/go-south</loc>
-    <lastmod>2025-03-29T10:06:56.121Z</lastmod>
-  </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/hefty</loc>
     <lastmod>2025-02-19T04:12:06.756Z</lastmod>
   </url><url>
@@ -1849,9 +1747,6 @@
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/in-the-middle-of-something</loc>
     <lastmod>2025-03-29T10:07:18.249Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/in-the-name-of-someone-something</loc>
-    <lastmod>2025-03-29T10:07:20.445Z</lastmod>
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/inimitably</loc>
     <lastmod>2025-02-19T04:12:06.756Z</lastmod>
@@ -1925,9 +1820,6 @@
     <loc>https://ttl-class.williamtran.tech/Vocabulary/restraint</loc>
     <lastmod>2025-02-19T04:12:06.758Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/rhetorical-question</loc>
-    <lastmod>2025-03-29T10:09:53.152Z</lastmod>
-  </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/semester</loc>
     <lastmod>2025-02-19T04:12:06.758Z</lastmod>
   </url><url>
@@ -1970,486 +1862,24 @@
     <loc>https://ttl-class.williamtran.tech/Vocabulary/validation</loc>
     <lastmod>2025-02-19T04:12:06.759Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Vocabulary/vocabulary</loc>
-    <lastmod>2025-02-19T04:12:06.759Z</lastmod>
-  </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/wholeheartedness</loc>
     <lastmod>2025-02-19T04:12:06.759Z</lastmod>
   </url><url>
     <loc>https://ttl-class.williamtran.tech/Vocabulary/wrench</loc>
     <lastmod>2025-02-19T04:12:06.759Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/On-the-off-chance_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
+    <loc>https://ttl-class.williamtran.tech/Weekly-Routine</loc>
+    <lastmod>2025-02-19T04:12:06.759Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/a-pinch-of-salt_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
+    <loc>https://ttl-class.williamtran.tech/index-1</loc>
+    <lastmod>2025-02-19T04:12:06.761Z</lastmod>
   </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/ability_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/advancement_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/affluent_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/against-all-odds_quiz</loc>
-    <lastmod>2025-03-08T15:35:11.296Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/against_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/aggravate_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/aggression_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/aggressive_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/agnostic_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/all_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/ambiguous_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/analogy_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/appreciate_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.623Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/autonomy_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/bare-minimum_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/be-over-the-moon_quiz</loc>
-    <lastmod>2025-03-29T09:56:23.209Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/bear-sth-in-mind_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/boil-down-to_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/boisterous_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/bull-headed_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/burglar_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/burglary_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/bustle_quiz</loc>
-    <lastmod>2025-03-29T09:56:24.220Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/by-nature_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/catch-sb-red-handed_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/catch-somebody-red-handed_quiz</loc>
-    <lastmod>2025-03-29T09:56:26.194Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/change-averse_quiz</loc>
-    <lastmod>2025-03-29T09:56:27.206Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/cliched_quiz</loc>
-    <lastmod>2025-03-08T15:10:07.971Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/clich%C3%A9_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/congenial_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/congeniality_quiz</loc>
-    <lastmod>2025-03-29T09:57:22.217Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/congenially_quiz</loc>
-    <lastmod>2025-03-29T09:57:24.207Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/conscious_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/controversial_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/controversy_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/courtesy_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.624Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/creep-up-on_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/decide_quiz</loc>
-    <lastmod>2025-03-08T15:04:04.605Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/decision_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/discharge_quiz</loc>
-    <lastmod>2025-03-29T09:57:27.210Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/disobedient_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/disposability_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/disposal_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/dispose_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/do-wonder_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/doze-off_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/each-to-their-own_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/eager_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/eagerness_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/economical_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/effortlessly_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/enhance_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/enrich_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.625Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/estimate_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/exaggerate_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/exclude_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/exclusion_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/exclusionary_quiz</loc>
-    <lastmod>2025-03-29T09:57:30.204Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/exhaustive_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/extrovert_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/fetish_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/flavor_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/friendly_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/get-married_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/give-pledge_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/grain_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/hand-in-hand_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/harmonious_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/harmony_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/highly-likely_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/hit-the-hay_quiz</loc>
-    <lastmod>2025-03-29T09:57:33.203Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/hospitable_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.626Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/impoverished_quiz</loc>
-    <lastmod>2025-03-29T09:57:36.196Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/in-the-mean-time_quiz</loc>
-    <lastmod>2025-03-29T09:57:38.206Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/injure_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/injured_quiz</loc>
-    <lastmod>2025-03-29T09:57:41.207Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/injuriously_quiz</loc>
-    <lastmod>2025-03-29T09:57:43.207Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/injury_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/introvert_quiz</loc>
-    <lastmod>2025-03-29T09:57:46.203Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/ironically_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/irony_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/irresponsible_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/irritated_quiz</loc>
-    <lastmod>2025-03-29T09:57:49.203Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/jealous_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/jealously_quiz</loc>
-    <lastmod>2025-03-29T09:57:52.204Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/lose-count-of-sth_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/lose-sight-of_quiz</loc>
-    <lastmod>2025-03-29T09:57:55.204Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/make-a-fuss_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/make-ends-meet_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/manner_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/mass_quiz</loc>
-    <lastmod>2025-03-29T09:57:58.204Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/mean_quiz</loc>
-    <lastmod>2025-03-29T09:58:23.202Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/misfortunate_quiz</loc>
-    <lastmod>2025-03-29T09:58:25.202Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/motto_quiz</loc>
-    <lastmod>2025-03-29T09:58:28.193Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/narcissism_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/narrow-minded_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/niche_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/niched_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/obedient_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/obese_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/obsequious_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.627Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/odds-and-ends_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/open-to-dispute_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/open-minded_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/optimist_quiz</loc>
-    <lastmod>2025-03-29T09:58:30.201Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/oversimplify_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/paradox_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/paradoxical_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/perception_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/pervasively_quiz</loc>
-    <lastmod>2025-03-29T09:58:33.197Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/pervasiveness_quiz</loc>
-    <lastmod>2025-03-29T09:58:36.200Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/pig-headed_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/pinch_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/prerogative_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/present-tense-quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/privileged_quiz</loc>
-    <lastmod>2025-03-29T09:58:38.189Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/proficiency_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/provision_quiz</loc>
-    <lastmod>2025-03-29T09:58:39.204Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/quarrel_quiz</loc>
-    <lastmod>2025-03-29T09:58:42.206Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/read-between-the-lines_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/reflect_quiz</loc>
-    <lastmod>2025-03-29T09:58:44.207Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/repertoire_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/resort-to_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/risk-averse_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/robbery_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.628Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/salt_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/scatter_quiz</loc>
-    <lastmod>2025-03-29T09:58:47.212Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/see-to-it_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/showy_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/single-handedly_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/spicy_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/spill-the-tea_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/sprout_quiz</loc>
-    <lastmod>2025-03-29T09:58:49.205Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/stipend_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/subconscious_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/subconsciousness_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/take-a-rain-check-(on-something)_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/tangible_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/the-day-is-young_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/theft_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/tie-the-knot_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/to-each-their-own_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/tone-sth-down_quiz</loc>
-    <lastmod>2025-03-29T09:58:52.204Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/touched_quiz</loc>
-    <lastmod>2025-03-29T09:59:22.211Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/touch%C3%A9_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.629Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/train-of-thought_quiz</loc>
-    <lastmod>2025-03-29T09:59:25.202Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/unambiguous_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/unawares_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/untimely-death_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/utensil_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/vendor_quiz</loc>
-    <lastmod>2025-03-29T09:59:28.199Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/you-can-say-that-again_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/zealous_quiz</loc>
-    <lastmod>2025-02-19T04:12:06.630Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Materials/Quizzes/zealousness_quiz</loc>
-    <lastmod>2025-03-29T09:59:30.206Z</lastmod>
-  </url><url>
-    <loc>https://ttl-class.williamtran.tech/Assignments/IELTS/Cambridge/Book-16/Listening/Test-1</loc>
-    <lastmod>2025-04-02T09:49:48.847Z</lastmod>
+    <loc>https://ttl-class.williamtran.tech/</loc>
+    <lastmod>2025-03-31T05:55:25.902Z</lastmod>
   </url><url>
     <loc>https://ttl-class.williamtran.tech/test/answer-comparison</loc>
     <lastmod>2025-04-02T18:25:26.631Z</lastmod>
+  </url><url>
+    <loc>https://ttl-class.williamtran.tech/test/ielts-answers</loc>
+    <lastmod>2025-04-02T18:26:46.833Z</lastmod>
   </url></urlset>

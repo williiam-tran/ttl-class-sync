@@ -22,9 +22,16 @@ export const MetaBind: QuartzTransformerPlugin = () => {
           return (tree, file) => {
             // Extract frontmatter metadata to be available for binding
             const frontmatter = file.data.frontmatter || {};
+            console.log('[MetaBind Debug] Processing file:', file.data.filePath);
+            console.log('[MetaBind Debug] Frontmatter:', frontmatter);
+            
             file.data.metaBind = {
-              metadata: frontmatter
+              metadata: frontmatter,
+              answers: (frontmatter as any).answers || {}, // Type cast to avoid linter error
+              user_answers: {} // Add user_answers property to store user input
             };
+            
+            console.log('[MetaBind Debug] MetaBind data:', file.data.metaBind);
 
             // Store in global cache for access by components
             if (typeof window !== 'undefined' && window._quartzMetaBindCache && file.data.filePath) {
@@ -193,6 +200,36 @@ export const MetaBind: QuartzTransformerPlugin = () => {
               font-size: 0.8em;
               margin-top: 2px;
             }
+            
+            /* Answer comparison styles */
+            .answer-comparison table {
+              width: 100%;
+              border-collapse: collapse;
+              margin: 1rem 0;
+            }
+            
+            .answer-comparison th,
+            .answer-comparison td {
+              border: 1px solid var(--border);
+              padding: 8px;
+            }
+            
+            .answer-comparison th {
+              background-color: var(--bg);
+              text-align: left;
+            }
+            
+            .score-summary {
+              background-color: var(--bg);
+              padding: 10px;
+              border-radius: 4px;
+              margin-top: 1rem;
+            }
+            
+            .score-summary h4 {
+              margin-top: 0;
+              margin-bottom: 0.5rem;
+            }
             `
           }
         ],
@@ -200,13 +237,30 @@ export const MetaBind: QuartzTransformerPlugin = () => {
           {
             script: `
             document.addEventListener('DOMContentLoaded', function() {
+              console.log('[MetaBind Client] DOMContentLoaded event fired');
+              
               // Get frontmatter data
               const metaBindDataEl = document.querySelector('meta[name="meta-bind-data"]');
-              const frontmatter = metaBindDataEl ? JSON.parse(metaBindDataEl.getAttribute('content') || '{}') : {};
+              console.log('[MetaBind Client] Meta tag element:', metaBindDataEl);
+              
+              const metaBindContent = metaBindDataEl ? metaBindDataEl.getAttribute('content') : null;
+              console.log('[MetaBind Client] Meta tag content:', metaBindContent);
+              
+              const metaBindData = metaBindDataEl ? JSON.parse(metaBindDataEl.getAttribute('content') || '{}') : {};
+              console.log('[MetaBind Client] Parsed metaBindData:', metaBindData);
+              
+              // Extract frontmatter and answers
+              const frontmatter = metaBindData.metadata || {};
+              const answers = metaBindData.answers || {};
+              const user_answers = metaBindData.user_answers || {};
+              
+              console.log('[MetaBind Client] Extracted frontmatter:', frontmatter);
+              console.log('[MetaBind Client] Extracted answers:', answers);
+              console.log('[MetaBind Client] Extracted user_answers:', user_answers);
 
               // Initialize cache if not already done
               if (!window._quartzMetaBindCache) {
-                window._quartzMetaBindCache = { frontmatter: {} };
+                window._quartzMetaBindCache = { frontmatter: {}, user_answers: {} };
               }
               
               // Helper function to get value from path
@@ -333,6 +387,15 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                   
                   setValueAtPath(window._quartzMetaBindCache.frontmatter[filePath], bindTarget, value);
                   
+                  // Special handling for user_answers paths to ensure they're saved correctly
+                  if (bindTarget.startsWith('user_answers.')) {
+                    if (!window._quartzMetaBindCache.user_answers) {
+                      window._quartzMetaBindCache.user_answers = {};
+                    }
+                    const userAnswerKey = bindTarget.substring('user_answers.'.length);
+                    window._quartzMetaBindCache.user_answers[userAnswerKey] = value;
+                  }
+                  
                   console.log('Meta Bind value changed:', bindTarget, value);
                   
                   // Update any JS view fields that depend on this value
@@ -377,17 +440,33 @@ export const MetaBind: QuartzTransformerPlugin = () => {
               document.querySelectorAll('.meta-bind-js-view').forEach(el => {
                 const updateView = () => {
                   try {
+                    console.log('[MetaBind View] Updating JS view');
+                    
                     const bindingsStr = el.getAttribute('data-bindings');
                     const scriptStr = el.getAttribute('data-script');
+                    
+                    console.log('[MetaBind View] data-bindings:', bindingsStr);
+                    console.log('[MetaBind View] data-script:', scriptStr);
                     
                     if (!bindingsStr || !scriptStr) return;
                     
                     const bindings = JSON.parse(bindingsStr);
+                    console.log('[MetaBind View] Parsed bindings:', bindings);
                     
                     // Create context object similar to Meta Bind
                     const context = {
-                      bound: {}
+                      bound: {},
+                      page: JSON.parse(JSON.stringify(frontmatter || {})), // Clone to avoid reference issues
+                      answers: answers, // Pass answers directly to the context
+                      user_answers: user_answers // Add user_answers to context
                     };
+                    
+                    console.log('[MetaBind View] Initial context:', {
+                      page: context.page,
+                      answers: context.answers,
+                      user_answers: context.user_answers,
+                      frontmatter
+                    });
                     
                     // Get values from frontmatter/cache
                     Object.keys(bindings).forEach(key => {
@@ -413,7 +492,19 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                       }
                       
                       context.bound[key] = value;
+                      console.log('[MetaBind View] Bound ' + key + ' to value:', value);
+
+                      // Add user_answers field to context.bound when binding user_answers paths
+                      if (path.startsWith('user_answers.')) {
+                        const userAnswerKey = path.substring('user_answers.'.length);
+                        if (window._quartzMetaBindCache?.user_answers) {
+                          context.bound[key] = window._quartzMetaBindCache.user_answers[userAnswerKey];
+                        }
+                      }
                     });
+                    
+                    console.log('[MetaBind View] Final bound values:', context.bound);
+                    console.log('[MetaBind View] Final context object:', context);
                     
                     // Add a minimal markdown engine
                     const engine = {
@@ -426,9 +517,12 @@ export const MetaBind: QuartzTransformerPlugin = () => {
                     
                     // Execute the script with the context
                     let script = scriptStr.trim();
-                    // Check if the script already starts with 'return'
+                    // Create appropriate function body based on script content
                     let functionBody;
-                    if (script.startsWith('return')) {
+                    if (script.startsWith('var') || script.startsWith('let') || script.startsWith('const')) {
+                      // If script starts with a variable declaration, assume it ends with returning 'html'
+                      functionBody = script + '\nreturn html;';
+                    } else if (script.startsWith('return')) {
                       functionBody = script;
                     } else {
                       functionBody = 'return ' + script;
@@ -458,9 +552,22 @@ export const MetaBind: QuartzTransformerPlugin = () => {
         ],
         additionalHead: [
           (pageData: any) => {
+            // Make sure we're passing the full frontmatter data
+            const metaBind = pageData.metaBind || {};
+            console.log('[MetaBind Debug] additionalHead pageData:', pageData);
+            console.log('[MetaBind Debug] additionalHead metaBind:', metaBind);
+            
+            const metaBindData = {
+              metadata: metaBind.metadata || pageData.frontmatter || {},
+              answers: metaBind.answers || (pageData.frontmatter as any)?.answers || {},
+              user_answers: metaBind.user_answers || {}
+            };
+            
+            console.log('[MetaBind Debug] additionalHead metaBindData:', metaBindData);
+            
             return createElement("meta", {
               name: "meta-bind-data",
-              content: JSON.stringify(pageData.metaBind?.metadata || {})
+              content: JSON.stringify(metaBindData)
             });
           }
         ]
