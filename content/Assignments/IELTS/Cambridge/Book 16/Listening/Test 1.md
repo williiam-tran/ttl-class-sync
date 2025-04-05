@@ -39,6 +39,7 @@ answers:
   q36: translated Marcus Aurelius' works
   q37: Cognitive Behaviour Therapy
   q38: turning obstacles into opportunity
+
   q39: a disciplined and principled character
   q40: a different perspective
 user_answers:
@@ -47,12 +48,17 @@ user_answers:
   q39: world
   q37: wrong
 ---
+# Listening
+
 ## Part 1
+
 ### Questions 1 - 10
+
 ![[Resources/Audio/Cam 16/Test 1 Part 1.mp3|Test 1 Part 1]]
 ![[Resources/Cambridge/16/Test 1 - Part 1.pdf|Test 1 - Part 1]]
 
 ### Answer Sheet
+
 Question 1: `INPUT[text:user_answers.q1]`
 
 Question 2: `INPUT[text:user_answers.q2]`
@@ -74,17 +80,21 @@ Question 9: `INPUT[text:user_answers.q9]`
 Question 10: `INPUT[text:user_answers.q10]`
 
 > [!Info]- Part 1 Results
+>
 > ```test-results
 > {"filter": "1,2,3,4,5,6,7,8,9,10"}
 > ```
 
 ## Part 2
+
 ![[Resources/Audio/Cam 16/Test 1 Part 2.mp3|Test 1 Part 2]]
 
 ### Questions 11 - 14
+
 ![[Resources/Cambridge/16/Test 1 - Part 2 - 1.pdf|Test 1 - Part 2 - 1]]
 
 ### Answer Sheet
+
 Question 11: `INPUT[text:user_answers.q11]`
 
 Question 12: `INPUT[text:user_answers.q12]`
@@ -96,14 +106,17 @@ Question 14: `INPUT[text:user_answers.q14]`
 ### Results
 
 > [!Info]- Part 2 Results
+>
 > ```test-results
 > {"filter": "11,12,13,14"}
 > ```
 
 ### Questions 15 - 20
+
 ![[Resources/Cambridge/16/Test 1 - Part 2 - 2.pdf|Test 1 - Part 2 - 2]]
 
 ### Answer Sheet
+
 Question 15: `INPUT[text:user_answers.q15]`
 
 Question 16: `INPUT[text:user_answers.q16]`
@@ -119,17 +132,21 @@ Question 20: `INPUT[text:user_answers.q20]`
 ### Results
 
 > [!Info]- Part 3 Results
+>
 > ```test-results
 > {"filter": "15,16,17,18,19,20"}
 > ```
 
 ## Part 3
+
 ![[Resources/Audio/Cam 16/Test 1 Part 3.mp3|Test 1 Part 3]]
 
 ### Questions 21 - 24
+
 ![[Resources/Cambridge/16/Test 1 - Part 3 - 1.pdf|Test 1 - Part 3 - 1]]
 
 ### Answer Sheet
+
 Question 21: `INPUT[text:user_answers.q21]`
 
 Question 22: `INPUT[text:user_answers.q22]`
@@ -141,14 +158,17 @@ Question 24: `INPUT[text:user_answers.q24]`
 ### Results
 
 > [!Info]- Part 3 Results
+>
 > ```test-results
 > {"filter": "21,22,23,24"}
 > ```
 
 ### Questions 25 - 30
+
 ![[Resources/Cambridge/16/Test 1 - Part 3 - 2.pdf|Test 1 - Part 3 - 2]]
 
 ### Answer Sheet
+
 Question 25: `INPUT[text:user_answers.q25]`
 
 Question 26: `INPUT[text:user_answers.q26]`
@@ -164,6 +184,7 @@ Question 30: `INPUT[text:user_answers.q30]`
 ### Results
 
 > [!Info]- Part 3 Results
+>
 > ```test-results
 > {"filter": "25,26,27,28,29,30"}
 > ```
@@ -171,10 +192,11 @@ Question 30: `INPUT[text:user_answers.q30]`
 ## Part 4
 
 ### Questions 31 - 40
+
 ![[Resources/Audio/Cam 16/Test 1 Part 4.mp3|Test 1 Part 4]]
 ![[Resources/Cambridge/16/Test 1 - Part 4.pdf|Test 1 - Part 4]]
-### Your Answers
 
+### Your Answers
 
 Question 31: `INPUT[text:user_answers.q31]`
 
@@ -199,6 +221,7 @@ Question 40: `INPUT[text:user_answers.q40]`
 ### Part 4 Results
 
 > [!Info]- Part 4 Results
+>
 > ```test-results
 > {"filter": "1,2,3,31,32,33,34,35,36,37,38,39,40"}
 > ```
@@ -206,6 +229,7 @@ Question 40: `INPUT[text:user_answers.q40]`
 ### Transcript
 
 > [!Info]- Part 4
+>
 > - Specifically, I am referring to Stoicism, which, in my opinion, is the most practical of all philosophies and therefore the most appealing. ==Zeno== (31) of Citium in the early 3rd century BC, but was practised by the likes of Epictetus, Cato.
 > - Amazingly, we still have access to these ideas, despite the fact that the most famous Stoics never wrote anything down for publication. Cato definitely didn't. ==personal== (32)
 > - The road to virtue, in turn, lay in understanding that destructive emotions, like anger and jealousy, are under our conscious control — they don't have to control us, because we can learn to control them. In the words of Epictetus: "==I do control== (33)".
