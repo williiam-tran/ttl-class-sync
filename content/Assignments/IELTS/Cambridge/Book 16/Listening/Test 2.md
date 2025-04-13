@@ -85,9 +85,8 @@ user_answers:
 ---
  # Listening
 
-## Part 1 hi
+## Part 1
 
-![]{https://archive.org/download/cambridge-ielts-1-to-18-pdf-audio/5.%20Cambridge%20Books/Cambridge%20IELTS%2016/Cambridge%20IELTS%2016-Audio/Test%202%20Part%201.mp3}
 ![](https://archive.org/download/cambridge-ielts-1-to-18-pdf-audio/5.%20Cambridge%20Books/Cambridge%20IELTS%2016/Cambridge%20IELTS%2016-Audio/Test%202%20Part%201.mp3)
 
 ### Questions 1 - 10
@@ -116,7 +115,7 @@ Question 9: `INPUT[text:user_answers.q9]`
 
 Question 10: `INPUT[text:user_answers.q10]`
 
-### Results
+#### Results
 
 > [!Info]- Part 1 Results
 >
@@ -124,9 +123,10 @@ Question 10: `INPUT[text:user_answers.q10]`
 > {"filter": "1,2,3,4,5,6,7,8,9,10"}
 > ```
 
-### Transcript
+#### Transcript
 
 > [!Info]- Part 1
+>
 > - EMPLOYEE:     Hello, Picturerep. Can I help you?
 > - WOMAN:        Oh, hi. I saw your advertisement about copying pictures to disk and I’d like a bit more information about what you do.
 > - EMPLOYEE:     Sure. What would you like to know?
@@ -164,6 +164,7 @@ Question 10: `INPUT[text:user_answers.q10]`
 > - EMPLOYEE:     Right. If you’ve got a strong cardboard box, that’s best. We’ve found that plastic ==ones sometimes break in the post==. (Q10)
 > - WOMAN:        OK. Right, thanks for your help. Bye.
 > - EMPLOYEE:     Bye.
+
 ## Part 2
 
 ![[Test 2 Part 2.mp3|Test 2 Part 2]]
@@ -182,7 +183,7 @@ Question 13: `INPUT[text:user_answers.q13]`
 
 Question 14: `INPUT[text:user_answers.q14]`
 
-### Results
+#### Results
 
 > [!Info]- Part 2 Results
 >
@@ -190,14 +191,20 @@ Question 14: `INPUT[text:user_answers.q14]`
 > {"filter": "11,12,13,14"}
 > ```
 
-### Transcript
+#### Transcript
 
 > [!Info]- Part 2
+>
 > - Good morning and thank you for coming here today. I’d like to bring you up to date with changes in the school that will affect your children.
+> 
 > - As you know, the school buildings date from various times: some from the 1970s, some from the last five years, and of course Dartfield House is over a century old. It was ==commissioned== by a businessman. Neville Richards, and ==intended== as his family home, but he died before it was completed. ==His heir chose to sell it to the local council, who turned it into offices== (Q11). A later plan to convert it into a tourist information centre didn’t come about, through lack of money, and instead it formed ==the nucleus of== this school when it opened 40 years ago.
+> 
 > - The school has grown as the local population has increased, and I can now give you some news about the lower school site, which is separated from the main site by a road. Planning ==permission== has been granted for development of both sites. The lower school will move to new buildings that will be constructed on the main site. ==Developers will construct houses on the existing lower school site== (Q12). Work on the new school buildings should start within the next few months.
+> 
 > - A more ==imminent== change concerns the ==catering== facilities and the canteen. The canteen is always very busy throughout the lunch period – in fact it’s often full to capacity, because a lot of our pupils like the food that’s on offer there. But there’s only one serving point, so ==most pupils have to wait a considerable time to be served== (Q13). This is obviously ==unsatisfactory==, as they may have hardly finished their lunch before afternoon lessons start.
+> 
 > - So we’ve had a new Food Hall built, and this will come into use next week. It’ll have several serving areas, and I’ll give you more details about those in a minute, but one thing we ask you to do, to help in the smooth running of the Food Hall, is to ==discuss with your children each morning which type of food they want to eat that day== (Q14), so they can go straight to the ==relevant== serving point. There won’t be any junk food – everything on offer will be healthy – and there’s no change to the current system of paying for lunches by topping up your child’s electronic payment card online.
+> 
 > - You may be wondering what will happen to the old canteen. ==We’ll still have tables and chairs in there, and pupils can eat food from the Food Hall or lunch they’ve brought from home== (Q15). Eventually we may use part of the canteen for storage, but first we’ll see how many pupils go in there at lunchtime.
 
 ### Questions 15 - 20
@@ -218,7 +225,7 @@ Question 19: `INPUT[text:user_answers.q19]`
 
 Question 20: `INPUT[text:user_answers.q20]`
 
-### Results
+#### Results
 
 > [!Info]- Part 2 Results
 >
@@ -226,15 +233,18 @@ Question 20: `INPUT[text:user_answers.q20]`
 > {"filter": "15,16,17,18,19,20"}
 > ```
 
-### Transcript
+#### Transcript
 
 > [!Info]- Part 2
 >
-> 
 > - OK, back to the serving points in the Food Hall, which will all have side dishes, desserts and drinks on sale, as well as main courses.
-> - One serving point we call ==World Adventures== (Q16). This will serve ==a different country’s cuisine each day==, maybe Chinese one day and Lebanese the next. The ==menus== will be planned for a week at a time, so pupils will know what’s going to be available the whole of the week.
+>
+> - One serving point we call ==World Adventures== (Q16). This will serve ==a different country’s cuisine each day==, maybe Chinese one day and Lebanese the next.
+> 
 > - ==Street Life== is also international, with food from three particular cultures. ==We’ll ask pupils to make suggestions== (Q17), so perhaps sometimes there’ll be food from Thailand, Ethiopia and Mexico, and then one of them will be replaced by Jamaican food for a week or two.
+> 
 > - The Speedy Italian serving point ==will cater particularly for the many pupils who don’t eat meat or fish== (Q18): they can be sure that all the food served there is ==suitable for== them. There’ll be plenty of variety, so they shouldn’t get bored with the food.
+> 
 > - OK, that’s all on the new Food Hall. Now after-school lessons. There are very popular with pupils, particularly swimming – in fact there’s a waiting list for lessons. Cycling is another favourite, and I’m delighted that dozens of pupils ==make use of== the chance to learn to ride in ==off-road== conditions. It means that more and more cycle to and from school every day. As you know, we have a well-equipped performance centre, and ==we’re going to start drama classes== (Q19/Q20) in there, too. Pupils will be able to join in just for fun or work up to taking part in a play – we hope to put on at least one a year. We already teach a number of pupils to use the sound and lighting systems in the centre. And a ==former== pupil has given a ==magnificent== grand piano to the school, so ==a few pupils will be able to learn at the school instead of going to the local college== (Q19/20), as many of them do at the moment.
 
 ## Part 3
@@ -255,7 +265,7 @@ Question 23: `INPUT[text:user_answers.q23]`
 
 Question 24: `INPUT[text:user_answers.q24]`
 
-### Results
+#### Results
 
 > [!Info]- Part 3 Results
 >
@@ -263,9 +273,10 @@ Question 24: `INPUT[text:user_answers.q24]`
 > {"filter": "21,22,23,24"}
 > ```
 
-### Transcript
+#### Transcript
 
 > [!Info]- Part 3
+>
 > - SUSIE:     So Luke, for our next psychology assignment we have to do something on sleep and dreams.
 > - LUKE:      Right. I’ve just read an article suggesting why we ==tend to== forget most of our dreams soon after we wake up. I mean, most of my dreams aren’t that interesting anyway, but what it said was that if we remembered everything, ==we might get mixed up about what actually happened and what we dreamed== (Q21). So it’s a sort of protection. I hadn’t heard that idea before. I’d always ==assumed== that it was just that we didn’t have room in our memories for all that stuff.
 > - SUSIE:     Me too. What do you think about the idea that our dreams may ==predict== the future?
@@ -297,7 +308,7 @@ Question 29: `INPUT[text:user_answers.q29]`
 
 Question 30: `INPUT[text:user_answers.q30]`
 
-### Results
+#### Results
 
 > [!Info]- Part 3 Results
 >
@@ -305,9 +316,10 @@ Question 30: `INPUT[text:user_answers.q30]`
 > {"filter": "25,26,27,28,29,30"}
 > ```
 
-### Transcript
+#### Transcript
 
 > [!Info]- Part 3
+>
 > - SUSIE:     So shall we plan what we have to do for this assignment?
 > - LUKE:      OK.
 > - SUSIE:     First, we have to decide on our research question. So how about ‘Is there a relationship between hours of sleep and number of dreams?’
@@ -357,7 +369,7 @@ Question 39: `INPUT[text:user_answers.q39]`
 
 Question 40: `INPUT[text:user_answers.q40]`
 
-### Results
+#### Results
 
 > [!Info]- Part 4 Results
 >
@@ -365,21 +377,36 @@ Question 40: `INPUT[text:user_answers.q40]`
 > {"filter": "31,32,33,34,35,36,37,38,39,40"}
 > ```
 
-### Transcript
+#### Transcript
 
 > [!Info]- Part 4
+>
 > - Dancing is something that humans do when they want to have a good time. It’s a ==universal== response to music, found in all cultures. But what’s only been discovered recently is that dancing not only makes us feel good, it’s also extremely good for our health.
+>
 > - Dancing, like other forms of exercise, releases ==hormones==, such as ==dopamine==, which make us feel relaxed and happy. And it also reduces feelings of stress or anxiety.
+>
 > - Dancing is also a sociable activity, which is another reason it makes us feel good.
+>
 > - One study compared people’s enjoyment of dancing at home in front of a video with dancing in a group in a studio.
+>
 > - The people dancing in a group reported feeling happier, whereas those dancing alone did not.
+>
 > - In another experiment, university researchers at York and Sheffield took ==a group of students== and sent each of them into a lab where music was played for five minutes. Each had to choose from three options: to sit and listen quietly to the music, to cycle on an exercise bike while they listened, or to get up and dance. All were given ==cognitive== tasks to perform before and after. The result showed that ==those who chose to dance showed much more creativity== (Q31) when doing problem-solving tasks.
+>
 > - Doctor Lovatt at the University of Hertfordshire believes dance could be a very useful way to help people suffering from mental health problems. He thinks ==dance should be prescribed as therapy== (Q32) to help people ==overcome== issues such as depression.
+>
 > - It’s well ==established== that dance is a good way of encouraging adolescent girls to take exercise but what about ==older people==? Studies have shown that there are ==enormous== benefits for people in their sixties and beyond. One of the great things about dance is that there are no barriers to participation. Anyone can have a go, even those whose ==standard of fitness is quite low==. (Q33)
+>
 > - Dance can be especially beneficial for older adults who can’t run or do more intense workouts, or for those who don’t want to. One 2015 study found that even a gently dance workout helps to ==promote== a healthy heart. And there’s plenty of ==evidence== which suggests that dancing lowers the risk of falls, which could result in a broken hip, for example, by helping people ==to improve their balance==. (Q34)
+>
 > - There are some less obvious benefits of dance for older people too. One thing I hadn’t realised before researching this topic was that dance isn’t just a physical challenge. It also requires a lot of ==concentration== because you need to remember different steps and routines. For older people, this kind of activity is especially important because ==it forces their brain to process things more quickly== (Q35) and to ==retain== more information.
+>
 > - Current research also shows that dance promotes a general sense of ==well-being== in older participants, which can last up to a week after a class. Participants report feeling less tired and having ==greater motivation to be more active== (Q36) and do daily activities such as gardening or walking to the shops or a park.
+>
 > - ==Ballroom== or country dancing, both popular with older people, have to be done in groups. They require ==collaboration== and often involve touching a dance partner, all of which encourages interaction on the dance floor. This helps to develop new relationships and can ==reduce older people’s sense of isolation== (Q37), which is a huge problem in many countries.
+>
 > - I also looked at the benefits of Zumba. Fifteen million people in 180 countries now regularly take a Zumba class, an ==aerobic== workout based on Latin American dance moves. John Porcari, a professor of exercise and sport science at the University of Wisconsin, analysed a group of women who were ==Zumba regulars== and found that ==a class lasting 40 minutes burns about 370 calories. This is similar to moderately intense exercises== (Q38) like step aerobics or kickboxing.
+>
 > - A study in the American Journal of Health Behavior showed that ==when women with obesity== (Q39) did Zumba three times a week for 16 weeks, they ==lost an average of 1.2 kilos and lowered their percentage of body fat by 1%==. More importantly, the women enjoyed the class so much that ==they made it a habit== (Q40) and continued to attend classes at least once a week – very unusual for an aerobic exercise programme.
+>
 > - Dance is never going to compete with high-intensity workouts when it comes to physical fitness gains, but its ==popularity== is likely to ==keep on== rising because it’s such a fun way to keep fit.

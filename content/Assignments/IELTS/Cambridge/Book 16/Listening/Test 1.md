@@ -1,60 +1,97 @@
 ---
 publish: true
 answers:
-  q1: 1
-  q2: 1
-  q3: 1
-  q4: 1
-  q5: 1
-  q6: 1
-  q7: 1
-  q8: 1
-  q9: 1
-  q10: 1
-  q11: 1
-  q12: 1
-  q13: 1
-  q14: 1
-  q15: 1
-  q16: 1
-  q17: 1
-  q18: 1
-  q19: 1
-  q20: 1
-  q21: 1
-  q22: 1
-  q23: 1
-  q24: 1
-  q25: 1
-  q26: 1
-  q27: 1
-  q28: 1
-  q29: 1
-  q30: 1
-  q31: Zeno
-  q32: personal
-  q33: I do control
-  q34: a different perspective
-  q35: Seneca
-  q36: translated Marcus Aurelius' works
-  q37: Cognitive Behaviour Therapy
-  q38: turning obstacles into opportunity
-  q39: a disciplined and principled character
-  q40: a different perspective
+  q1: egg
+  q2: tower
+  q3: car
+  q4: animals
+  q5: bridge
+  q6: movie
+  q7: decorate
+  q8: Wednesdays
+  q9: Fradstone
+  q10: parking
+  q11: C
+  q12: A
+  q13: B
+  q14: C
+  q15: H
+  q16: C
+  q17: G
+  q18: B
+  q19: I
+  q20: A
+  q21: C
+  q22: E
+  q23: B
+  q24: E
+  q25: D
+  q26: C
+  q27: A
+  q28: H
+  q29: F
+  q30: G
+  q31: practical
+  q32: publication
+  q33: choices
+  q34: negative
+  q35: play
+  q36: capitalism
+  q37: depression
+  q38: logic
+  q39: opportunity
+  q40: practice
 user_answers:
-  q31: zeno
-  q38: hello
-  q39: world
-  q37: wrong
+  q1: 
+  q2: 
+  q3: 
+  q4: 
+  q5: 
+  q6: 
+  q7: 
+  q8: 
+  q9: 
+  q10: 
+  q11: 
+  q12:  
+  q13: 
+  q14: 
+  q15: 
+  q16: 
+  q17: 
+  q18: 
+  q19: 
+  q20: 
+  q21: 
+  q22: 
+  q23: 
+  q24: 
+  q25: 
+  q26: 
+  q27: 
+  q28: 
+  q29: 
+  q30: 
+  q31: 
+  q32: 
+  q33: 
+  q34: 
+  q35: 
+  q36: 
+  q37: 
+  q38: 
+  q39: 
+  q40:
 ---
 # Listening
 ![[ambiguous_quiz]]
 
 ## Part 1
 
+![[Resources/Audio/Cam 16/Test 1 Part 1.mp3|Test 1 Part 1]]
+
 ### Questions 1 - 10
 
-![[Resources/Audio/Cam 16/Test 1 Part 1.mp3|Test 1 Part 1]]
 ![[Resources/Cambridge/16/Test 1 - Part 1.pdf|Test 1 - Part 1]]
 
 ### Answer Sheet
@@ -79,11 +116,56 @@ Question 9: `INPUT[text:user_answers.q9]`
 
 Question 10: `INPUT[text:user_answers.q10]`
 
+### Results
+
 > [!Info]- Part 1 Results
 >
 > ```test-results
 > {"filter": "1,2,3,4,5,6,7,8,9,10"}
 > ```
+
+### Transcript
+
+> [!Info]- Part 1
+>
+> - SARAH: Hello. Children’s Engineering Workshops.
+- FATHER: Oh hello. I wanted some information about the workshops in the school holidays.
+- SARAH: Sure.
+- FATHER: I have two daughters who are interested. The younger one’s Lydia, she’s four — do you take children as young as that?
+- SARAH: Yes, our Tiny Engineers workshop is for four to five-year-olds.
+- FATHER: What sorts of activities do they do?
+- SARAH: All sorts. For example, they work together to design a special cover that goes round an ==egg== (1), so that when it’s inside they can drop it from a height and it doesn’t break. Well, sometimes it does break but that’s part of the fun!
+- FATHER: Right. And Lydia loves building things. Is there any opportunity for her to do that?
+- SARAH: Well, they have a competition to see who can make the highest ==tower== (2). You'd be amazed how high they can go.
+- FATHER: Right.
+- SARAH: But they’re learning all the time as well as having fun. For example, one thing they do is to design and build a ==car== (3) that's attached to a balloon, and the force of the air in that actually powers the car and makes it move along. They go really fast too.
+- SARAH: OK, well, all this sounds perfect.
+- FATHER: Now Carly, that’s my older daughter, has just had her seventh birthday, so presumably she'd be in a different group?
+- SARAH: Yes, she'd be in the Junior Engineers. That's for children from six to eight.
+- FATHER: And do they do the same sorts of activities?
+- SARAH: Some are the same, but a bit more advanced. So they work out how to build model vehicles, things like cars and trucks, but also how to construct ==animals== (4) using the same sorts of material and technique, and then they learn how they can program them and make them move.
+- FATHER: So they learn a bit of coding?
+- SARAH: They do. They pick it up really quickly. We're there to help if they need it, but they learn from one another too.
+- FATHER: Right. And do they have competitions too?
+- SARAH: Yes, with the Junior Engineers, it's to use recycled materials like card and wood to build a ==bridge== (5), and the longest one gets a prize.
+- FATHER: That sounds fun. I wouldn’t mind doing that myself!
+- SARAH: Then they have something a bit different, which is to think up an idea for a five-minute ==movie== (6) and then film it, using special animation software. You'd be amazed what they come up with.
+- FATHER: And of course, that’s something they can put on their phone and take home to show all their friends.
+- SARAH: Exactly. And then they also build a robot in the shape of a human, and they ==decorate== (7) it and program it so that it can move its arms and legs.
+- FATHER: Perfect. So, is it the same price as the Tiny Engineers?
+- SARAH: It's just a bit more: £50 for the five weeks.
+- FATHER: And are the classes on a Monday, too?
+- SARAH: They used to be, but we found it didn’t give our staff enough time to clear up after the first workshop, so we moved them to ==Wednesdays== (8). The classes are held in the morning from ten to eleven.
+- FATHER: OK. That’s better for me actually. And what about the location? Where exactly are the workshops held?
+- SARAH: They're in building 10A — there's a big sign on the door, you can’t miss it, and that’s in ==Fradstone== (9) Industrial Estate.
+- FATHER: Sorry?
+- SARAH: Fradstone — that’s F-R-A-D-S-T-O-N-E.
+- FATHER: And that’s in Grasford, isn’t it?
+- SARAH: Yes, up past the station.
+- FATHER: And will I have any ==parking== (10) problems there?
+- SARAH: No, there’s always plenty available. So would you like to enrol Lydia and Carly now?
+- FATHER: OK.
+- SARAH: So can I have your full name ...
 
 ## Part 2
 
@@ -110,6 +192,21 @@ Question 14: `INPUT[text:user_answers.q14]`
 > ```test-results
 > {"filter": "11,12,13,14"}
 > ```
+
+### Transcript
+
+> [!Info]- Part 2
+>
+> - Good morning, everyone, and welcome to Stevenson’s, one of the country’s major manufacturers of metal goods. Thank you for choosing us for your two weeks of work experience. My name is Julia Simmons, and since the beginning of this year I’ve been the managing director. 
+
+- Stevenson's is quite an old company. Like me, the founder, Ronald Stevenson, went into the steel industry when he left school — that was in 1923. ==He set up this company when he finished his apprenticeship, in 1926== (11), although he actually started making plans two years earlier, in 1924. He was a very determined young man! 
+
+- Stevenson’s long-term plan was to manufacture components for the machine tools industry — although in fact that never came about — and for the automotive industry, that is, cars and lorries. However, there was a delay of five years before that happened, because shortly before the company went into production, ==Stevenson was given the opportunity to make goods for hospitals and other players in the healthcare industry. so that’s what we did for the first five years== (12). 
+
+- Over the years, we’ve expanded the premises considerably — we were lucky that the site is big enough, so ==moving to a new location has never been necessary==. However, the layout is far from ideal for modern machinery and production methods, so ==we intend to carry out major refurbishment of this site over the next five years== (13). 
+
+- I'd better give you some idea of what you'll be doing during your two weeks with us, so you know what to expect. ==Most mornings you'll have a presentation from one of the managers== (14), to learn about their department, starting this morning with research and development. And you'll all spend some time in each department, observing what's going on and talking to people — as long as you don’t stop them from doing their work altogether! In the past, a teacher from your school has come in at the end of each week to find out how the group were getting on, but your school isn’t able to arrange that this year. 
+
 ### Questions 15 - 20
 
 ![[Resources/Cambridge/16/Test 1 - Part 2 - 2.pdf|Test 1 - Part 2 - 2]]
