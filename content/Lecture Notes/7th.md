@@ -1,110 +1,84 @@
 ---
 publish: true
-aliases:
-  - rain cat dog
 ---
-## Grammar
 
-- 
+## Meets the Eye
+
+### Active Listening Skills
+- Stay engaged: maintain eye contact, nod, show understanding
+- Avoid distractions: put phone away, clear desk
+- Take strategic notes while listeninggg
+
+### Note-taking Techniques
+1. Quick Abbreviations
+   - w/ = with
+   - w/o = without
+   - b/c = because
+   - & = and
+   - nums = numbers
+   - → = leads to/results in
+   - ↑ = increase/up
+   - ↓ = decrease/down
+
+2. Map Exercise Strategy
+   - Listen for direction words first (north, south, left, right)
+   - Note landmarks with simple symbols (🏠, 🏫, 🌳)
+   - Draw rough sketch while listening
+   - Confirm route by retracing steps
+
+3. Names & Numbers
+   - Split numbers in chunks (075-331-4422)
+   - Use phonetic alphabet for spelling names
+   - Echo back for confirmation
+
+### Second Brain Method
+1. Digital Note Organization
+   - Use folders by topic/subject
+   - Tag important information
+   - Link related concepts
+   - Regular review and update
+
+2. Capture Methods
+   - Quick notes during listening
+   - Voice recordings
+   - Mind maps for complex topics
+   - Review within 24 hours
+
+### Keywords
+- second brain
+- active listening
+- mnemonics
+- short-term memory
 
 ## Vocabulary
 
 ### Thanh, Trung, Tlinh
-- face the musicp
+- face the music
 - out of sight, out of mind
-- dedicated, well-oriented
-
-- Spelling characters / numbers
+- dedicated
+- well-orientated
 - premise (n)
 - good (n)
-- lorry (n) ~ truck
+- lorry ~ truck
 - vague
-
-
-## Listening
-
-### Active Listening
-
-good morning
-major in manu
-2 weeks of working exp
-
-managing director
-stevenson
-
-john stevenson
-1923
-
-apprenticeship
-
-apprenticeship = internship
-
-good morning, stevenson
-manu metal goods
-2 weeks 
-julia - managing director
-quite old company - johnal - steeling industry - 1923
-
-johnal went into steeling industry when he finished school - 1923
-
-
-setup - apprence 1926
-2 years earlier - 1924
-
-machine tool industry - never
-automotive - car 
-long term plan - machine tools
-
-originally = in the first 5 years
-
-i will briefly help you to orientate = guide yourself around the site.
-
-there is a corridor. left from here
-
-go along that ⇾ door facing you - entrance to the coffee
-	to the main road - tree
-
-you are keen to find - canteen
-
-- how are you getting with 
-birds to based ur project on
-
-finished introductory
-
-handouts - details of books and websites
-	really put off
-	the more i read, the more 
-
-bird park visit
-	rain - no birds
-natural history museum
-	workshop - brainstorm session
-	she was ill
-	last year, not copy
-proposal -
-	he - amend some part
-	notes about description
-		not evalutated
-	she - not too
-	timeline and a mindmap - both
-	hard to explain basis for executiuon plan
-	rationale
-		he not done
-		
-not too precise - outcome
-	more scope to explain later on
-back on proposal - more vague - both
-
-poured with rain:
-	rain cats and dogs
-
+- manufacture
+- steel
+- metal
+- metabolism
+- apprenticeship
+- industry
+- automotive
+- keen to
+- handout
+- put off sth
+- brainstorm
+- rationale
+- morale
+- poured with rain
+- vague
 - supplement (n)
 - resort to (v)
 - self-awareness
 - mnemonics
-	- problem-solution thinking
-
-- short-term memory
-- long-term memory
 
 
