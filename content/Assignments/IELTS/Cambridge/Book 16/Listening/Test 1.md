@@ -84,6 +84,7 @@ user_answers:
   q40:
 ---
 # Listening
+![[ambiguous_quiz]]
 
 ## Part 1
 

@@ -237,7 +237,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                       value: `<iframe src="${fp}" class="pdf"></iframe>`,
                     }
                   }
-                  
+
                   const ext: string = path.extname(fp).toLowerCase()
                   const url = slugifyFilePath(fp as FilePath)
                   if ([".png", ".jpg", ".jpeg", ".gif", ".bmp", ".svg", ".webp"].includes(ext)) {
@@ -278,9 +278,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     return {
                       type: "html",
                       data: { hProperties: { transclude: true } },
-                      value: `<blockquote class="transclude" data-url="${url}" data-block="${block}" data-embed-alias="${alias}"><a href="${
-                        url + anchor
-                      }" class="transclude-inner">Transclude of ${url}${block}</a></blockquote>`,
+                      value: `<blockquote class="transclude" data-url="${url}" data-block="${block}" data-embed-alias="${alias}"><a href="${url + anchor
+                        }" class="transclude-inner">Transclude of ${url}${block}</a></blockquote>`,
                     }
                   }
 
@@ -413,7 +412,15 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         plugins.push(() => {
           return (tree: Root, _file) => {
             visit(tree, "image", (node, index, parent) => {
-              if (parent && index != undefined && audioExtensionRegex.test(node.url)) {
+              if (parent && index != undefined &&
+                (audioExtensionRegex.test(node.url) ||
+                  node.url.toLowerCase().includes('.mp3') ||
+                  node.url.toLowerCase().includes('.wav') ||
+                  node.url.toLowerCase().includes('.m4a') ||
+                  node.url.toLowerCase().includes('.ogg') ||
+                  node.url.toLowerCase().includes('.3gp') ||
+                  node.url.toLowerCase().includes('.flac'))) {
+
                 const newNode: Html = {
                   type: "html",
                   value: `<audio controls src="${node.url}"></audio>`,

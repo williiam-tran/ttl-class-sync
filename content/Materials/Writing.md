@@ -1,0 +1,3 @@
+- [Writing task 1](https://docs.google.com/document/d/1t6hACkp0fF75ul7dLVF6AM54JFI2oOcp/edit)
+- [Writing task 2](https://docs.google.com/document/d/1ITGyysEEtB72Gkp3sT2FcSoqUZbizq8x/edit)
+- [Key](https://docs.google.com/document/d/1dsIJjEgyPvH-Y6QkjAaHKviJhUd5dSowskx74_kWTHw/edit?tab=t.0) 
